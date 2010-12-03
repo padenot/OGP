@@ -63,7 +63,4 @@ Définition des équipes
 ===============
 Travail à faire
 ===============
-* Équipe marketing
-    * Définir une ligne visuelle pour la gamme de produits
-    * 
-
+Graphe d'ordonnancement du projet (utilisé comme liste de tâches) :
