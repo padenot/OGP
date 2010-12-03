@@ -1,0 +1,39 @@
+digraph tasks {
+    node [shape=record]
+    nomFamilleProd [label="Nomenclature familles de production"]
+    nom [label="Nomenclature"]
+    nouvMoyProd [label="Détermination des nouveaux moyens de production"]
+    nomCom [label="Nomenclature commerciale"]
+    capProd [label="Capacité de production"]
+    fourn [label="Choix des fournisseurs"]
+    log [label="Determination des partenaires logistiques"]
+    methApprod [label="Détermination des méthodes d'approvisionnement"]
+    gamProd [label="Détermination des gammes de production"]
+    pic [label="Plan industriel et commercial"]
+    calcCharge [label="Calcul de charge global"]
+    chgtDimension [label="Changement de dimension de l'entreprise ?"]
+    cible [label="Cible visée par le produit"]
+    site [label="Site Web e-commerce"]
+    package [label="Packaging"]
+    mockups [label="Vues prévisionnelles"]
+    descDet [label="Description détaillée du produit"]
+    etudeConc [label="Étude concurentielle"]
+    prevVente [label="Prévisions de ventes"]
+    listDenom [label="Liste dénomination des articles"]
+    lieuProd [label="Lieu de production, de stockage"]
+
+    nom -> nouvMoyProd -> capProd -> methApprod -> gamProd ->
+    pic -> calcCharge -> chgtDimension
+    nom -> nomFamilleProd
+    nom -> nomCom
+    nom -> listDenom
+    log->lieuProd
+    cible -> lieuProd
+    cible -> site
+    cible ->package -> mockups
+    cible -> descDet -> mockups
+    cible -> etudeConc -> prevVente
+    prevVente-> pic
+    cible -> methApprod
+    fourn -> capProd
+}
