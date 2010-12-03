@@ -1,0 +1,69 @@
+========================================
+Projet Picaso : définition de l'activité
+========================================
+
+:Cible: classe de population aisée, aimant la technologie.
+:Produit: Composants pour construire un intérieur modulaire.
+
+Idée générale du projet
+=======================
+- Pavé, qu'on assemble pour former des blocs : de rangement, pour cuisine, pour accrocher une télé, pour placer un lave vaisselle/linge.
+- Carré de sustentation magnétique (variante : des roues pour des personnes moins riches)
+- Accessoires : micros, caméras pour commande vocale, etc. (probablement sous traité).
+
+Activité et produits vendus
+===========================
+On achète des planches, on découpe, puis on fait la finition (chanfreinage,
+vernis, peinture, etc.).
+Possibilité pour le client de configurer son intérieur : différentes essences
+de bois, couleurs, finition (brillant, mat, etc.), à partir d'un catalogue
+présentant différentes combinaisons de teintes, finition, etc.
+Il peut ensuite, à partir des éléments présents dans le catalogue, se
+construire des éléments.
+
+Exemple
+-------
+Pour une table, il peut choisir la taille du plateau, et le type de plateau
+(epaisseur/taille/essence), parmis une dizaine de combinaison
+couleurs/finition/chanfreinage).
+
+Début de nomenclature
+=====================
+Produits achetés
+----------------
+- Planches de différentes essences
+- Blocs de sustentation magnétique
+- Roulettes
+- Système de fixation
+- Autres matériaux (platique, plexiglas, marbre, etc.).
+
+Produits fabriqués
+------------------
+- Des plateaux prêt à l'emploi (peints, vernis, chanfreinés, avec les emplacements pour fixer les blocs de sustentation magnétique, etc.).
+
+Produits vendu
+--------------
+- Kits personnalisable (kit table, kit étagère, kit meuble de cuisine, kit table de nuit).
+- Élements à l'unité, pour compléter une solution existence.
+
+
+======================
+Définition des équipes
+======================
+* Équipe marketing :
+    * Paul
+    * Martin
+    * Monica
+* Équipe méthodes :
+    * Étienne
+    * Yoann
+    * Maxime
+    * Rémi
+
+===============
+Travail à faire
+===============
+* Équipe marketing
+    * Définir une ligne visuelle pour la gamme de produits
+    * 
+
