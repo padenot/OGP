@@ -1,0 +1,31 @@
+digraph
+{
+// Noeuds --------------------------------------------------
+	node[shape=box]
+
+	// Fixations
+	kitFixations [label="Kit de fixation"]
+	fixationsAppoint [label="Kit fixations d'appoint"]
+	fixationsStructure [label="Kit fixations structurelles"]
+
+	// Variantes
+	fixationsX2 [label="Kit fixations hauteur double"]
+	fixationsX3 [label="Kit fixations hauteur triple"]
+	fixationsX4 [label="Kit fixations hauteur quadruple"]
+
+	fixationsAppointReelles [label="Kit fixations réelles"]
+	fixationsAppointFausses [label="Kit bouche-trou"]
+
+// Arcs --------------------------------------------------
+	// Kit
+	kitFixations -> fixationsAppoint [label=">= 2"]
+	kitFixations -> fixationsStructure [label=">= 0"]
+
+	// Variantes 
+	fixationsStructure -> fixationsX2 [style=dashed]
+	fixationsStructure -> fixationsX3 [style=dashed]
+	fixationsStructure -> fixationsX4 [style=dashed]
+
+	fixationsAppoint -> fixationsAppointFausses [style=dashed]
+	fixationsAppoint -> fixationsAppointReelles [style=dashed]
+}

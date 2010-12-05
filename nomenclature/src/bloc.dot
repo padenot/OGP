@@ -1,70 +1,32 @@
 digraph
 {
-// Noeuds
+// Noeuds --------------------------------------------------
 	node[shape=box]
-	blocStd [label="Kit bloc standard"]
 
-	finition [label="Finition"]
-	vernisMat [label="Vernis mat"]
-	vernisBrillant [label="Vernis brillant"]
-	peinture [label="Peinture"]
+	// Produits finis
+	blocX1 [label="Kit bloc x1"]
+	blocX2 [label="Kit bloc x2"]
+	blocX4 [label="Kit bloc x4"]
 
-	plancheCote [label="Planche côté"]
-	plancheCoteFini [label="Planche côté finie"]
-	plancheHautBas [label="Planche dessus/dessous"]
-	plancheHautBasFini [label="Planche dessus/dessous finie"]
-	plancheArriere [label="Planche arrière"]
-	plancheArriereFini [label="Planche arrière finie"]
-	porte [label="Porte"]
-	porteFini [label="Porte finie"]
+	// Planches
+	plancheT3 [label="Planche horiz. 160x40cm"]
+	plancheT2 [label="Planche horiz. 80x40cm"]
+	plancheT1 [label="Planche horiz. 40x40cm"]
+	plancheT0 [label="Planche vert. 38x40cm"]
 
-	planche40x40 [label="Planche 40x40cm"]
-	planche40x20 [label="Planche 40x20cm"]
+	// Fixations
+	kitFixations [label="Kit de fixation"]
 
-	mpPlastique [label="Plastique"]
-	mpHetre [label="Hêtre"]
-	mpFrene [label="Frêne"]
-	mpChene [label="Chêne"]
-	fixations [label="Fixations"]
+// Arcs --------------------------------------------------
+	blocX1 -> plancheT0 [label="2"]
+	blocX1 -> plancheT1 [label="2"]
+	blocX1 -> kitFixations
 
-// Arcs
-	// Formation du kit
-	blocStd -> plancheCoteFini [label="2"]
-	blocStd -> plancheHautBasFini
-	blocStd -> plancheArriereFini
-	blocStd -> porteFini
-	blocStd -> fixations
+	blocX2 -> plancheT0 [label="2 ou 3"]
+	blocX2 -> plancheT2 [label="2"]
+	blocX1 -> kitFixations
 
-	// Finition
-	plancheArriereFini -> plancheArriere
-	plancheArriereFini -> finition
-	plancheHautBasFini -> plancheHautBas
-	plancheHautBasFini -> finition
-	plancheCoteFini -> plancheCote
-	plancheCoteFini -> finition
-	porteFini -> porte
-	porteFini -> finition
-
-	finition -> vernisMat [style=dotted]
-	finition -> vernisBrillant [style=dotted]
-	finition -> peinture [style=dotted]
-
-	// Transformation des planches
-	plancheCote -> planche40x40 [style=dotted]
-	plancheCote -> planche40x20 [style=dotted]
-	plancheHautBas -> planche40x40 [style=dotted]
-	plancheHautBas -> planche40x20 [style=dotted]
-	plancheArriere -> planche40x40
-	porte -> planche40x40
-
-	// Création des planches
-	planche40x40 -> mpPlastique [style=dotted]
-	planche40x40 -> mpHetre [style=dotted]
-	planche40x40 -> mpFrene [style=dotted]
-	planche40x40 -> mpChene [style=dotted]
-
-	planche40x20 -> mpPlastique [style=dotted]
-	planche40x20 -> mpHetre [style=dotted]
-	planche40x20 -> mpFrene [style=dotted]
-	planche40x20 -> mpChene [style=dotted]
+	blocX4 -> plancheT0 [label="2 à 4"]
+	blocX4 -> plancheT3 [label="2"]
+	blocX1 -> kitFixations
 }
