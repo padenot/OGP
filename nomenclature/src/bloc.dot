@@ -4,15 +4,15 @@ digraph
 	node[shape=box]
 
 	// Produits finis
-	blocX1 [label="Kit bloc x1"]
-	blocX2 [label="Kit bloc x2"]
-	blocX4 [label="Kit bloc x4"]
+	blocX1 [label="KBLOC1"]
+	blocX2 [label="KBLOC2"]
+	blocX4 [label="KBLOC4"]
 
 	// Planches
-	plancheT3 [label="Planche horiz. 160x40cm"]
-	plancheT2 [label="Planche horiz. 80x40cm"]
-	plancheT1 [label="Planche horiz. 40x40cm"]
-	plancheT0 [label="Planche vert. 38x40cm"]
+	plancheT3 [label="PH040x40"]
+	plancheT2 [label="PH040x40"]
+	plancheT1 [label="PH040x40"]
+	plancheT0 [label="PV038x40"]
 
 	// Fixations
 	kitFixations [label="Kit de fixation"]
@@ -24,9 +24,9 @@ digraph
 
 	blocX2 -> plancheT0 [label="2 ou 3"]
 	blocX2 -> plancheT2 [label="2"]
-	blocX1 -> kitFixations
+	blocX2 -> kitFixations
 
 	blocX4 -> plancheT0 [label="2 à 4"]
 	blocX4 -> plancheT3 [label="2"]
-	blocX1 -> kitFixations
+	blocX4 -> kitFixations
 }

@@ -1,82 +1,14 @@
-========================================
-Projet Picaso : définition de l'activité
-========================================
+===================================================================
+Organisation et gestion de production
+Étude de l'extension de la gamme de produits de l'entreprise Picaso
+===================================================================
 
-:Cible: classe de population aisée, aimant la technologie.
-:Produit: Composants pour construire un intérieur modulaire.
+============
+Introduction
+============
+Nous sommes en 2040 et la surpopulation a conduit l'être humain à exploiter tout l'espace nécessaire. En même temps que la densité de population augmentait, la taille des appartement diminuait. La technologie quant à elle a continué d'évoluer et la découverte de nouveaux procédés de fabrication a rendu certains produits comme les blocs de sustentation magnétique très bon marché. Cependant, avec la hausse de prix du pétrole, le plastique est devenue une matière première de luxe et nous assistons à un retour à des matériaux comme le bois.
 
-Idée générale du projet
-=======================
-- Pavé, qu'on assemble pour former des blocs : de rangement, pour cuisine, pour accrocher une télé, pour placer un lave vaisselle/linge.
-- Carré de sustentation magnétique (variante : des roues pour des personnes moins riches)
-- Accessoires : micros, caméras pour commande vocale, etc. (probablement sous traité).
-
-Activité et produits vendus
-===========================
-On achète des planches, on découpe, puis on fait la finition (chanfreinage,
-vernis, peinture, etc.).
-Possibilité pour le client de configurer son intérieur : différentes essences
-de bois, couleurs, finition (brillant, mat, etc.), à partir d'un catalogue
-présentant différentes combinaisons de teintes, finition, etc.
-Il peut ensuite, à partir des éléments présents dans le catalogue, se
-construire des éléments.
-
-Exemple
--------
-Pour une table, il peut choisir la taille du plateau, et le type de plateau
-(épaisseur/taille/essence), parmi une dizaine de combinaison
-couleurs/finition/chanfreinage).
-
-Nomenclature
-=====================
-Produits achetés
-----------------
-- Planches de différentes essences
-- Blocs de sustentation magnétique
-- Roulettes
-- Système de fixation
-- Autres matériaux (pratique, plexiglas, marbre, etc.).
-
-Produits fabriqués
-------------------
-- Des plateaux prêt à l'emploi (peints, vernis, chanfreinés, avec les emplacements pour fixer les blocs de sustentation magnétique, etc.).
-
-Produits vendu
---------------
-- Kits personnalisable (kit table, kit étagère, kit meuble de cuisine, kit table de nuit).
-- Éléments à l'unité, pour compléter une solution existence.
-
-
-.. image:: nomenclature/bloc.png
-.. image:: nomenclature/fixations.png
-.. image:: nomenclature/planches.png
-
-======================
-Définition des équipes
-======================
-- Équipe marketing :
-    - Paul
-    - Martin
-    - Monica
-- Équipe méthodes :
-    - Étienne
-    - Yoann
-    - Maxime
-    - Rémi
-
-===============
-Travail à faire
-===============
-Graphe d'ordonnancement du projet (utilisé comme liste de tâches) :
-
-.. image:: tasks.png
-   :width: 1800px
-
-=====================
-Ressources multimédia
-=====================
-:Meubles à sustentation: http://www.hoverit.co.uk/profile.html
-:Vidéo présentant une bonne idée d'architecture d'intérieur: http://www.youtube.com/watch?v=hgI5jSC3NwY
+L'entreprise Picaso, débuta son activité après l'ouverture d'une nouvelle usine en 1996, et son activité principale était la fabrication de bibliothèque en bois. Après un 10 ans de succès modéré, l'entreprise a cessé de lancer de nouvelles gammes de produits. Cependant avec le retour en force des meubles en bois, la société a vu ses venter remonter en flèche au début des années 2030 et c'est pourquoi elle souhaite aujourd'hui combiner des compétences vieilles d'un demi siècle dans le traitement et l'usinage du bois, avec des technologies sûres, fonctionnelles, et abordables.
 
 =================
 Dossier marketing
@@ -109,8 +41,8 @@ avec une grande mobilité. En effet, le procédé de sustentation magnétique pe
 meubles pour reconfigurer un intérieur en quelque secondes.
 
 Différentes essences de bois sont proposées, et, les meubles étant parfaitement
-configurable, il existe des configurations pour toutes les bourses du meuble
-pour télévision en plastique bon marché à l'immense armoire en bois massif,
+configurable, il existe des configurations pour toutes les bourses, du meuble
+pour télévision en bois bon marché peint à l'immense armoire en bois massif,
 vernis pour laisser transparaitre la qualité du matériaux.
 
 Ces produits pourront intéresser plusieurs catégories de personnes: 
@@ -128,7 +60,7 @@ rapport aux entreprises concurrentes. Pourtant, la concurrence reste active. Sur
 qui proposent des produits de plus en plus attractifs. 
 Notre projet mise sur la technologie avancée en ce qui concerne la sustentation magnétique. Actuellement sur le marché il y a très peu des concurrents qui 
 commercialisent des meubles à la base de sustentation magnétique. Notre succès reste dans la réactivité de l'entreprise, la qualité et les délais de livraison. 
-De plus, notre entreprise ayant adopté une politique écologique, tous nos produits respectent les normes en vigueur. En effet, la production des plastiques utilisé est équilibrée au niveau production de CO2, et le recyclage est bien sûr pris en compte dans le cycle de vie du produit. Les arbres sont bien évidemment replantés.
+De plus, notre entreprise ayant adopté une politique écologique, tous nos produits respectent les normes en vigueur. En effet, le recyclage est pris en compte dans le cycle de vie du produit. Les arbres sont bien évidemment replantés.
 
 Prévisions de vente
 -------------------
@@ -257,6 +189,9 @@ Dossier des méthodes
 Nomenclature ligne de production
 ================================
 
+.. image:: nomenclature/bloc.png
+.. image:: nomenclature/fixations.png
+.. image:: nomenclature/planches.png
 Postes de charge
 ================
 
