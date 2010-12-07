@@ -1,9 +1,8 @@
-========================================
 Projet Picaso : charges
-========================================
+=======================
 
-Formation des kits blocs
-========================
+Formation des kits blocs (KBLOC1, KBLOC2, KBLOC4)
+------------------------
 
 +----------------------------+------------------+
 | Poste de charge            | Charge (heures)  |
@@ -13,8 +12,8 @@ Formation des kits blocs
 | Conditionnement kits blocs | 0.10             |
 +----------------------------+------------------+
 
-Formation des kits fixations
-============================
+Formation des kits fixations (KFIX)
+----------------------------
 
 +----------------------------------+------------------+
 | Poste de charge                  | Charge (heures)  |
@@ -24,8 +23,10 @@ Formation des kits fixations
 | Conditionnement kits fixations   | 0.05             |
 +----------------------------------+------------------+
 
-Production des éléments standards - bois
-========================================
+Production des éléments standards (PH040x40, PH080x40
+-----------------------------------------------------
+PH160x40, PV038x40 - bois
+-------------------------
 
 +----------------------------+------------------+
 | Poste de charge            | Charge (heures)  |
@@ -37,8 +38,10 @@ Production des éléments standards - bois
 | Finition                   | 0.20             |
 +----------------------------+------------------+
 
-Production des éléments standards - plastique
-=============================================
+Production des éléments standards (PH040x40, PH080x40
+-----------------------------------------------------
+PH160x40, PV038x40 - plastique
+------------------------------
 
 +----------------------------+------------------+
 | Poste de charge            | Charge (heures)  |

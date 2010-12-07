@@ -1,0 +1,218 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+3 0 obj
+% Page dictionary
+<< /Contents 7 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 6 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R4': class PDFCatalog 
+4 0 obj
+% Document Root
+<< /Outlines 8 0 R
+ /PageLabels 9 0 R
+ /PageMode /UseNone
+ /Pages 6 0 R
+ /Type /Catalog >>
+endobj
+% 'R5': class PDFInfo 
+5 0 obj
+<< /Author ()
+ /CreationDate (D:20101207105747-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R6': class PDFPages 
+6 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 3 0 R ]
+ /Type /Pages >>
+endobj
+% 'R7': class PDFStream 
+7 0 obj
+% page stream
+<< /Length 1977 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 759.0236 cm
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 66 469.8898 -6 re f*
+1 1 1 rg
+n 0 60 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -6 re f*
+1 1 1 rg
+n 0 48 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 42 469.8898 -6 re f*
+1 1 1 rg
+n 0 36 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -6 re f*
+1 1 1 rg
+n 0 24 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -6 re f*
+1 1 1 rg
+n 0 12 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 6 469.8898 -6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Article) Tj T* ET
+Q
+Q
+q
+1 0 0 1 165.2847 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (S\351quence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 244.927 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Composant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 372.3547 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Coefficient) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (KBLOC1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 165.2847 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (001) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 66 m 469.8898 66 l S
+n 0 60 m 469.8898 60 l S
+n 0 54 m 469.8898 54 l S
+n 0 48 m 469.8898 48 l S
+n 0 42 m 469.8898 42 l S
+n 0 36 m 469.8898 36 l S
+n 0 30 m 469.8898 30 l S
+n 0 24 m 469.8898 24 l S
+n 0 18 m 469.8898 18 l S
+n 0 12 m 469.8898 12 l S
+n 0 6 m 469.8898 6 l S
+n 159.2847 0 m 159.2847 108 l S
+n 238.927 0 m 238.927 108 l S
+n 366.3547 0 m 366.3547 108 l S
+n 0 108 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R8': class PDFOutlines 
+8 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R9': class PDFPageLabels 
+9 0 obj
+% Document Root
+<< /Nums [ 0
+ 10 0 R ] >>
+endobj
+% 'R10': class PDFPageLabel 
+10 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 11
+0000000000 65535 f
+0000000113 00000 n
+0000000209 00000 n
+0000000372 00000 n
+0000000649 00000 n
+0000000803 00000 n
+0000001046 00000 n
+0000001151 00000 n
+0000003227 00000 n
+0000003308 00000 n
+0000003400 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\350\220Ln\346Av\032\317\245+\375\371\260J\330) (\350\220Ln\346Av\032\317\245+\375\371\260J\330)] 
+
+ /Info 5 0 R
+ /Root 4 0 R
+ /Size 11 >>
+startxref
+3447
+%%EOF
