@@ -5,8 +5,7 @@
 % The standard fonts dictionary
 << /F1 2 0 R
  /F2 3 0 R
- /F3 4 0 R
- /F4 5 0 R >>
+ /F3 4 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -28,24 +27,15 @@ endobj
 endobj
 % 'F3': class PDFType1Font 
 4 0 obj
-% Font Times-Roman
-<< /BaseFont /Times-Roman
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
  /Name /F3
  /Subtype /Type1
  /Type /Font >>
 endobj
-% 'F4': class PDFType1Font 
-5 0 obj
-% Font Helvetica-BoldOblique
-<< /BaseFont /Helvetica-BoldOblique
- /Encoding /WinAnsiEncoding
- /Name /F4
- /Subtype /Type1
- /Type /Font >>
-endobj
 % 'FormXob.0586da88ef8172569ffc8a57c3a5c4c1': class PDFImageXObject 
-6 0 obj
+5 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
@@ -60,27 +50,27 @@ Gb"0Wd>jt_$inZRs%iA]GGV<<+9W<"G0YBeD/"M[G"cO+qgJVIzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 endobj
 % 'Page1': class PDFPage 
-7 0 obj
+6 0 obj
 % Page dictionary
-<< /Contents 45 0 R
+<< /Contents 44 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 43 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
  /ImageB
  /ImageC
  /ImageI ]
- /XObject << /FormXob.0586da88ef8172569ffc8a57c3a5c4c1 6 0 R >> >>
+ /XObject << /FormXob.0586da88ef8172569ffc8a57c3a5c4c1 5 0 R >> >>
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
 endobj
 % 'FormXob.484a8a6605f68e2737803af24d33e03e': class PDFImageXObject 
-8 0 obj
+7 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
@@ -95,7 +85,7 @@ Gb"0UiGP\U&-btfs/!'M<iUHJQn]G)0^&AFgCQ/#A,MU659Bk*zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 endobj
 % 'FormXob.5db04634ee13b89912d1acc7ec8e116f': class PDFImageXObject 
-9 0 obj
+8 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
@@ -110,14 +100,14 @@ Gb"0WiGt^+%KOkgs%DP#Hong$$,IH4+N`gElD=m/ZB7SEG2I3<zzzzzzzzzzzzzzzzzzzzzzzzzzz!!!
 
 endobj
 % 'FormXob.b714880fcabf51d5ec4a54b97435478d': class PDFImageXObject 
-10 0 obj
+9 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceRGB
  /Filter [ /ASCII85Decode
  /FlateDecode ]
  /Height 705
  /Length 144825
- /SMask 11 0 R
+ /SMask 10 0 R
  /Subtype /Image
  /Type /XObject
  /Width 2555 >>
@@ -126,7 +116,7 @@ Gb"-VFds2s+91lC`DT?"QQR_'h2Tk=&gAbJ!`C3JdaCZW80]5d+sABY/I4t$82nsJ//u@uA'aU*^\Q]t
 
 endobj
 % 'FormXob.a40bc69119b122c84ce82171e892033e': class PDFImageXObject 
-11 0 obj
+10 0 obj
 << /BitsPerComponent 8
  /ColorSpace /DeviceGray
  /Decode [ 0
@@ -143,7 +133,7 @@ Gb"0;!=]#/!5bE.WG`8*TE"rlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 endobj
 % 'Annot.NUMBER1': class PDFDictionary 
-12 0 obj
+11 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.hoverit.co.uk/profile.html) >>
@@ -151,14 +141,14 @@ endobj
  0
  0 ]
  /Rect [ 153.7323
- 180.7921
+ 204.7921
  526.5827
- 192.7921 ]
+ 216.7921 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER2': class PDFDictionary 
-13 0 obj
+12 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.youtube.com/watch?v=hgI5jSC3NwY) >>
@@ -166,38 +156,38 @@ endobj
  0
  0 ]
  /Rect [ 153.7323
- 153.7921
+ 177.7921
  526.5827
- 165.7921 ]
+ 189.7921 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-14 0 obj
+13 0 obj
 % Page dictionary
-<< /Annots [ 12 0 R
- 13 0 R ]
- /Contents 46 0 R
+<< /Annots [ 11 0 R
+ 12 0 R ]
+ /Contents 45 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 43 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
  /ImageB
  /ImageC
  /ImageI ]
- /XObject << /FormXob.484a8a6605f68e2737803af24d33e03e 8 0 R
- /FormXob.5db04634ee13b89912d1acc7ec8e116f 9 0 R
- /FormXob.b714880fcabf51d5ec4a54b97435478d 10 0 R >> >>
+ /XObject << /FormXob.484a8a6605f68e2737803af24d33e03e 7 0 R
+ /FormXob.5db04634ee13b89912d1acc7ec8e116f 8 0 R
+ /FormXob.b714880fcabf51d5ec4a54b97435478d 9 0 R >> >>
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
 endobj
 % 'Annot.NUMBER3': class PDFDictionary 
-15 0 obj
+14 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.picaso-bois.fr) >>
@@ -212,7 +202,7 @@ endobj
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER4': class PDFDictionary 
-16 0 obj
+15 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.picaso-bois.fr) >>
@@ -227,16 +217,16 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
-17 0 obj
+16 0 obj
 % Page dictionary
-<< /Annots [ 15 0 R
- 16 0 R ]
- /Contents 47 0 R
+<< /Annots [ 14 0 R
+ 15 0 R ]
+ /Contents 46 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 43 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -248,14 +238,14 @@ endobj
  /Type /Page >>
 endobj
 % 'Page4': class PDFPage 
-18 0 obj
+17 0 obj
 % Page dictionary
-<< /Contents 48 0 R
+<< /Contents 47 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 43 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -267,14 +257,14 @@ endobj
  /Type /Page >>
 endobj
 % 'Page5': class PDFPage 
-19 0 obj
+18 0 obj
 % Page dictionary
-<< /Contents 49 0 R
+<< /Contents 48 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 43 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -285,301 +275,301 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R20': class PDFCatalog 
-20 0 obj
+% 'R19': class PDFCatalog 
+19 0 obj
 % Document Root
-<< /Outlines 22 0 R
- /PageLabels 50 0 R
+<< /Outlines 21 0 R
+ /PageLabels 49 0 R
  /PageMode /UseNone
- /Pages 44 0 R
+ /Pages 43 0 R
  /Type /Catalog >>
 endobj
-% 'R21': class PDFInfo 
-21 0 obj
+% 'R20': class PDFInfo 
+20 0 obj
 << /Author ()
- /CreationDate (D:20101206180342-01'00')
+ /CreationDate (D:20101207101835-01'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-% 'R22': class PDFOutlines 
-22 0 obj
+% 'R21': class PDFOutlines 
+21 0 obj
 << /Count 26
- /First 23 0 R
- /Last 38 0 R
+ /First 22 0 R
+ /Last 37 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-23 0 obj
+22 0 obj
 << /Count 7
- /Dest [ 7 0 R
+ /Dest [ 6 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /First 24 0 R
- /Last 27 0 R
- /Next 31 0 R
- /Parent 22 0 R
+ /First 23 0 R
+ /Last 26 0 R
+ /Next 30 0 R
+ /Parent 21 0 R
  /Title (Projet Picaso : d\351finition de l'activit\351) >>
 endobj
 % 'Outline.22.0': class OutlineEntryObject 
-24 0 obj
-<< /Dest [ 7 0 R
+23 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
  690.0236
  0 ]
- /Next 25 0 R
- /Parent 23 0 R
+ /Next 24 0 R
+ /Parent 22 0 R
  /Title (Id\351e g\351n\351rale du projet) >>
 endobj
 % 'Outline.22.1': class OutlineEntryObject 
-25 0 obj
+24 0 obj
 << /Count 1
- /Dest [ 7 0 R
+ /Dest [ 6 0 R
  /XYZ
  62.69291
- 582.0236
+ 588.0236
  0 ]
- /First 26 0 R
- /Last 26 0 R
- /Next 27 0 R
- /Parent 23 0 R
- /Prev 24 0 R
+ /First 25 0 R
+ /Last 25 0 R
+ /Next 26 0 R
+ /Parent 22 0 R
+ /Prev 23 0 R
  /Title (Activit\351 et produits vendus) >>
 endobj
 % 'Outline.23.0': class OutlineEntryObject 
-26 0 obj
-<< /Dest [ 7 0 R
+25 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
- 498.0236
+ 504.0236
  0 ]
- /Parent 25 0 R
+ /Parent 24 0 R
  /Title (Exemple) >>
 endobj
 % 'Outline.22.2': class OutlineEntryObject 
-27 0 obj
+26 0 obj
 << /Count 3
- /Dest [ 7 0 R
+ /Dest [ 6 0 R
  /XYZ
  62.69291
- 441.0236
+ 447.0236
  0 ]
- /First 28 0 R
- /Last 30 0 R
- /Parent 23 0 R
- /Prev 25 0 R
+ /First 27 0 R
+ /Last 29 0 R
+ /Parent 22 0 R
+ /Prev 24 0 R
  /Title (Nomenclature) >>
 endobj
 % 'Outline.24.0': class OutlineEntryObject 
-28 0 obj
-<< /Dest [ 7 0 R
+27 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
- 411.0236
+ 417.0236
  0 ]
- /Next 29 0 R
- /Parent 27 0 R
+ /Next 28 0 R
+ /Parent 26 0 R
  /Title (Produits achet\351s) >>
 endobj
 % 'Outline.24.1': class OutlineEntryObject 
-29 0 obj
-<< /Dest [ 7 0 R
+28 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
- 282.0236
+ 294.0236
  0 ]
- /Next 30 0 R
- /Parent 27 0 R
- /Prev 28 0 R
+ /Next 29 0 R
+ /Parent 26 0 R
+ /Prev 27 0 R
  /Title (Produits fabriqu\351s) >>
 endobj
 % 'Outline.24.2': class OutlineEntryObject 
-30 0 obj
-<< /Dest [ 7 0 R
+29 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
- 213.0236
+ 231.0236
  0 ]
- /Parent 27 0 R
- /Prev 29 0 R
+ /Parent 26 0 R
+ /Prev 28 0 R
  /Title (Produits vendu) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-31 0 obj
-<< /Dest [ 14 0 R
+30 0 obj
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
  623.4236
  0 ]
- /Next 32 0 R
- /Parent 22 0 R
- /Prev 23 0 R
+ /Next 31 0 R
+ /Parent 21 0 R
+ /Prev 22 0 R
  /Title (D\351finition des \351quipes) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-32 0 obj
-<< /Dest [ 14 0 R
+31 0 obj
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
- 392.4236
+ 416.4236
  0 ]
- /Next 33 0 R
- /Parent 22 0 R
- /Prev 31 0 R
+ /Next 32 0 R
+ /Parent 21 0 R
+ /Prev 30 0 R
  /Title (Travail \340 faire) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-33 0 obj
-<< /Dest [ 14 0 R
+32 0 obj
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
- 222.2221
+ 246.2221
  0 ]
- /Next 34 0 R
- /Parent 22 0 R
- /Prev 32 0 R
+ /Next 33 0 R
+ /Parent 21 0 R
+ /Prev 31 0 R
  /Title (Ressources multim\351dia) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-34 0 obj
+33 0 obj
 << /Count 3
- /Dest [ 17 0 R
+ /Dest [ 16 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /First 35 0 R
- /Last 37 0 R
- /Next 38 0 R
- /Parent 22 0 R
- /Prev 33 0 R
+ /First 34 0 R
+ /Last 36 0 R
+ /Next 37 0 R
+ /Parent 21 0 R
+ /Prev 32 0 R
  /Title (Marketing) >>
 endobj
 % 'Outline.25.0': class OutlineEntryObject 
-35 0 obj
-<< /Dest [ 17 0 R
+34 0 obj
+<< /Dest [ 16 0 R
  /XYZ
  62.69291
  732.0236
  0 ]
- /Next 36 0 R
- /Parent 34 0 R
+ /Next 35 0 R
+ /Parent 33 0 R
  /Title (Cible) >>
 endobj
 % 'Outline.25.1': class OutlineEntryObject 
-36 0 obj
-<< /Dest [ 17 0 R
+35 0 obj
+<< /Dest [ 16 0 R
  /XYZ
  62.69291
  486.0236
  0 ]
- /Next 37 0 R
- /Parent 34 0 R
- /Prev 35 0 R
+ /Next 36 0 R
+ /Parent 33 0 R
+ /Prev 34 0 R
  /Title (\311tude Concurrentielle) >>
 endobj
 % 'Outline.25.2': class OutlineEntryObject 
-37 0 obj
-<< /Dest [ 17 0 R
+36 0 obj
+<< /Dest [ 16 0 R
  /XYZ
  62.69291
  354.0236
  0 ]
- /Parent 34 0 R
- /Prev 36 0 R
+ /Parent 33 0 R
+ /Prev 35 0 R
  /Title (Vente) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-38 0 obj
+37 0 obj
 << /Count 5
- /Dest [ 17 0 R
+ /Dest [ 16 0 R
  /XYZ
  62.69291
  234.0236
  0 ]
- /First 39 0 R
- /Last 43 0 R
- /Parent 22 0 R
- /Prev 34 0 R
+ /First 38 0 R
+ /Last 42 0 R
+ /Parent 21 0 R
+ /Prev 33 0 R
  /Title (R\351alisation du site internet) >>
 endobj
 % 'Outline.26.0': class OutlineEntryObject 
-39 0 obj
-<< /Dest [ 18 0 R
+38 0 obj
+<< /Dest [ 17 0 R
  /XYZ
  62.69291
  717.0236
  0 ]
- /Next 40 0 R
- /Parent 38 0 R
+ /Next 39 0 R
+ /Parent 37 0 R
  /Title (L'album de pr\351sentation) >>
 endobj
 % 'Outline.26.1': class OutlineEntryObject 
-40 0 obj
-<< /Dest [ 18 0 R
+39 0 obj
+<< /Dest [ 17 0 R
  /XYZ
  62.69291
- 537.0236
+ 542.0236
  0 ]
- /Next 41 0 R
- /Parent 38 0 R
- /Prev 39 0 R
+ /Next 40 0 R
+ /Parent 37 0 R
+ /Prev 38 0 R
  /Title (La fen\352tre permettant la r\351alisation virtuelle des objets) >>
 endobj
 % 'Outline.26.2': class OutlineEntryObject 
-41 0 obj
-<< /Dest [ 18 0 R
+40 0 obj
+<< /Dest [ 17 0 R
  /XYZ
  62.69291
- 411.0236
+ 416.0236
  0 ]
- /Next 42 0 R
- /Parent 38 0 R
- /Prev 40 0 R
+ /Next 41 0 R
+ /Parent 37 0 R
+ /Prev 39 0 R
  /Title (Le service de SAV) >>
 endobj
 % 'Outline.26.3': class OutlineEntryObject 
-42 0 obj
-<< /Dest [ 18 0 R
+41 0 obj
+<< /Dest [ 17 0 R
  /XYZ
  62.69291
- 321.0236
+ 326.0236
  0 ]
- /Next 43 0 R
- /Parent 38 0 R
- /Prev 41 0 R
+ /Next 42 0 R
+ /Parent 37 0 R
+ /Prev 40 0 R
  /Title (Le catalogue) >>
 endobj
 % 'Outline.26.4': class OutlineEntryObject 
-43 0 obj
-<< /Dest [ 18 0 R
+42 0 obj
+<< /Dest [ 17 0 R
  /XYZ
  62.69291
- 219.0236
+ 224.0236
  0 ]
- /Parent 38 0 R
- /Prev 42 0 R
+ /Parent 37 0 R
+ /Prev 41 0 R
  /Title (La r\351alisation du site internet) >>
 endobj
-% 'R44': class PDFPages 
-44 0 obj
+% 'R43': class PDFPages 
+43 0 obj
 % page tree
 << /Count 5
- /Kids [ 7 0 R
- 14 0 R
+ /Kids [ 6 0 R
+ 13 0 R
+ 16 0 R
  17 0 R
- 18 0 R
- 19 0 R ]
+ 18 0 R ]
  /Type /Pages >>
 endobj
-% 'R45': class PDFStream 
-45 0 obj
+% 'R44': class PDFStream 
+44 0 obj
 % page stream
-<< /Length 7812 >>
+<< /Length 7434 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -594,7 +584,7 @@ Q
 q
 1 0 0 1 62.69291 717.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -615,7 +605,7 @@ Q
 q
 1 0 0 1 62.69291 702.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -646,18 +636,18 @@ q
 1 0 0 1 62.69291 660.0236 cm
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
+1 0 0 1 62.69291 636.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 15 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .429318 Tw (Pav\351, qu'on assemble pour former des blocs : de rangement, pour cuisine, pour accrocher une t\351l\351,) Tj T* 0 Tw (pour placer un lave vaisselle/linge.) Tj T* ET
@@ -670,21 +660,18 @@ q
 1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
-Q
-q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Carr\351 de sustentation magn\351tique \(variante : des roues pour des personnes moins riches\)) Tj T* ET
@@ -697,21 +684,18 @@ q
 1 0 0 1 62.69291 612.0236 cm
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
-Q
-q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Accessoires : micros, cam\351ras pour commande vocale, etc. \(probablement sous trait\351\).) Tj T* ET
@@ -721,68 +705,65 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
-Q
-q
-1 0 0 1 62.69291 564.0236 cm
+1 0 0 1 62.69291 570.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Activit\351 et produits vendus) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 516.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 3.031412 Tw (On ach\350te des planches, on d\351coupe, puis on fait la finition \(chanfreinage, vernis, peinture, etc.\).) Tj T* 0 Tw 2.399269 Tw (Possibilit\351 pour le client de configurer son int\351rieur : diff\351rentes essences de bois, couleurs, finition) Tj T* 0 Tw .872126 Tw (\(brillant, mat, etc.\), \340 partir d'un catalogue pr\351sentant diff\351rentes combinaisons de teintes, finition, etc. Il) Tj T* 0 Tw (peut ensuite, \340 partir des \351l\351ments pr\351sents dans le catalogue, se construire des \351l\351ments.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 483.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 q
-BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Exemple) Tj T* ET
+BT 1 0 0 1 0 6.025 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Exemple) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
+1 0 0 1 62.69291 459.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .95186 Tw (Pour une table, il peut choisir la taille du plateau, et le type de plateau \(\351paisseur/taille/essence\), parmi) Tj T* 0 Tw (une dizaine de combinaison couleurs/finition/chanfreinage\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Nomenclature) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 396.0236 cm
+1 0 0 1 62.69291 402.0236 cm
 q
-BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Produits achet\351s) Tj T* ET
+BT 1 0 0 1 0 6.025 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Produits achet\351s) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 384.0236 cm
+1 0 0 1 62.69291 390.0236 cm
 Q
 q
-1 0 0 1 62.69291 384.0236 cm
+1 0 0 1 62.69291 390.0236 cm
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 378.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Planches de diff\351rentes essences) Tj T* ET
@@ -792,24 +773,21 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 372.0236 cm
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
-Q
-q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 360.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Blocs de sustentation magn\351tique) Tj T* ET
@@ -819,24 +797,21 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 354.0236 cm
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
-Q
-q
-1 0 0 1 62.69291 330.0236 cm
+1 0 0 1 62.69291 342.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Roulettes) Tj T* ET
@@ -846,24 +821,21 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 330.0236 cm
+1 0 0 1 62.69291 336.0236 cm
 Q
 q
-1 0 0 1 62.69291 330.0236 cm
-Q
-q
-1 0 0 1 62.69291 312.0236 cm
+1 0 0 1 62.69291 324.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Syst\350me de fixation) Tj T* ET
@@ -873,24 +845,21 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 312.0236 cm
+1 0 0 1 62.69291 318.0236 cm
 Q
 q
-1 0 0 1 62.69291 312.0236 cm
-Q
-q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 306.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Autres mat\351riaux \(pratique, plexiglas, marbre, etc.\).) Tj T* ET
@@ -900,36 +869,33 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 306.0236 cm
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 279.0236 cm
+q
+BT 1 0 0 1 0 6.025 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Produits fabriqu\351s) Tj T* ET
+Q
 Q
 q
 1 0 0 1 62.69291 267.0236 cm
-q
-BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Produits fabriqu\351s) Tj T* ET
-Q
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
-Q
-q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 243.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 15 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .383555 Tw (Des plateaux pr\352t \340 l'emploi \(peints, vernis, chanfrein\351s, avec les emplacements pour fixer les blocs) Tj T* 0 Tw (de sustentation magn\351tique, etc.\).) Tj T* ET
@@ -939,36 +905,33 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 243.0236 cm
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
-Q
+1 0 0 1 62.69291 216.0236 cm
 q
-1 0 0 1 62.69291 198.0236 cm
-q
-BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Produits vendu) Tj T* ET
+BT 1 0 0 1 0 6.025 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Produits vendu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 186.0236 cm
+1 0 0 1 62.69291 204.0236 cm
 Q
 q
-1 0 0 1 62.69291 186.0236 cm
+1 0 0 1 62.69291 204.0236 cm
 Q
 q
-1 0 0 1 62.69291 168.0236 cm
+1 0 0 1 62.69291 192.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Kits personnalisable \(kit table, kit \351tag\350re, kit meuble de cuisine, kit table de nuit\).) Tj T* ET
@@ -978,24 +941,21 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 168.0236 cm
+1 0 0 1 62.69291 186.0236 cm
 Q
 q
-1 0 0 1 62.69291 168.0236 cm
-Q
-q
-1 0 0 1 62.69291 150.0236 cm
+1 0 0 1 62.69291 174.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (\311l\351ments \340 l'unit\351, pour compl\351ter une solution existence.) Tj T* ET
@@ -1005,13 +965,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 150.0236 cm
+1 0 0 1 62.69291 174.0236 cm
 Q
 q
-1 0 0 1 62.69291 150.0236 cm
-Q
-q
-1 0 0 1 196.3578 100.5836 cm
+1 0 0 1 196.3578 124.5836 cm
 q
 202.56 0 0 49.44 0 0 cm
 /FormXob.0586da88ef8172569ffc8a57c3a5c4c1 Do
@@ -1021,10 +978,10 @@ Q
 endstream
 
 endobj
-% 'R46': class PDFStream 
-46 0 obj
+% 'R45': class PDFStream 
+45 0 obj
 % page stream
-<< /Length 5188 >>
+<< /Length 4968 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1054,47 +1011,47 @@ q
 1 0 0 1 62.69291 590.4236 cm
 Q
 q
-1 0 0 1 62.69291 506.4236 cm
+1 0 0 1 62.69291 521.4236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 69 cm
+1 0 0 1 6 54 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
-0 0 0 rg
-BT /F3 10 Tf 12 TL ET
-q
-1 0 0 1 0 63 cm
+1 0 0 1 23 54 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (\311quipe marketing :) Tj T* ET
 Q
 Q
-BT 1 0 0 1 0 50 Tm  T* ET
 q
-1 0 0 1 10 54 cm
-Q
-q
-1 0 0 1 10 54 cm
-Q
-q
-1 0 0 1 10 36 cm
+1 0 0 1 23 -3 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 44 Tm  T* ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Paul) Tj T* ET
@@ -1104,24 +1061,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 36 cm
+1 0 0 1 20 30 cm
 Q
 q
-1 0 0 1 10 36 cm
-Q
-q
-1 0 0 1 10 18 cm
+1 0 0 1 20 18 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Martin) Tj T* ET
@@ -1131,24 +1085,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 18 cm
+1 0 0 1 20 12 cm
 Q
 q
-1 0 0 1 10 18 cm
-Q
-q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Monica) Tj T* ET
@@ -1158,10 +1109,7 @@ q
 Q
 Q
 q
-1 0 0 1 10 0 cm
-Q
-q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 Q
 q
 Q
@@ -1170,53 +1118,50 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 506.4236 cm
+1 0 0 1 62.69291 515.4236 cm
 Q
 q
-1 0 0 1 62.69291 506.4236 cm
-Q
-q
-1 0 0 1 62.69291 404.4236 cm
+1 0 0 1 62.69291 428.4236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 87 cm
+1 0 0 1 6 72 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
-0 0 0 rg
-BT /F3 10 Tf 12 TL ET
-q
-1 0 0 1 0 81 cm
+1 0 0 1 23 72 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (\311quipe m\351thodes :) Tj T* ET
 Q
 Q
-BT 1 0 0 1 0 68 Tm  T* ET
 q
-1 0 0 1 10 72 cm
-Q
-q
-1 0 0 1 10 72 cm
-Q
-q
-1 0 0 1 10 54 cm
+1 0 0 1 23 -3 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 62 Tm  T* ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (\311tienne) Tj T* ET
@@ -1226,24 +1171,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 54 cm
+1 0 0 1 20 48 cm
 Q
 q
-1 0 0 1 10 54 cm
-Q
-q
-1 0 0 1 10 36 cm
+1 0 0 1 20 36 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Yoann) Tj T* ET
@@ -1253,24 +1195,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 36 cm
+1 0 0 1 20 30 cm
 Q
 q
-1 0 0 1 10 36 cm
-Q
-q
-1 0 0 1 10 18 cm
+1 0 0 1 20 18 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Maxime) Tj T* ET
@@ -1280,24 +1219,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 18 cm
+1 0 0 1 20 12 cm
 Q
 q
-1 0 0 1 10 18 cm
-Q
-q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (R\351mi) Tj T* ET
@@ -1307,10 +1243,7 @@ q
 Q
 Q
 q
-1 0 0 1 10 0 cm
-Q
-q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 Q
 q
 Q
@@ -1319,44 +1252,41 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 404.4236 cm
+1 0 0 1 62.69291 428.4236 cm
 Q
 q
-1 0 0 1 62.69291 404.4236 cm
-Q
-q
-1 0 0 1 62.69291 371.4236 cm
+1 0 0 1 62.69291 395.4236 cm
 q
 BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Travail \340 faire) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 353.4236 cm
+1 0 0 1 62.69291 377.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Graphe d'ordonnancement du projet \(utilis\351 comme liste de t\342ches\) :) Tj T* ET
 Q
 Q
 q
-1 0 0 1 81.6378 234.2221 cm
+1 0 0 1 81.6378 258.2221 cm
 q
 432 0 0 119.2016 0 0 cm
 /FormXob.b714880fcabf51d5ec4a54b97435478d Do
 Q
 Q
 q
-1 0 0 1 62.69291 201.2221 cm
+1 0 0 1 62.69291 225.2221 cm
 q
 BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ressources multim\351dia) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 189.2221 cm
+1 0 0 1 62.69291 213.2221 cm
 Q
 q
-1 0 0 1 62.69291 162.2221 cm
+1 0 0 1 62.69291 186.2221 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -1376,9 +1306,9 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 99.22206 cm
+1 0 0 1 62.69291 123.2221 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
@@ -1401,8 +1331,8 @@ Q
 endstream
 
 endobj
-% 'R47': class PDFStream 
-47 0 obj
+% 'R46': class PDFStream 
+46 0 obj
 % page stream
 << /Length 6100 >>
 stream
@@ -1502,10 +1432,10 @@ Q
 endstream
 
 endobj
-% 'R48': class PDFStream 
-48 0 obj
+% 'R47': class PDFStream 
+47 0 obj
 % page stream
-<< /Length 8217 >>
+<< /Length 8156 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1529,36 +1459,36 @@ BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 3.906651 Tw (Il donnera acc\350s aux diff\
 Q
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
-0 0 0 rg
-BT /F3 10 Tf 12 TL ET
-q
-1 0 0 1 0 81 cm
+1 0 0 1 62.69291 629.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Devront donc y \352tre pr\351sent\351s \340 travers au moins une des images :) Tj T* ET
 Q
 Q
-BT 1 0 0 1 0 68 Tm  T* ET
 q
-1 0 0 1 10 72 cm
-Q
-q
-1 0 0 1 10 72 cm
-Q
-q
-1 0 0 1 10 54 cm
+1 0 0 1 62.69291 554.0236 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 62 Tm  T* ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (tous les bois offerts par la gamme XXX.) Tj T* ET
@@ -1568,24 +1498,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 54 cm
+1 0 0 1 20 48 cm
 Q
 q
-1 0 0 1 10 54 cm
-Q
-q
-1 0 0 1 10 36 cm
+1 0 0 1 20 36 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (toute les planches offerte la gamme XXX.) Tj T* ET
@@ -1595,24 +1522,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 36 cm
+1 0 0 1 20 30 cm
 Q
 q
-1 0 0 1 10 36 cm
-Q
-q
-1 0 0 1 10 18 cm
+1 0 0 1 20 18 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (les 2 largeurs de meubles possible dans la gamme XXX.) Tj T* ET
@@ -1622,24 +1546,21 @@ q
 Q
 Q
 q
-1 0 0 1 10 18 cm
+1 0 0 1 20 12 cm
 Q
 q
-1 0 0 1 10 18 cm
-Q
-q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (les meubles en suspension lors d'un d\351placement \(seulement sur une photographie\).) Tj T* ET
@@ -1649,109 +1570,106 @@ q
 Q
 Q
 q
-1 0 0 1 10 0 cm
-Q
-q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 519.0236 cm
+1 0 0 1 62.69291 524.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (La fen\352tre permettant la r\351alisation virtuelle des objets) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 62.69291 482.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .76528 Tw (Cette fen\352re permettra au client, en cours de navigation sur le site internet, de cr\351er son propre meuble) Tj T* 0 Tw .69332 Tw (de fa\347on virtuelle. Il pourra ainsi placer lui-m\352me les planches o\371 il le souhaite, en choisissant le bois et) Tj T* 0 Tw (les dimensions de chacune d'elles afin de monter petit \340 petit le meuble qui lui convient.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 1.158221 Tw (Lorsque son meuble est r\351alis\351, le client peut ensuite demander un devis de celui-ci qui lui sera fourni) Tj T* 0 Tw 2.118735 Tw (instantan\351ment par le site. Enfin, s'il le souhaite, il pourra commander le meuble en cliquant sur un) Tj T* 0 Tw .015697 Tw (bouton. Apr\350s paiement de celui-ci, une commande num\351rique est envoy\351e \340 PICASO, qui pourra ensuite) Tj T* 0 Tw (la traiter.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Le service de SAV) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 368.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 2.464692 Tw (En cas de non satisfaction du client quant \340 son produit, il pourra demander un retour de celui-ci,) Tj T* 0 Tw (notamment par l'interm\351diaire du service de SAV du site internet.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 333.0236 cm
+1 0 0 1 62.69291 338.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.722651 Tw (Lors d'une demande de retour effectu\351e par l'interm\351diaire du site internet, un coupons de retour est) Tj T* 0 Tw (envoy\351 par PICASO au client par voie postale.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 303.0236 cm
+1 0 0 1 62.69291 308.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Le catalogue) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 266.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 2.539213 Tw (Le catalogue pr\351sentera des photographies de diff\351rents produits r\351alisables par la gamme XXX. Il) Tj T* 0 Tw .735697 Tw (reprendra les photographies de l'album de pr\351sentation et les int\351grera parmis d'autres afin de proposer) Tj T* 0 Tw (un large gamme d'exemple au client.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 231.0236 cm
+1 0 0 1 62.69291 236.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .49284 Tw (Il sera disponible en format PDF, t\351l\351chargeable depuis le site internet, et commandable gratuitement en) Tj T* 0 Tw (remplissant un formulaire, en format papier.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 201.0236 cm
+1 0 0 1 62.69291 206.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (La r\351alisation du site internet) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 81.02362 cm
-0 0 0 rg
-BT /F3 10 Tf 12 TL ET
-q
-1 0 0 1 0 99 cm
+1 0 0 1 62.69291 188.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Afin de r\351aliser le site internet, PICASO a fait faire un devis par 4 soci\351t\351s :) Tj T* ET
 Q
 Q
+q
+1 0 0 1 62.69291 89.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 86 Tm  T* ET
 q
-1 0 0 1 10 90 cm
+1 0 0 1 20 90 cm
 Q
 q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 1 1 1 rg
-n 0 90 459.8898 -18 re f*
+n 0 90 449.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 72 459.8898 -18 re f*
+n 0 72 449.8898 -18 re f*
 1 1 1 rg
-n 0 54 459.8898 -18 re f*
+n 0 54 449.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 36 459.8898 -18 re f*
+n 0 36 449.8898 -18 re f*
 1 1 1 rg
-n 0 18 459.8898 -18 re f*
+n 0 18 449.8898 -18 re f*
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 75 cm
 q
@@ -1760,14 +1678,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Soci\351t\351 contact\351e) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.3925 75 cm
+1 0 0 1 135.5137 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Nombre de jours de travail estim\351s) Tj T* ET
 Q
 Q
 q
-1 0 0 1 389.2415 75 cm
+1 0 0 1 380.9081 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Prix) Tj T* ET
@@ -1781,14 +1699,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ALIKE GROUP) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.3925 57 cm
+1 0 0 1 135.5137 57 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (100 jours) Tj T* ET
 Q
 Q
 q
-1 0 0 1 389.2415 57 cm
+1 0 0 1 380.9081 57 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (260 000\200) Tj T* ET
@@ -1802,14 +1720,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (AS +) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.3925 39 cm
+1 0 0 1 135.5137 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (110 jours) Tj T* ET
 Q
 Q
 q
-1 0 0 1 389.2415 39 cm
+1 0 0 1 380.9081 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (360 000\200) Tj T* ET
@@ -1823,14 +1741,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (GROUPE ARCOLE) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.3925 21 cm
+1 0 0 1 135.5137 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (100 jours) Tj T* ET
 Q
 Q
 q
-1 0 0 1 389.2415 21 cm
+1 0 0 1 380.9081 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (280 000\200) Tj T* ET
@@ -1844,14 +1762,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (SOPRA GROUP) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.3925 3 cm
+1 0 0 1 135.5137 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (80 jours) Tj T* ET
 Q
 Q
 q
-1 0 0 1 389.2415 3 cm
+1 0 0 1 380.9081 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (240 000\200) Tj T* ET
@@ -1862,20 +1780,20 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 72 m 459.8898 72 l S
-n 0 54 m 459.8898 54 l S
-n 0 36 m 459.8898 36 l S
-n 0 18 m 459.8898 18 l S
-n 132.3925 0 m 132.3925 90 l S
-n 383.2415 0 m 383.2415 90 l S
-n 0 90 m 459.8898 90 l S
-n 0 0 m 459.8898 0 l S
+n 0 72 m 449.8898 72 l S
+n 0 54 m 449.8898 54 l S
+n 0 36 m 449.8898 36 l S
+n 0 18 m 449.8898 18 l S
+n 129.5137 0 m 129.5137 90 l S
+n 374.9081 0 m 374.9081 90 l S
+n 0 90 m 449.8898 90 l S
+n 0 0 m 449.8898 0 l S
 n 0 0 m 0 90 l S
-n 459.8898 0 m 459.8898 90 l S
+n 449.8898 0 m 449.8898 90 l S
 Q
 Q
 q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 Q
 q
 Q
@@ -1884,10 +1802,10 @@ Q
 endstream
 
 endobj
-% 'R49': class PDFStream 
-49 0 obj
+% 'R48': class PDFStream 
+48 0 obj
 % page stream
-<< /Length 3617 >>
+<< /Length 3620 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1898,38 +1816,38 @@ BT 1 0 0 1 0 52.82 Tm /F1 10 Tf 12 TL 1.249488 Tw (Apr\350s avoir estim\351 le p
 Q
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
-0 0 0 rg
-BT /F3 10 Tf 12 TL ET
-q
-1 0 0 1 0 135 cm
+1 0 0 1 62.69291 689.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Le devis de 280 000\200 se d\351compose ainsi comme suit :) Tj T* ET
 Q
 Q
+q
+1 0 0 1 62.69291 554.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 122 Tm  T* ET
 q
-1 0 0 1 10 126 cm
+1 0 0 1 20 126 cm
 Q
 q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 1 1 1 rg
-n 0 126 459.8898 -18 re f*
+n 0 126 449.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 108 459.8898 -18 re f*
+n 0 108 449.8898 -18 re f*
 1 1 1 rg
-n 0 90 459.8898 -18 re f*
+n 0 90 449.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 72 459.8898 -18 re f*
+n 0 72 449.8898 -18 re f*
 1 1 1 rg
-n 0 54 459.8898 -18 re f*
+n 0 54 449.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 36 459.8898 -18 re f*
+n 0 36 449.8898 -18 re f*
 1 1 1 rg
-n 0 18 459.8898 -18 re f*
+n 0 18 449.8898 -18 re f*
 0 0 0 rg
-BT /F3 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 111 cm
 q
@@ -1938,14 +1856,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Personnel n\351cessaire) Tj T* ET
 Q
 Q
 q
-1 0 0 1 174.6262 111 cm
+1 0 0 1 170.9596 111 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Nombre de personnes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 335.5877 111 cm
+1 0 0 1 328.421 111 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Co\373t journalier) Tj T* ET
@@ -1959,14 +1877,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Chef de projet) Tj T* ET
 Q
 Q
 q
-1 0 0 1 174.6262 93 cm
+1 0 0 1 170.9596 93 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (1) Tj T* ET
 Q
 Q
 q
-1 0 0 1 335.5877 93 cm
+1 0 0 1 328.421 93 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (950\200) Tj T* ET
@@ -1980,14 +1898,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Expert technique) Tj T* ET
 Q
 Q
 q
-1 0 0 1 174.6262 75 cm
+1 0 0 1 170.9596 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (1) Tj T* ET
 Q
 Q
 q
-1 0 0 1 335.5877 75 cm
+1 0 0 1 328.421 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (750\200) Tj T* ET
@@ -2001,14 +1919,14 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (D\351veloppeur) Tj T* ET
 Q
 Q
 q
-1 0 0 1 174.6262 57 cm
+1 0 0 1 170.9596 57 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2) Tj T* ET
 Q
 Q
 q
-1 0 0 1 335.5877 57 cm
+1 0 0 1 328.421 57 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (550\200) Tj T* ET
@@ -2022,7 +1940,7 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Co\373t total par jour) Tj T* ET
 Q
 Q
 q
-1 0 0 1 335.5877 39 cm
+1 0 0 1 328.421 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2800\200) Tj T* ET
@@ -2036,7 +1954,7 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Nombre de jours total) Tj T* ET
 Q
 Q
 q
-1 0 0 1 335.5877 21 cm
+1 0 0 1 328.421 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (100) Tj T* ET
@@ -2050,7 +1968,7 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Devis) Tj T* ET
 Q
 Q
 q
-1 0 0 1 335.5877 3 cm
+1 0 0 1 328.421 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (280 000\200) Tj T* ET
@@ -2061,22 +1979,22 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 108 m 459.8898 108 l S
-n 0 90 m 459.8898 90 l S
-n 0 72 m 459.8898 72 l S
-n 0 54 m 459.8898 54 l S
-n 0 36 m 459.8898 36 l S
-n 0 18 m 459.8898 18 l S
-n 168.6262 54 m 168.6262 126 l S
-n 329.5877 0 m 329.5877 126 l S
-n 0 126 m 459.8898 126 l S
-n 0 0 m 459.8898 0 l S
+n 0 108 m 449.8898 108 l S
+n 0 90 m 449.8898 90 l S
+n 0 72 m 449.8898 72 l S
+n 0 54 m 449.8898 54 l S
+n 0 36 m 449.8898 36 l S
+n 0 18 m 449.8898 18 l S
+n 164.9596 54 m 164.9596 126 l S
+n 322.421 0 m 322.421 126 l S
+n 0 126 m 449.8898 126 l S
+n 0 0 m 449.8898 0 l S
 n 0 0 m 0 126 l S
-n 459.8898 0 m 459.8898 126 l S
+n 449.8898 0 m 449.8898 126 l S
 Q
 Q
 q
-1 0 0 1 10 0 cm
+1 0 0 1 20 0 cm
 Q
 q
 Q
@@ -2085,116 +2003,115 @@ Q
 endstream
 
 endobj
-% 'R50': class PDFPageLabels 
-50 0 obj
+% 'R49': class PDFPageLabels 
+49 0 obj
 % Document Root
 << /Nums [ 0
- 51 0 R
+ 50 0 R
  1
- 52 0 R
+ 51 0 R
  2
- 53 0 R
+ 52 0 R
  3
- 54 0 R
+ 53 0 R
  4
- 55 0 R ] >>
+ 54 0 R ] >>
+endobj
+% 'R50': class PDFPageLabel 
+50 0 obj
+% None
+<< /S /D
+ /St 1 >>
 endobj
 % 'R51': class PDFPageLabel 
 51 0 obj
 % None
 << /S /D
- /St 1 >>
+ /St 2 >>
 endobj
 % 'R52': class PDFPageLabel 
 52 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 3 >>
 endobj
 % 'R53': class PDFPageLabel 
 53 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 4 >>
 endobj
 % 'R54': class PDFPageLabel 
 54 0 obj
 % None
 << /S /D
- /St 4 >>
-endobj
-% 'R55': class PDFPageLabel 
-55 0 obj
-% None
-<< /S /D
  /St 5 >>
 endobj
 xref
-0 56
+0 55
 0000000000 65535 f
 0000000113 00000 n
-0000000245 00000 n
-0000000410 00000 n
-0000000585 00000 n
-0000000754 00000 n
-0000000984 00000 n
-0000003389 00000 n
-0000003776 00000 n
-0000006320 00000 n
-0000009634 00000 n
-0000154760 00000 n
-0000155506 00000 n
-0000155762 00000 n
-0000156009 00000 n
-0000156499 00000 n
-0000156743 00000 n
-0000156973 00000 n
-0000157283 00000 n
-0000157563 00000 n
-0000157844 00000 n
-0000158003 00000 n
-0000158215 00000 n
-0000158341 00000 n
-0000158592 00000 n
-0000158787 00000 n
-0000159037 00000 n
-0000159192 00000 n
-0000159409 00000 n
-0000159591 00000 n
-0000159790 00000 n
-0000159964 00000 n
-0000160168 00000 n
-0000160362 00000 n
-0000160562 00000 n
-0000160792 00000 n
-0000160961 00000 n
-0000161164 00000 n
-0000161330 00000 n
-0000161567 00000 n
-0000161757 00000 n
-0000161999 00000 n
-0000162195 00000 n
-0000162386 00000 n
-0000162565 00000 n
-0000162708 00000 n
-0000170621 00000 n
-0000175910 00000 n
-0000182111 00000 n
-0000190429 00000 n
-0000194151 00000 n
-0000194296 00000 n
-0000194373 00000 n
-0000194450 00000 n
-0000194527 00000 n
-0000194604 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000803 00000 n
+0000003208 00000 n
+0000003595 00000 n
+0000006139 00000 n
+0000009453 00000 n
+0000154578 00000 n
+0000155324 00000 n
+0000155580 00000 n
+0000155827 00000 n
+0000156316 00000 n
+0000156560 00000 n
+0000156790 00000 n
+0000157100 00000 n
+0000157380 00000 n
+0000157661 00000 n
+0000157820 00000 n
+0000158032 00000 n
+0000158158 00000 n
+0000158409 00000 n
+0000158604 00000 n
+0000158854 00000 n
+0000159009 00000 n
+0000159226 00000 n
+0000159408 00000 n
+0000159607 00000 n
+0000159781 00000 n
+0000159985 00000 n
+0000160179 00000 n
+0000160379 00000 n
+0000160609 00000 n
+0000160778 00000 n
+0000160981 00000 n
+0000161147 00000 n
+0000161384 00000 n
+0000161574 00000 n
+0000161816 00000 n
+0000162012 00000 n
+0000162203 00000 n
+0000162382 00000 n
+0000162525 00000 n
+0000170060 00000 n
+0000175129 00000 n
+0000181330 00000 n
+0000189587 00000 n
+0000193312 00000 n
+0000193457 00000 n
+0000193534 00000 n
+0000193611 00000 n
+0000193688 00000 n
+0000193765 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\350\017,\\c\360[\3302o]h\242\001G\236) (\350\017,\\c\360[\3302o]h\242\001G\236)] 
+ [(\177\327\312\234+\2542I\201&_j\320x\177\252) (\177\327\312\234+\2542I\201&_j\320x\177\252)] 
 
- /Info 21 0 R
- /Root 20 0 R
- /Size 56 >>
+ /Info 20 0 R
+ /Root 19 0 R
+ /Size 55 >>
 startxref
-194651
+193812
 %%EOF
