@@ -24,7 +24,7 @@ construire des éléments.
 Exemple
 -------
 Pour une table, il peut choisir la taille du plateau, et le type de plateau
-(epaisseur/taille/essence), parmis une dizaine de combinaison
+(épaisseur/taille/essence), parmi une dizaine de combinaison
 couleurs/finition/chanfreinage).
 
 Nomenclature
@@ -35,7 +35,7 @@ Produits achetés
 - Blocs de sustentation magnétique
 - Roulettes
 - Système de fixation
-- Autres matériaux (platique, plexiglas, marbre, etc.).
+- Autres matériaux (pratique, plexiglas, marbre, etc.).
 
 Produits fabriqués
 ------------------
@@ -44,7 +44,7 @@ Produits fabriqués
 Produits vendu
 --------------
 - Kits personnalisable (kit table, kit étagère, kit meuble de cuisine, kit table de nuit).
-- Élements à l'unité, pour compléter une solution existence.
+- Éléments à l'unité, pour compléter une solution existence.
 
 
 .. image:: nomenclature/bloc.png
@@ -73,10 +73,10 @@ Graphe d'ordonnancement du projet (utilisé comme liste de tâches) :
    :width: 1800px
 
 =====================
-Ressources multimedia
+Ressources multimédia
 =====================
 :Meubles à sustentation: http://www.hoverit.co.uk/profile.html
-:Vidéo présentant une bonne idée d'architecture d'interieur: http://www.youtube.com/watch?v=hgI5jSC3NwY
+:Vidéo présentant une bonne idée d'architecture d'intérieur: http://www.youtube.com/watch?v=hgI5jSC3NwY
 
 =========
 Marketing
@@ -88,7 +88,7 @@ Cible
 Nos produits sont destinés à une classe de population aisée, aimant la technologie, 
 qui cherche des produits de qualité, innovants, avec une apparence plaisante et surtout 
 avec une grande mobilité. La mobilité de notre produit est assurée sur deux plans: la mobilité du transport du produit 
-(facilement compactée et par conséquent aisément transportable) et la mobilité du produit pendant son utilisation 
+(facilement compacte et par conséquent aisément transportable) et la mobilité du produit pendant son utilisation 
 (sustentation magnétique, roulettes). 
 
 Parmi nos clients de lux, la population nordique sera particulièrement visée car, d'après les statistiques ils sont les plus ouverts 
@@ -99,18 +99,18 @@ mobilité, c'est pourquoi on propose une gamme spéciale des mêmes produits mai
 concentré pourtant autour des produits de la gamme de lux.
 
 Ces produits pourront intéresser plusieurs catégories de personnes: 
-- Les personnes qui doivent déménager souvent (la possibilité de compacter nos produits rend le transport plus facile).
+- Les personnes qui doivent déménager souvent (la possibilité de compacte nos produits rend le transport plus facile).
 - Les personnes vivant dans un logement où la place est réduite : l'intérieur devient modulaire.
-- Les personnes à mobilité réduite (la sustentation magnétique rend les produits déplaçables individuellement)
+- Les personnes à mobilité réduite (la sustentation magnétique rend les produits déplaça blés individuellement)
 
 
 Étude Concurrentielle 
 =====================
-Etant donné que l'entreprise PICASO est implanté sur le marché depuis une grande période de temps, elle a acquis un avantage favorable par
+Étant donné que l'entreprise PICASO est implanté sur le marché depuis une grande période de temps, elle a acquis un avantage favorable par
 rapport aux autres entreprises concurrentes. Pourtant, la concurrence reste acerbe. Sur le marché de la meuble il y a un grand nombre d'entreprises
 qui proposent des produits de plus en plus attractifs. 
-Notre projet mise sur la technologie avancée en ce qui concerne la sustentation magnetique. Actuellement sur le marché il y a très peu des concurrents qui 
-commercialisent des meubles à la base de sustentation magnetique. Notre succès reste dans la réactivité de l'entreprise, la qualité et les delais de livraison. 
+Notre projet mise sur la technologie avancée en ce qui concerne la sustentation magnétique. Actuellement sur le marché il y a très peu des concurrents qui 
+commercialisent des meubles à la base de sustentation magnétique. Notre succès reste dans la réactivité de l'entreprise, la qualité et les délais de livraison. 
 En plus, notre entreprise ayant adopté une politique écologique, tous nos produits respectent les normes en vigueur.
 
 
@@ -120,10 +120,10 @@ Vente
 Nos produits seront commercialisés principalement sur internet mais ils seront aussi disponibles dans les réseaux de vente de nos partenaires. Un des avantages
 de la distribution sur internet est la réduction des coûts de transport. Notre site web, caractérisé par la simplicité, mettra en valeur la qualité de nos produits,
 leur confort et la technologie avancée employée.
-Nos produits pourront être distribués de dex façons: avec ou sans service de montage. La première façon consistera à acheter le produit et un distributeur partenaire le montera.
+Nos produits pourront être distribués de deux façons: avec ou sans service de montage. La première façon consistera à acheter le produit et un distributeur partenaire le montera.
 La deuxième consistera à acheter le produit et le monter individuellement.
 - prix
-- differenciation
+- différenciation
 
 
 ============================
