@@ -126,75 +126,87 @@ La deuxième consistera à acheter le produit et le monter individuellement.
 - différenciation
 
 
-============================
-Réalisation du site internet
-============================
+
+=================
+Dossier marketing
+=================
+
+Description du produit
+======================
+
+Choix des matériaux et des finitions possibles
+==============================================
+
+Gamme de prix
+=============
+
+Stratégie et plan marketing
+===========================
+
+Étude concurrentielle
+--------------------
+
+Prévisions de vente
+-------------------
+
+L'entreprise Picaso
+===================
+
+La distribution
+===============
+
+Moyen de distribution
+---------------------
 
 Aujourd'hui, 85% des recherches d'un produit commençant sur internet, il est nécessaire que la gamme 
-de produits XXX dispose d'une page internet afin d'être promu. 
+de produits Jazz dispose d'une page internet afin d'être promu. 
 
-De plus, XXX s'adressant à une catégorie sociale relativement élevée, elle disposera d'un 
-site internet indépendant du site actuel de l'entreprise http://www.picaso-bois.fr, qui s'adresse quant à 
-lui à la classe moyenne. 
+La gamme étant en rupture avec le type de meuble que fournis normalement Picaso, elle disposera d'un site internet
+à par entière, afin de renforcer l'aspect renouveau et moderne.
 
-Afin de promouvoir le produit XXX, PICASO fera donc développer un site internet dédié à cette gamme de 
+Afin de promouvoir le produit Jazz, PICASO fera donc développer un site internet dédié à cette gamme de 
 produit. Le site http://www.picaso-bois.fr disposera quant à lui d'un lien qui renverra vers ce nouveau site 
 internet. 
 
-
 Le site internet présentera donc plusieurs points :
-- Un album présentant différents exemples de produits de la gamme XXX.
-- Une fenêtre permettant la réalisation virtuelle d'objet de la gamme XXX.
-- Un service de SAV.
+- Un album présentant différents exemples de produits de la gamme Jazz.
+- Une fenêtre permettant la réalisation virtuelle d'objet de la gamme Jazz.
+- Un service de SAV
 - Un catalogue téléchargeable en format PDF.
 
 
-L'album de présentation
-=======================
 
-Il donnera accès aux différents produits réalisables par la gamme XXX à travers une série de photographies
-de meubles. Ces meubes seront montés, intégrés dans des espaces habitables, et présentés dans différentes 
+Premièrement, une galerie donnera accès aux différents produits réalisables par la gamme Jazz à travers une série de photographies
+de meubles. Ces meubles seront montés, intégrés dans des espaces habitables, et présentés dans différentes 
 configurations au sein de ces mêmes espaces habitables afin de présenter l'intérêt du déplacement des meubles.
 
 Devront donc y être présentés à travers au moins une des images :
- - tous les bois offerts par la gamme XXX.
- - toute les planches offerte la gamme XXX.
- - les 2 largeurs de meubles possible dans la gamme XXX.
- - les meubles en suspension lors d'un déplacement (seulement sur une photographie).
+ - Tous les bois offerts par la gamme Jazz.
+ - Toute les planches offerte la gamme Jazz.
+ - Les 2 largeurs de meubles possible dans la gamme Jazz.
+ - Les meubles en suspension lors d'un déplacement (seulement sur une photographie).
  
- 
-La fenêtre permettant la réalisation virtuelle des objets
-=========================================================
-Cette fenêre permettra au client, en cours de navigation sur le site internet, de créer son propre meuble de 
+Ensuite, par le menu, le client, en cours de navigation sur le site internet, pourra créer son propre meuble de 
 façon virtuelle. Il pourra ainsi placer lui-même les planches où il le souhaite, en choisissant le bois et les 
 dimensions de chacune d'elles afin de monter petit à petit le meuble qui lui convient.
 
 Lorsque son meuble est réalisé, le client peut ensuite demander un devis de celui-ci qui lui sera fourni 
 instantanément par le site. Enfin, s'il le souhaite, il pourra commander le meuble en cliquant sur un bouton. 
-Après paiement de celui-ci, une commande numérique est envoyée à PICASO, qui pourra ensuite la traiter.
+Après paiement de celui-ci, une commande numérique est envoyée à Picaso, qui pourra ensuite la traiter.
 
-
-Le service de SAV
-=================
 En cas de non satisfaction du client quant à son produit, il pourra demander un retour de celui-ci, notamment par
 l'intermédiaire du service de SAV du site internet. 
 
 Lors d'une demande de retour effectuée par l'intermédiaire du site internet, un coupons de retour est envoyé par 
-PICASO au client par voie postale. 
+Picaso au client par voie postale. 
 
-
-Le catalogue
-============
-Le catalogue présentera des photographies de différents produits réalisables par la gamme XXX. Il reprendra les 
-photographies de l'album de présentation et les intégrera parmis d'autres afin de proposer un large gamme d'exemple 
+Enfin, le catalogue présentera des photographies de différents produits réalisables par la gamme Jazz. Il reprendra les 
+photographies de l'album de présentation et les intégrera parmi d'autres afin de proposer un large gamme d'exemple 
 au client. 
 
-Il sera disponible en format PDF, téléchargeable depuis le site internet, et commandable gratuitement en remplissant 
-un formulaire, en format papier.
+Il sera disponible en format PDF, téléchargeable depuis le site internet, et pourra s'obtenir gratuitement en format papier 
+en remplissant un formulaire.
 
-
-La réalisation du site internet
-===============================
 
 Afin de réaliser le site internet, PICASO a fait faire un devis par 4 sociétés :
  +-------------------+------------------------------------+-----------+
@@ -206,11 +218,11 @@ Afin de réaliser le site internet, PICASO a fait faire un devis par 4 société
  +-------------------+------------------------------------+-----------+
  | GROUPE ARCOLE     |                          100 jours |  280 000€ |
  +-------------------+------------------------------------+-----------+
- | SOPRA GROUP       |                           80 jours |  240 000€ |
+ | SQLi Group        |                           80 jours |  240 000€ |
  +-------------------+------------------------------------+-----------+
 
 Après avoir estimé le prix de la société AS+ trop élevé et le nombre de jours de travail estimés par la 
-société SOPRA GROUP trop faible, PICASO a contacté les sociétés ALIKE GROUP et GROUPE ARCOLE afin de 
+société SQLi Group trop faible, PICASO a contacté les sociétés ALIKE GROUP et GROUPE ARCOLE afin de 
 rencontrer physiquement les prestataires. La société GROUPE ARCOLE ayant semblée plus à l'écoute des besoins 
 du produit, PICASO a décidé de s'adresser à celle-ci afin de réaliser le site internet. 
 
@@ -231,4 +243,38 @@ Le devis de 280 000€ se décompose ainsi comme suit :
  |                                      Devis |        280 000€ |
  +--------------------------------------------+-----------------+
 
+Les expéditions seront quant à elles assurées par un prestataire technique en
+logistique, qui pourra mettre son expérience et son expertise au service de
+notre entreprise, assurant des délais que seule une entreprise spécialisée peut
+se permettre d'atteindre.
 
+Les contraintes sont qu'un meuble, dès la commande, doit être chez le client en
+deux semaines. Pour ce faire, notre partenaire disposera de plusieurs *hub* de
+livraison.
+Il prendra, de la même manière, en charge l'emballage des commandes clients.
+Le schéma suivant permet de résumer le processus d'une commande client.
+
+.. image:: processAcheminement.png
+
+
+====================
+Dossier des méthodes
+====================
+
+Nomenclature ligne de production
+================================
+
+Postes de charge
+================
+
+Dénomination des articles
+=========================
+
+Nomenclatures
+=============
+
+Approvisionnement
+=================
+
+Planification des charges
+==========================
