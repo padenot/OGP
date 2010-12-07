@@ -78,55 +78,6 @@ Ressources multimédia
 :Meubles à sustentation: http://www.hoverit.co.uk/profile.html
 :Vidéo présentant une bonne idée d'architecture d'intérieur: http://www.youtube.com/watch?v=hgI5jSC3NwY
 
-=========
-Marketing
-=========
-
-Cible 
-=====
-
-Nos produits sont destinés à une classe de population aisée, aimant la technologie, 
-qui cherche des produits de qualité, innovants, avec une apparence plaisante et surtout 
-avec une grande mobilité. La mobilité de notre produit est assurée sur deux plans: la mobilité du transport du produit 
-(facilement compacte et par conséquent aisément transportable) et la mobilité du produit pendant son utilisation 
-(sustentation magnétique, roulettes). 
-
-Parmi nos clients de lux, la population nordique sera particulièrement visée car, d'après les statistiques ils sont les plus ouverts 
-et attirés par les nouveaux designs et ont tendance de dépenser des sommes importantes d'argent pour l'acquisition du meuble hi-tech. 
-
-On ne néglige pas le reste de la la clientèle disposant d'un petit budget qui cherche quand même des produits de qualité ayant une forte 
-mobilité, c'est pourquoi on propose une gamme spéciale des mêmes produits mais avec des roulettes. La commercialisation principale sera 
-concentré pourtant autour des produits de la gamme de lux.
-
-Ces produits pourront intéresser plusieurs catégories de personnes: 
-- Les personnes qui doivent déménager souvent (la possibilité de compacte nos produits rend le transport plus facile).
-- Les personnes vivant dans un logement où la place est réduite : l'intérieur devient modulaire.
-- Les personnes à mobilité réduite (la sustentation magnétique rend les produits déplaça blés individuellement)
-
-
-Étude Concurrentielle 
-=====================
-Étant donné que l'entreprise PICASO est implanté sur le marché depuis une grande période de temps, elle a acquis un avantage favorable par
-rapport aux autres entreprises concurrentes. Pourtant, la concurrence reste acerbe. Sur le marché de la meuble il y a un grand nombre d'entreprises
-qui proposent des produits de plus en plus attractifs. 
-Notre projet mise sur la technologie avancée en ce qui concerne la sustentation magnétique. Actuellement sur le marché il y a très peu des concurrents qui 
-commercialisent des meubles à la base de sustentation magnétique. Notre succès reste dans la réactivité de l'entreprise, la qualité et les délais de livraison. 
-En plus, notre entreprise ayant adopté une politique écologique, tous nos produits respectent les normes en vigueur.
-
-
-Vente
-=====
-
-Nos produits seront commercialisés principalement sur internet mais ils seront aussi disponibles dans les réseaux de vente de nos partenaires. Un des avantages
-de la distribution sur internet est la réduction des coûts de transport. Notre site web, caractérisé par la simplicité, mettra en valeur la qualité de nos produits,
-leur confort et la technologie avancée employée.
-Nos produits pourront être distribués de deux façons: avec ou sans service de montage. La première façon consistera à acheter le produit et un distributeur partenaire le montera.
-La deuxième consistera à acheter le produit et le monter individuellement.
-- prix
-- différenciation
-
-
-
 =================
 Dossier marketing
 =================
@@ -134,23 +85,66 @@ Dossier marketing
 Description du produit
 ======================
 
+Delayed, puisqu'il ne faut rendre le rapport que 8 jours après la présentation.
+
 Choix des matériaux et des finitions possibles
 ==============================================
+
+Recopiage de nomenclature.
 
 Gamme de prix
 =============
 
+Pareil.
+
 Stratégie et plan marketing
 ===========================
 
+Cible du produit
+----------------
+Nos produits sont destinés à une classe de population moyenne, aimant la technologie, 
+qui cherche des produits innovants, avec une apparence plaisante et surtout 
+avec une grande mobilité. En effet, le procédé de sustentation magnétique permet
+à tout un chacun d'avoir un intérieur modulaire, permettant de déplacer les
+meubles pour reconfigurer un intérieur en quelque secondes.
+
+Différentes essences de bois sont proposées, et, les meubles étant parfaitement
+configurable, il existe des configurations pour toutes les bourses du meuble
+pour télévision en plastique bon marché à l'immense armoire en bois massif,
+vernis pour laisser transparaitre la qualité du matériaux.
+
+Ces produits pourront intéresser plusieurs catégories de personnes: 
+- Les personnes vivant dans un logement où la place est réduite : l'intérieur devient modulaire.
+- Les personnes à mobilité réduite (la sustentation magnétique rend les produits déplaçables individuellement)
+- Les personnes aimant avoir un intérieur à la pointe de la technologie, innovant, et en même temps très ergonomique.
+
+
+
 Étude concurrentielle
---------------------
+---------------------
+
+Étant donné que l'entreprise Picaso est implanté sur le marché depuis une grande période de temps, elle a acquis un avantage concurrentiel par
+rapport aux entreprises concurrentes. Pourtant, la concurrence reste active. Sur le marché de la meuble il y a un grand nombre d'entreprises
+qui proposent des produits de plus en plus attractifs. 
+Notre projet mise sur la technologie avancée en ce qui concerne la sustentation magnétique. Actuellement sur le marché il y a très peu des concurrents qui 
+commercialisent des meubles à la base de sustentation magnétique. Notre succès reste dans la réactivité de l'entreprise, la qualité et les délais de livraison. 
+De plus, notre entreprise ayant adopté une politique écologique, tous nos produits respectent les normes en vigueur. En effet, la production des plastiques utilisé est équilibrée au niveau production de CO2, et le recyclage est bien sûr pris en compte dans le cycle de vie du produit. Les arbres sont bien évidemment replantés.
 
 Prévisions de vente
 -------------------
 
+Monica, à toi !
+
 L'entreprise Picaso
 ===================
+
+L'entreprise Picaso, fort d'une longue expérience dans la fabrication de meuble
+(depuis 1990), est gage de qualité. Dans l'optique de conserver l'image de
+marque convoyé par l'enseigne, la localisation d'origine sera conservée, à
+savoir Ayze en Haute-Savoie. Au niveau communication, bien qu'une nouvelle
+charte graphique sera crée pour la gamme Jazz, elle reprendra, dans les grandes
+lignes, les tendances que l'on trouve dans les autres gammes, afin d'augmenter
+la cohérence globale de la marque, et de ne pas perdre le consommateur.
 
 La distribution
 ===============
@@ -173,7 +167,6 @@ Le site internet présentera donc plusieurs points :
 - Une fenêtre permettant la réalisation virtuelle d'objet de la gamme Jazz.
 - Un service de SAV
 - Un catalogue téléchargeable en format PDF.
-
 
 
 Premièrement, une galerie donnera accès aux différents produits réalisables par la gamme Jazz à travers une série de photographies
