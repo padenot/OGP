@@ -6,7 +6,8 @@
 << /F1 2 0 R
  /F2 3 0 R
  /F3 4 0 R
- /F4 5 0 R >>
+ /F4 5 0 R
+ /F5 18 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -62,12 +63,12 @@ endobj
 % 'Page1': class PDFPage 
 7 0 obj
 % Page dictionary
-<< /Contents 45 0 R
+<< /Contents 57 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 56 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -177,12 +178,12 @@ endobj
 % Page dictionary
 << /Annots [ 12 0 R
  13 0 R ]
- /Contents 46 0 R
+ /Contents 58 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 56 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -196,22 +197,26 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
+% 'Page3': class PDFPage 
 15 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.picaso-bois.fr) >>
- /Border [ 0
+% Page dictionary
+<< /Contents 59 0 R
+ /MediaBox [ 0
  0
- 0 ]
- /Rect [ 253.0885
- 156.5936
- 362.0085
- 168.5936 ]
- /Subtype /Link
- /Type /Annot >>
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
+% 'Annot.NUMBER3': class PDFDictionary 
 16 0 obj
 << /A << /S /URI
  /Type /Action
@@ -220,23 +225,22 @@ endobj
  0
  0 ]
  /Rect [ 132.5069
- 114.5936
+ 633.5936
  244.6882
- 126.5936 ]
+ 645.5936 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page3': class PDFPage 
+% 'Page4': class PDFPage 
 17 0 obj
 % Page dictionary
-<< /Annots [ 15 0 R
- 16 0 R ]
- /Contents 47 0 R
+<< /Annots [ 16 0 R ]
+ /Contents 60 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 56 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -247,34 +251,24 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Page4': class PDFPage 
+% 'F5': class PDFType1Font 
 18 0 obj
-% Page dictionary
-<< /Contents 48 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 44 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
 endobj
 % 'Page5': class PDFPage 
 19 0 obj
 % Page dictionary
-<< /Contents 49 0 R
+<< /Contents 61 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 44 0 R
+ /Parent 56 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -285,299 +279,471 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R20': class PDFCatalog 
+% 'FormXob.4ffabe6081df5a3115206cebeae8e2d9': class PDFImageXObject 
 20 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 1052
+ /Length 16404
+ /SMask 21 0 R
+ /Subtype /Image
+ /Type /XObject
+ /Width 744 >>
+stream
+Gb"0WH'f<-fe6`F0d*-@M@g,e&l:9>)F)Jd6%e+07DUYF;+XI.Vu\d8L3qDU$GhO-1]a@k$ZR>G(cRC(#RCVN&iE,]PYI5[k.G?lZ;61*EL<?^W\3`:O1B#*X1FqkH'_l>eT=klzzzzzzzzzzzzzzzzz!'j79W0DB=!!(P`:dob[7BIbn'EeEc\Z2@"C0Zm*!.`"iFb"&*2=&I<lT6XrF[sg_!2r98Vi13OQtfOA3]@$=aPR3`Q?=6\WE@d"QjW#5!._X]ICcB!&X<^6"TTs,FWPJ#RQ]^I!$Da%$5i(;,ZV0CeQ](W#lmdLC2tGnRKG2Xe`IXp"TYK*lV&N<297@bD77_A'6l\@zzzz!!$i.Wh2-RRBaJeN6[0R?X83!$%lPU8P+2QH$gIQrL.hNOI)nkQ^*gN5"cTQ%L[(])H742iTH4_mWdl^B+>qCo]8][q9<j'39,r-*BN7>8@h^O@(FkC\T?rj]mJXV`uV@sp=cFt13;U%n`.Y#*^'5idnao>^:b!aA69](_OJnAN>dM\Z=_@MWZ-VV\))FH_hJVqpSrqN&8Ee3hG'It^#tu6P-1WH<j,hXdnMc<ZH4FS/<E$Bqm*p0hY[9GhlhLPGM[UXO$31b/M/gm;CnR)IF(7brT?EF8\13SHg@fC3d:"n_ZEsR]bPD3U;acjo4kT0S2kYZ2fJ+Y*(;#chQ9th>.AN[d^:@\_[etJd\M``!b=cBrSFJMUM@Nd!tRNPW]uA-e542E)3].c8K'd?\./mW6Z`UI=0GpL]&QXX*T\:].2Ol1;boP6ksCQb]mFrD(<D$i?.bp55.[FLrpc&!oF?nGMjikndA)mX,^I0%h=#Gf+9S@3m)'>ugs@)!H063c+=S*ad93ef-!a(4-;U57_ZC\e`j+[NS(D,i2/Cc"C!spR8=G8+fs524UoR%?Pq,pbiu?n&@=_l(`j%.%]$tWTNZC2"#"c.aP*57h]-glQ>'0&Z8V[J,>o:W!]<Ld2CdWDO\oap$KdPnR91odUjH-1<8;gbsfgUZ"MHt>HHh-7>)nP(1YJ0:D3@Q>b`5sSr#"7/)m^qrEclIlO*@eO[EcOgCg]D"OoP($]mBk?JA]ni&f9.FQG1^5YY[dVH#5OHeioCjt)kt4sQX4uPc$/F,\$(E9UgG9dbF1;((,'!!R)c3I\HU'5kbuZDDnJr2NF."rV36uS"!Hi0R,%8X47E+Ba$4It\omW,c$T*HOZVlTfk$LUFO<Nc@IDp]s8(?^lFW"Y-+<lB&`o<Q2r4,8^\r",RtZ'NK*Mp)fW_(L,bc\$-F\*^e>[Z\hOf;sq2,n;`f1oRqU'p+5$1[-mJ>!Z^KaY3ofu"gH";>in[7En+A9S%(4CU&p[6kTqo>]U]`%QY#9J+toS"qf5Dhc.Em(OeZU/l'2JlW8:&k4kYJ0kuYV:M%oVkceL(4"Ol*KQEHiEDNIu?4P0O_h8\)$c=P>;th]TV%OA5@=*-2cP-M_.8G\[^'R#9C2Ik*tOO9"IKjWPTWnfl"FhN]QI(8WtL'[Jn<!YPc?mILuX2kXsTJ^\s-NhH3YNO*FBg2EgH7e%0Ycd]$0CKaS^JGBl2h$]mph^(O=98Ymi<\.G"$;jc>qA]g7!m6aZ`gU:tfhS!t2-H[nTZ1CBTk07\iUrc7_]bG=&^]=[Vd.QmRP$<I\P>s#GL&?Fpfs>>KJ,fI;*Hb>,H23OF6RpZP>Fp30\Y`)jhYNMAEN`]^$<(8bg]D9pj;*VV!HQAJ.9#ZIo?R-"6%]BLDr89<?+K'R-_>#!U;a<F6I`!do&A^G+S4Y0MHU%$bBr]k\&ftdbaUOE[q>-f_<]8rn%\mOfQbf<7F@Fqh07c/Z"*+-]K!G*a?7"eU/mZQ6q85:7#1tigi:A%%m>%!V3c)-eQ1'0Qs=O>pYL7@gMOEDhgIH;32E"*,=`4`33[]"jtgYqXRG_#j;&m0j;*VV@<0Pk<NC#LmC$?7H6%+S6.]InrL7`>)6JDV\`]Q1lD_!AB?m#WN]H7/dnU:o?[hf^s8Ms-4Rg,tBl[DnL>2i@T%lY0oDM'sEXRtSEXP=3C0Qs-ioCjtoAg[E8;$qC+h.A.\HU'/#'hW@UHn42Pa$:UeuerJ:2uD#J8E;>?7=$m5clnZf'Kfr?E:j/;af[^+S2=i5NsYjVUc)+c4e1=/O8I?/JO=P>fj+IPMC3?PugHTc<T_s(*N50(5c:djHc9Q]'7m\T3^?VO$EVg4WVs2mBk@1]'HL[]L045a?7"eU/iYPji]<l>eYT2=BN4\n]I+IQS)Q)A]g7A:f7%FF!F/5fR*)#(G8r0D7j>sMK%n:\T?fCLR!c5/XeD(7T]r2<`FP+s-u)jep<Q>hg@5k2-@.pajEU#IIk]BLPO'ZrZ&HPa?7"eU/iYPjnRks^\dH2_nps0*dHL`f<oADW_8[2>A^du`/,-T:S,5TG2"lgd\KBo*as[-'.1)(h7?=M2IXk8`uZ12S";ci??=@Kc'pXVpY9g3Ie_kHO$'^pp[3CpZ,^IGD:Z17hrl4)H/t*l9DeGM2r/T)9.mb#XSLDMI^R-1>D.>B1h]^Wp#jCJ5j$0?'X^!J/KqCCT0GOkT6]ReB:X0G=EsJc8,(\LT<PPGp$/)lhDk_.YV::hh!]^d]-4=V<9BLTD;.gX5!:HPgeq$Jo#)2;K]Nbl^@@2$/6o](cC?m<_`[qnj'h$S+++V4::)!ar69//P@sE*EXRtSEXP=<c?%1Z='luM*&_Wc0uk84&^)cR(IO6*5CQM,$ST0^La.qYW/Mh5r8fT,]g?ViG2$lcXB?58>#n\tTE"iPTna\(f<3r*Y8h]7;3tR3=bYW4Yi4XYMHZS6Q3SIU+Bho*\%M4I$]Q&^3[EkCF3gteN#tEA%#OZb\RiPSp<295PZn>&*k]`UgVe;pc4.lI!#nOJTr8\][s[\]#Nb(/M\[n%2L+uPG:-.U=Rk;=A"C/Ae>Q5+mBff0jm0+b5%DTk$Fp=J_oXJE[DM!j4ndMQ=r@B8=S^g#n%J\ng[3_&qqL$-<`+M)Z?Yp!D78-[]^sF<1M=uhcTJPa<a1"Mn]0%;2rB"(T#Jal/O8I?/JPV(qV8X/UIU)n$SJq3MBWe#+57E6L%=\^s#[$:STir$U@ODhpV6b,7ZA=??O%&\(i;9@^jnZLq9RIZo?TZ$o:Q%FGL,*VFo1O3cbdQB0>AJn`AbO$NICQWpQ7reM/L#uc8ut(DLBu7=63S7Nna\HT%lY0o/ZhjEXRtSEXP<1DMaQ]JBX3]-u*cqSD40VT%lY0P?[&-(*M?M`$AUre:u`k-as*/-FZh<jH_d9"irU4KjlF=`5sSrL?7EPkX+g&>N4]Z+N*2A7;eeiQ'@M$+2UgXh0.Q;a?V)SFc=9_(Q)1*[#H"`?G1Z-dY/rbiPL9l`Tb?,-<3bhEXTi7C:EZEo1m_f,k&;,T$rUKXHHf/L8`qbGMdg?(QuF8DRi1h"u9n`K:>e.'Vj#abK@tNfk$Kb.omp$99L&C>hHW1lgRdt>mN^O>@0RV>:;s<]</th<A$aRSp@2k>C]DIk.$:9/ek;3BZnTB-V^%oF<SbNm'4V'>Tg)I+5`$+'Vjl.;3N>$L(>AtF=d[(EokHEY.CX7P+E%lP2&ANKm$[(=rMj5n)"!bs7f+4jj^n"CXu1H0Oa_3G7RL&)'U3(^,D9:<CB^-V3`dBfHLHcrr)`ORQ:?Cp$:>>CQg)>U8(D./!+0saWtm774jk>6\("'6tAu*V;/7G^YSt`V1o)CnW:sCBV$WFUgI2R6E'^9B5E51U<<Pd3Oo=YM(Sm,[l.o)FZ:9tM#IHP[l/>52%E!ukq<$ZW#!EL*--V!doc\9;!eHe6S[)Pc2pgtj;+[q3X\2YWV))4<"[WAScV_inek;a`_[=p$33mRj;%`g=NE&o5d?DT!.\N%[f?EI6>cf(MM9ge!#,gO"e[Q.[u`iQ#bWl1[u`iQ#bWl1[u`iQ#bWl1[u`iQ#bV/9`$AUr'JZ-aTE+$gW"V3(5QSqX:a^?/JGRiiMPMbS@\j;1e2OoAlA?Vc:uA!U2E0J2FeRCI(4a7UhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEq56,CmWbhEjE#maE:*l&#JHbX`-;BM_.G'`hj5OV[L2ZiCf'_%uSe[f@,$_%uSe[f@,$_%uSe[f@,$_3PM1HI6P@,lQ-m,f:Hi`oLb*ZEgdadaEeX7K!S>.m1H!Y=ZLi!/4q<,>4ak4oB-MZt\-p?2O?_4(?-a;>'CXX00&4p=fuE5f!O54E/CgQh9LhUKOp8%4^D+/duPYj;,$EG9CAdbr6_)Eo`ZHCC9n$X&c>PjMU)<))J.$bEaG#,s!fcOYGRQ%8fb^o[#riq;da8CFQ1c$Po7Ug1`T'Y`UWpOTEjlQ4R5_/gN/9qq9;iUFo+S!`6Ym(5cDco[(U$Ua9pKil1<=[<&GXOEkjS`@boC,=dbf\r_TYpu72A\H&$F[nuFcruNZZKt-Bs\T;E>)9=_HKjn+a<n=Zof;,H<L!rg^]tD!?kpc\uOk`9#M_8o3gUD+LKquSI+[bm8+PViq'Xak?Nu0SqksA;,`>;n2UOd5;b#-Z_#!?YMW2'emKh7ITl-Vc))<E8]E_DqX!b@m"NhRl0`5sSrjr*8/C2ut;g]D#X;3%@t\&?B?5irsG-u*cqSD40VSl(NB-F^q8/O8G9jX=ka9:Xc=A=cYYU*d@faXod?)<E8]E_DqX!b@m"NhRl0`5sSrjr*8/C2ut;g]D#X;3%@t\&?B?5irsG-u*cqSD40VSl(NB-F^q8/O8G9jX=m:SQg9i@>BU;mA,q@$L?T!s8D`8mC2!Pk<K"BHgeWamBuunqr_k^e>^n3='RIqeuX1t0MZKd1=%@=;600@d^jSe]C3K2e!Tt&kD/^RU4gScf>%;"XW0QSr:du+rSro"0%t*E^%T&2g2!IQ`f;):h=#geJdX30V[DJF(*N4-EYPn_jH`:WH)0a%.(=U"jd3M8UIU@t0/$\DFD40TDAbQ]E:0S.*dF>HM\`?pYHFcIF6")Zo8I]([IiOG?iTuShu<>YUZJn(bN5't^@/f5el.9BEXRtS7QH?0!HLhk(+n7Z$lqC9iiCk_ZY.VaXgI8_H\S#e:S/]q'llqQ.VDiZ5QBpHCpM/0O$<DR4]N=H[fDh/PbY/l+Lg-Hb:SoeU+:&TgbNE]O?4rbn)(l[X&d,m%?'oe\`M1*%inJ\nDM,=B?mTVo%#"o!1@JaUSt$P4OLrq"8CPg^M%npo0`a,[fDh/PbY1R-b#$T418_DQI3"n!`2[OEYPn_jH_$N39'k'b:^E.@U6NUo&Ro(AS'8=8]r[cou&7K;600@12u0e!WVQLRr8f&kK]V;Q<1.iOkXp@d\UBsl`\&EQA5tmrp$Pfel,/jOB[7Z1WiSEl8uHh(V'^j4JNlb9l>fO>CapRb#-[LQ8lDYa?64;787ZVP?WR]1WiSEjH_d9"irg$*(<S>M3D.obVRC=eDuoT\HU&:UDu]sDMaQ]JBTgl;:OZm34T464JNlb9l>fO>CapRb#-[LQ8lDYa?64;787ZVP?WR]1WiSEjH_d9"irg$*(<S>M3D.obVRC=e=m0F^]P)m>t?HXo#`J/1luQD3Jq!R]qqR%QX"Q&dY4L6Y[PHABHZ&gEYQ-kZEbN7H6ccb.fB(^5;"TB:V$m`H6fsrlp:eleuW$&<M[KL]BrWs;Nc,:!;/m#U"DeNGg)O08JdPoWDf^\Q'LUZ5dncd'YD_B_gL:GA]k5b(*m0Y@TKR4dA9JP\HU&:\V1FtD7HC;jL!B29=g5'>^>FrqD,900\2?q;+j+Mm'FJ%iesUJ.B)@OQX>4;je\fM3\mooOB]e\W$RdpPdG>aqWXoM::cqsR4r&9kK]V;HmS#t!:$-6N\$$iFU:8oG3jJ=WM^4I4SZJMSpMbf`fD3k`uTAoFk0^-m^d1JBrPlOJ;oHA6H8'r5"$'1<lL\:dP!UGi>D=1Y_4c#+XI$7![PZ##l2r1!"-Vg$i/84!"-Vg$i/84!"-Vg$i/84!"-Vg$i/84!"-Vg$i/84!"-Vg$i/84!"-Vg$i/84!"-Vg$i/84!"-Vg$i-jWNsa79C=mg`\P;ah]=UAH_HM.`FiTs&)8DBCp8Z)&<V>4-FcZY#1?>X-gp5M,fq@2$ICPa'>*BD1>udHQB0HJ5UcAGJ87.,L<UE9cP/o5/fmS9QY&f$)538tJbo[3>;S"[FYA-:::d;LeRX<-Ic>0\39m4YY.HbdPebjuK,,I@gri5[eRSU6TgNZ)`l"V:6CN$>s"rgOc#&TQbYJ'u/rIKJCV)q'DZJCSIrTrf;4@CK$$Y5b>$1au9D</G)=A[EL6?_QkO?`\W,?L*#=[8P)V]^Kcd71:TqQI9*E:O;"PjoO[jD?d?bUrAX$.fD"@^(Q63$SE"84Hd][C*;tkQ4T<%'rbllV&b%$UDB\`^27VP>BbTE@)X8_Db?5.X_Y=Tpkd*To"n2.sr"aXO=#>G1JZ"RAX/Fp&K5.T7U6N/#<M'<2E/Oh9r2D+3k-g4fneNQ9GIt&mD5gL&lEiT7["*8$%c[!Hh&-K)Fk'XH0djF\A?Yr96_QO1#(39:ph6ksqh9[K1MDT7["*8$%c[!Hh&-K)Fk'XH0djF\A?Yr)N,SlhfjYh/-Y3N.nj>:I5!2QWkqK!G7mlOa6ri:q-'GaBpgF<TKI*S3K'a/U[us=8dE=[3S`tM==#j\tr1grkA+&(:e"Ojc9mo9:ph6ksqh9[K1MDT7["*8$%c[!Hh&-Jp]Ne7.mnoW*B*4jMPQ<<)9QF\tr1g5(j]OVdVjHd\e3`EXUFE0VE=J;iiB;Kkb9<:q-'GaHPDr3k8iAl@[q]-<7`a2LCU9NVOLlA5FB?-F+n3c_[J7,pajk$P5lXXjfW!9sM,*A4`*i)50E[)5/@CQ'I&qqsV<"V3bNbkbF2fo[-0%$Y%>I1"3!o/'MM:s8MnFqU;&h]^Wd$pY7P30Y24<aXp?PF==F<R_cJeC9*+3I^nm.^3]J;_EV^Qf3NSXD;$g=CP``jp#HmeF#k!Q&DD(p8]`^-*:qirT-[c9TmcR\7pW`MFjq_.j;+\83Y]Oc3^'jf%Qc4EZ6\[<Otgn3]G<)&39jC/q-6s"/<YIATcRq/'Y=R7#?tM\l(t0`8^aP7U\*[57B_bf[\;>Bm6'V_TU);Vgo!r?U^KcNEQ9)4[T]:-?X:!dnA,?:EQ&ZBq9*,/rqPNj4S7:2@mBhRUB3R)RPelTCUPn-kb>cag8fd?[`Kr.Kq]>?i%R#6>tFPcn:s6lcKc1hi8=Ip2ogjp;trjYlC.+trU+l(RP]$XOR+^K;:M<E4Ep5KU^KcNgMaj/4'*01-9Z_LS2Y@md^9eC7j!/dcT_4cl9`K-kU:2>osS_l2X)\h+hY#9FONs,kIBaJ;!6,pQS2^;F=kV%4aV@YB$E^[Z:&T(W.b9Ji.DP8\r*lIH0:`@kIB^ad2R#:O`Va<])Vd,NUp\;p.S<kZdL"P*0PCYBsGi6]BIO#dGWTbDr7>u8`&E]+!,`#dT&QgOBX,JE_DqX&f2!p0>-d@dY/t8c9(JOe<:ag1IY#UM3D0')H;0ic_<jdOtJ#*'.6O3e<:ag1IY#UM3D0'_Fr:]A&kCG8;.d/<c#(`-JA[W+Lb1sjH_d9-*F>Nm-(4*::c=iB]$P;[Qugm/JPTrjHa_6qqDRpZJ09/h/L7@$Pk:liP,?ik<J:t@mEdLjcn[#ju7F'=#k:o>^:Vj0uk8tF;8L%R_?-q2TRHa[9DXW2Jq1'Fk9okIer<QR55q3m'.$@3o"i+9f:]b4P&tNs8*6YEui8[)u%ofDq2s8jiB#nE_DqX6>":j'XcZVQA6N-./3&#6%coCSaStiX&c>0ET4IBrU&+6;kl4BJ,]9=n`/fVR58BpOOmihIJ;QA5OZ8VhKe:TB]Dsb7br7BD/[)W`gSc#.OqVG(d33;OsNaBIe_kM)W`#OrquTdhKs0cgtB#H7r'GHSG:E[r\H+<o#`JhB$GYi\`]Q1lD`uB_X<$]&"YUldY>ISE_DqX&gt/M)0-*R/cXUHelcYYm+F0Gba:,[FmIUCr8A1`o]btlDgjLrk5"24%pA#+hu2sD#95F,`/&U(g)YS1_'*3f?G3p?Num%m[pAIZ]sljElgrFe^S3KRCpr#/7j!0OR:i+:gi:AO^A6nuI.9X-5BQ,9mC2!PS9)t9iIhl52fBb>4T4p$6fn[_7ils:.Ar]a[Vac-_hKaM^3lQ$p?Bqt6`@"fZY!9FH0#5n27Y#.DMaQ]a:,V5U/nn]&gGBLB:o-dTDTsFP(jDbNZUJLXFKTAa"G.)nn=L(+V$a7n;>BD&j"*,0>/(%c^cGps8Mo1orW/7>e)U@J,8E-@>^R7EFR!@@H0H<]JJ9O;l<A$4RbU<pr+n8n]Wf86n:Y()*)_J`II':IJ;PVqY%Tam^OM.'cju5s8D]0ZO9!5rm^"p34U>1DBUgs(5c;_E_ETB]`qFC3?eBmN!gCPGi=>mDS>_o?$G,tTS!`SW6?htDnU:2K3W:SkF?Vefk6p]^XBQ-gBSgJ0ZkshJ,Jh?)[@I6pgM64rVQ>-g9g,#GMc]rhmk%WJ^#XAS.Zl%GIK/-["qHueWAQ!-b%%9/S'Uk6;br+4AjCrs8;$k;,07D`-^sdpZ@r`cK1?4GMFp^9eM<VeBtC&[pR,8NjgQD[]Jc6mFnt[pu72RJ,JgX4aL)P/]3>SO*3PWfOGFVr:'L;:7F/Dk"e]hM3D0'j;'L<DP=#Z@;ab:^\r&`p"!f%nDM.5kE['*]J8K,B][C%/,T)05ASiOFlo!N5Q80gUh&W3RF01GIIDO5jHaaL-_Gd,[(LMFdL^P9r]f*OEm&rr>N4]Z1.,rQW7><ol.`]9@>>j]If0!,Y.LiRgU?M'[JT0_O4MH*+_+c%iJ"TgD8,i.7iZNeP>=AfdRbfThatN,gp1\FWpkg'h/q+%cTH9g).td@eEBCeqGGmWS[mk"%mSikdnPlfrqOm98,qKP5NpXuf*4Aq\Kt!gM3D/b%(V(d<f>`gB[EE]hgW3&qThA&CqtQ%#9J-J`>;nZmsk@!A<J*'L4gZ]s)bcKSpK[P!tL+s\P/VZrR=bAmFJDo^juUNbaDC,H%[Hu6O50h`Zn!6S32(;=EsMh=$p"Ko[#tCN__n<FP![$s7)/"N#FQ'XKSS8`-:4ZM7JD/1hfhn6J]7t&!+GuT5c6f`5sTNEXS9Y[ntS%c@;A>&gt0,aXq%Xgd4l%>N4_034U>1DBUgs(5eR9&gt0,aXqLQ$^oBBMHNMBM;47=\&?B?EH2GTOn?!_q3"s&jH_d9,u/=Y8-A%3ioHE8>3(tZ*BH%Tb&4iYG/FbJCs_A.jP4e!/\QN*hOn.dba:,7rqs!>cTV"BGMI2GGgP`t/HBK]leE,MUf!mVD9smg^%>4[^4!b>Zgm(rf4;5aYg2%0dEYe#a=V8_[#)N<HfiP?O$32=LbZHD@+ZS\hK\)FVk:[h],Z(RJ^Lr09qOUtba:,mGgP`t/HBK]leM'Gs80RYa1g*ZCTkEPbni4/EloiY#N:E^"q2>FMj!Xtb:RM#8kYtI`76KL`'9ITem!(KH0:a9_Ro9Nqi=@!pqn2jYA;^jH1K')Dn4tqn2'nRbXfeo!s]<`iIr(g\`N:0s*O22W]p@M_q/7F4^.jOZd8'MkFSA7LVEN>Hf<R8hK\'Bht^$^If7-e@Ja,4GpV0\rquR:7Z7T^p!#GQbcQ0iq<,ZAOX!ANS"`8,2'KF/Ud:R4Q;std9q+'.TE"h%Hk'>nHM-$2^E%_dIrqu(jiWjH(+m[GnBj`Jc'gL?>$eLFacT(7)()Yc9:)fhfo-e)U@316/&Qdia',ul@ID]"^A&oH3HZiQXI(bS9)O#W2cMUm&Lf4\b;6VtFk0\YHhIjUf3NT+\>sf?g7<TY\J:BhB8\@M#g"@ibWS@d5(+>,C38a?Vf'-6[[fL(NcIeembOYArshAs4oY6:_nmdnI+#TKli6dQs#K>>PIB7ebOOW5LH+q.DggrU_[_%UR:jD1d8rkdrqY_ogU?M%Z"'tD]f+PSP@;@`Kp<;u9^'is_uBQ%+"HO+X]tRY8)GRu_mZg9Y6FuL0)s]^IJWU0mFuQmp!uj+1tcf^rPBN4MTRAXcTV"2ZVn,Abq?NaK!5eeL,[`]m^mC>QnrC#0"^H_p'NTTR$^4o\c2Hk__trg$29kBD"6N(iRT^CZu"FdTS!^]dnP))5&oT#<ioQeap9MmpY]KY[jm(e_GhAhc\=WYZ"(gl]'6(`LP6Ek.4M5bDX#QDa4Y*trKElOAG=o(DqM:&#Se)>\YV`Q(/`hR4aVA4`f3=nM:tPB.c\O.$[FV2I-7&E_TFOHr%e2,X2uq\LCOd<03WYsjd1aE<"V2fPfkYns8DCRZ\`/YK+C-_RUV)n+h*-&(*9`To(/8.hgG%N0q@ON/HBLHIr5RVe;o(NUQ@4IHkbGWrqtqDYGhA*`@uedSND&pr:sdh==^jcF3QSi[i^>bja[FC#ZF;srkT+onCuk"2SRk:rq**BpO2PI#KrDb$h'+nXKfLp'&GBnk<%Q-G8h=7K8.HheQ#]$i^lT%M:PR_qoOTHSL<^QX4MkoGMI1.matU^/]SoZCp\T94njW<OkV0-PAojOdA&dGlBGKjRR]6G-+)=gHrF;#g_)LTm4c+od@s&Q!)K1K3Ae1+Cfd]?&ZlRX,YD*E95Xc$KD]d`ldi25i"6A>5!/t)YRn*41l512:,ctMQE]$P47!Mf8c8I<WofU$Gmt`Q0Y2D\Zt\(OQ5MJjKLtmV(LN\3l(X(g3pa)gC@S+N\h81OO"U68hi\Y98T[q-U@Oc-P>4.fG>n8ehf-IBpYUIM#edd6(L1oFe_G3BmC,TrV/thFA&jU8lQN:jQMpO3muMtr@ruJl[*>(!J*X5G6<amN2Rf%.!`3.mbUp/5bpk.k=h8]hZnb%*XgZquc'gL!)`GogpYm^,]WtRU=h/QaQr(A;mFnL9UD$Ec0tIRdC2O>6`A>h&'AZ74,tt(6F%b.44D:+._He/pe#-!6>!+86#9?lA\KsYjD78+E\eHXlr8orQ)<+&+_WZn2^505NFk9o?\`Ji5mYFp;m+F2;/JhcAEW?%:UQm&nN&^k8o./CW>=(S9j,>dgbsEXhgU:rfjn13G$UF7)s*.27:7[u)p=X+j=ED=c-\R1smFpBCn%I,k_1MurQ!6S<q;d`8_SY*=Et:M5n6c1cQPJi//RdeaSaLdreQ6h4>Ja&MXUMh.Q'I%Pl(a;'$4FCIn%JJPb8gZ<+EC+[4lqueap\iU`McY/N^!='YT0e#J,fKAg2!l'BLC6`d@s'o>JcE4mC$5TY6+t;fO9OUU>-A"6hBHbYJ:)5qsV9a[']&3SjUB*o[6Asqs:XoD@*GAET>(;qXk6j)-U_gDr_[aU6^:H$#b:)FmCr6qXg+\H>0:JG)D=(?ZF%"HgJ"-a;?("FQq5M=gM]TYs<?_AXA)Wlf4$jShk"SfJe+D*HFep<[bH1,EFr"hBP8YfOOBaqsM9**usC.0JPG$fJ"SI"Uc*9GM[URDN1g"gi't+_L4oRDnFhKgI2obDCE%AXqnQZd%E\8j(r]g^A)1446D"jpV6aa]6E`5-OW/VEjYE/cT_qid&pZdp?gTnUl4HcJ\kbSACo1!67/*]Fm=Si4rA,VD@PRcLHk^q?iTuSkg7Qf:HT6_%7t0SPUYR(Zrq&H+mL%li.4s:IJ*0mbJTd:1M>iF4pFB/$jiW:-;R?R!D%iHkE[e6KNqAOq9M?8Fpi5)2rB#SF3ZdYfs50tAb^Q:Xga$D[UHNR$eoU7I7<7+QK[465PaB('2L`1b:U13DjJ^5qs8!_OC#ep>]\.I\]quZo@'?2Zq6H.iQZLih]70#9N"_J3OW\QC>3U7^%U/q_b:jj;aof'H\C(S;56TBn%A6D\(jln=$pk^o/ZhjEXP,NeCEa[Y?J=`ro#GYrpuc>I.PVHP;.e%*?*f(Y&fr;f&ZhR,;.bCFO.MQ&mr28>5\8=SD4`)\&?B?!,58*hbWmr^]&AfmC!rnE+%S;ICJ!Pb7J1S^X%.BW@)^ZSD4`)[fE3irI(m/>Aq4JX'bhjg2!m_3,rDuggQ"(T76WNS_Vcla=VCP9:Xc=O9WE03_jRLP?[&-(4\6'>N4_034U>1D?391\Kt!gM3D0'j;*8&OB^`*Q8lE$:2U)'"1]^QDMaQ]ioCl*1aje%fmE2$PHH)]g9tj6DT\)GioCl*1^HHgUIL6CIK\FqB\pCI)tUO'=!b>oaXmL,&C&^'VbTstOQ;B?2bn7IP?[&-(4\5tB'Oa2\L6W.P'=eQ2omRjE_DqX!g!Up-n[##CYul)OsNbaXsHZ3J,]8p>AkNgMPLVO&\02_D?3:bkTIbrIdr>l$VAdg-_FXI>&%N($STR^^CYJH[*:M`BH@.&&I.<ZP*5"#Im3*`P4A%Z%m*-X<HpefgMF3=Idd!Mk0m*jeNs8a,<B%.?=&*Zp"++]s')jPl-b%ZqM!-/T"\?A/^[8jrql.3>tFOXGiB%?"X$g>6S@?\SpTlcIf/spTmuG^ZY%Hc[VT(IC9%l'(GC76l)/a\EQ88j8\1YGM-cMFn%V*O6BZQSPugGg,O%Mppb1$GQg!Tb]BjRX).s@[^I&JkjMV^-XCd)!$5:e.-_DC<8i-u;bYjGap"=&WSX(p9SocPU$Mh>;ZY$An#"YZInV8g)Q^=$taIKZ0<77soW^SSgAX?\gF<O6P_%2"QRVdRaQeH^LSQ-E.#*h\a??tXtU^Kc6L_1l=."D^sm3.B%Q;lA.gp5$KS(r,79rh@!::ct4=gDS[q<+AW;GuL^$U=p;/K9`T?X:#:^$gC<jd0=,hM\XSB[NPCA&aIAhnFM">;uVj+Lc0')LQZFF*W',Y.O+JelcW3I?AXmMltb$fWh2e[K/.\lG]nt=7lNhXe%)crOH4?%6tN)3oDAkdJoQAH2rIP87t7[B2npsZI5-PdTI:bOK<ONKQL5u!$j(c#pGj>!<C56B0o.%<<,:id[:Zp=VUpuXE5eBFB/PF,V,Dl+e;U6!6IiG6:b`h!'mj<R1ReL'`a>sF=)Z_<WrIK/"HtiSQ,[ja\$2487tp&5dJh+&CO\r!0F:(-A6JA"TTeuSI$I1<<3*A8nUI]B2npsZI5-PdTI:bOK<ONKQL5u!$j(c#pGj>!<C56B0o.%<<,:id[:Zp=VUpuXE5eBFB/PF,V,Dl+e;U6!6IiG6:b`h!'mj<R1ReL'`a>sF=)Z_<WrIK/"HtiSQ,[ja\$2487tp&5dJh+&CO\r!0F:(-A6JA"TTeuD$_@8VEmo('`e;KOg])QTSfNq!W^XmD:q0f!<C[uL%.EG!<C\"L%.EG!<C\"L%.EG!J$/+eSAEr-gB5"!6@eiTpM+4Q^!_&bMQF:9e'/L5pAoOXmah;E:gf['+@Z8J,t0E'kZs@ZEiukLa.qim^h`(N#=Eup?\T5g0cSJpu9'fori*gq"Wm1++*@Z!<WOJlddZ^PRCM5!0FtZ&4ER"Xe("<l(i)DS;//3W*-H=V5:#_$NLm!k]FoQ-_.DK_1JIu.C<6aAp*S!4ZY6^F=dL.f8._;m'u)9bEa_Q\s?l[['oA1gH&aG!9k:HldF50='pA5ksCR*jHEBN7Mc&&/t/lf47BhX$VB1]-_0*](B@"4.(>-S2_O>]OuIFB8;CFM+O-XKHJZ;[8JdQ&l-lQR/HClE@@D)cY$KIUUr)EIWuF!8/@PUEC6b*N*dmIn8QV#i47Bhgg]@JT'lqJ@LE)J!'ksqr0"]1V!0CB)9:Xc=!,3dh`5sS2OCiN+SD4/GBdU=-aXmLSAo^P7g]@Ii-F^q8/HClEE_DqX!WZp]\&?B?!0Cf59:Xc=!,3dh`5sS2OCiN+SD4/GBdU=-aXmLSAo^P7g]@Ii-F^q8/HClEE_DqX!WZq8oA"B^jd.([Q/93$Nu9`c`JPBLoN7GbElkZ65$P'Cs.AV[]C,40+0YA*2'KF/5ap4c[iB_XTuS7)qu`2g$lI?g9q,Mhns:<f=9fjgd!bZE=0"+VT0\)6N?(*hf"9Oeg]@Ii[R%GM`0K,]+hb7!flGWC<RJ"nQS3jSXg_?6>T)F1rquR*-;=3oM_Cf3j1/aKU.%_@/BM`hD;)?M^\fk$n)D<EhgG%?YYDXjBZmVG=H78+&%$0+Z7/_L`#j!llIBgfrUqV2HkM_]/6G`d=!17U!J!#M-b$Hrd38^M2/Ce@j<m1FIf&NEFQp*mQ<T+:d0;sm$n3h_n'IaqUIL6;\<>#e@@O]BgV3F=HXV3hi5%MC\DqJ=mFJpqo7$Z77Ji)a2m-lDVJY%o#qO=]j,BW0oVZ-ZaX<]CFQh)MP,ke#\lGe3d9a#hnk*"EDr/.?p=a<Rbr9RlXP!an>gT9<P?PU;EXMlC=[)#*0"po*Yl;&^?4.oel-cD:q(I6nbHAJF)A^2n+[V,05<^V_rqPM*>IFt1-H[q1ck87kHL%]2:7W;h5PaB(&2l`Pr:@/*pYL6-)Dl.#lID(F:"j^<9rmEB:7XG"TG!Rfo][%?LP=K$^V*j\DIN8C$Pj_0nA0,Q!+aC[jd()Wg)X#SW2#@k3HAYp<?`Sr]_h-/(LD@F[bG[=IN:RtoNln3Q+Q_>='o7<@R\?i`u]SD=]sEP2r1jlSVPS_qqqE;'Jj7=N*3K!L")6so<;<HgsWres6/%<=&a\E)+r&RPZn,1HYRu#-murl&7aG$Blh,t-hQ`V0?PkTbMKpZYI.q4+<<Oe]^</^RQ#.KHhQg1-A7fYcTf0eldhbaX00#`KT2't*e!\./mZ'Lp,_ZTo;^r=HgeX,\i#gY)E2OrA]g6NjVr-N+h%G:p>hiM0"g\j_[\aZ\mfj"KF(Lnq:jg+QHL?.VK:'HGL<-R+h'jp6k2HZnEArY?iKV_Q7Z<1B7*a^>1Kuodu[f5rqF0oQ^<KpUYY\$HgdEaQM0_#%j*tt>'^#4\'$?'O?NF&Q><Y6k/\d.>deJ%Zt[uU+PC4^/J]sD\8p]R/[sMUfW\dm3Ge3`msi(rG$XM@+++W?`OKpJSpg=ceu`0&SND&XbaJG+oa@02KU/k2:-7ibc8k(3Siuu=]C0XeW)90NI4Dr`[p4@SeKHBTn\uLk470cZmNDY^imj,p!$KO$Sm*h]pu5O^L^WJ,W2#C,CpVAIG3o"N6P"%KrUr`'I<8Tk`"Pq"ji39!p[$RSo&Ro$:#E[56WT';](=3/UD$3`qq9<(hKnLR/R.(Vj,M)$IsadK'pZVtXL$1Zfd>MG)/#IZfk$LM<.=8jW)9=a9#cf-'A^u5:H`jJ72Js'*n;,jGjr2Vor[rTgP:J@D;*M!eW<u8+O03:F8g5&jK`CBRanH?=']0sI=me8=0>Z1in(sEp!T[0U\i_WT7-.=l`RG)P7VFT9UHCY12PUIrV"ua6_?]!g]@K?QHnqH3q_!$%mBR347BiRa<Qa^h7E9rKaYY=QZ;'*[;FYV"J,uS]PspR[X.`-LMQFiEXMlC=ZUWIZ=V4NHKqJ&0"GNVd%PODcE6&3;l<C(n\uNO\`T=e'.25sETIr98@*F#QDDSR!0Cf59:Xc=!,3dh`5sS2OCiN+SD4/GBdU=-aXmLSAo^P7g]@Ii-F^q8/HClEE_DqX!WZp]\&?B?!0Cf59:Xc=!,5J3;R4n\HR2rd>-r"m7W&6We-aZH_hJV9nu^0)2g=]F#*k?("9;Q5BVp7EXgaHG,^E0MrNt>]!,34neAI%P:V)YK?$ktHEXMlC=dZ)0b0&GGCU\QYihU?]d[W==RQ#.+?AbNd!<B,5U.\'LagpT+RrffFlIDq:BkaQ!/HCl];07*[l)0^t,T6@4GFpZZ!)P5@ZUM\F='W">`JUJ7.@`'+r:6A!c3]mj4En=>!/a3tYO&jdY2dN]qr3MeP-1a4c'pZ\n])a/If&M"BQ:6[!/aWqi$CF$e=f6b'2La\Qe?EL`>9VGr:+XY[Z.SM_^kdae/H8iQ^=%N:3]\,kEto-%0-A.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!&h9rrktBV"j~>endstream
+
+endobj
+% 'FormXob.a7907194ddb9ab13406eac98403699d6': class PDFImageXObject 
+21 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceGray
+ /Decode [ 0
+ 1 ]
+ /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Height 1052
+ /Length 6685
+ /Subtype /Image
+ /Type /XObject
+ /Width 744 >>
+stream
+Gb"0WH^IdoS`'%eJ:NN5)"4DJ6,>O:(Vkm+blf7tK,;NH-AW8/QjFTM&C%#i3-O(3&u3io1p\]"d-.QIeg,-V+1%BuR:o:D(tUY*A'AJXd/h'gN/:A:[GA3l%32tDSb(E:IGW<5O7&aEDL]F(0?8,@m)h'`zzzzz!.b&`pn67Q5\Ms'^4,J?UU'765L3XuC6O-*m,09:6.*u(o?8@fDgec;HgJE3JmC;1LXViQ1(t@<d*(%J^E)hAR2qho)j+]erPe"_AD-&"-iM$&Ckp@8imcT_63.RqFe,S?GQ'7ZZIuusp;<4eAh+sNr/5>S^;iIPd2I-g.)oD*#/#:u6g*4-4Yb,$\Lh%]r@D1JW:LcsioF*F[l/>Wj?!b3c[YFgfuiWdm+h'pS<DO.[V*Xm0Ak[?H1S3U[JP3Wnku#W-K"boqjW__Rb-6gmVTRHg"E:fS<=c%p?T&fGkNM;hn9M*nVc(%]X_BNkKU2iO$+R!@aA7#qpr10BA(<9c*#\L)q+<0D3NZm5;LClrHL5Fq0-;/#64`(!!#9/UM$1+:[AtaDZ;s$A0K7R48(";NEP.B;eu-I,Nm":UlI'QoZ^QJ<dj#0f_a$Rh>_i(Xn0qTX8V(Us8-&(NV]8Q9,FA*[UNe6S`n1`Dg$KCgX_l1H_.f.pU?D3/)Tiu>;\S;<c$IaFW2@Qg>3\dH_NP\W`&&sr7u;IgBY[RM_,h=bU*S'aq"^Kr`T3Ti;[$Vd<n=FheS+_)-cU`boa*hA'YkEN?Ke?n>Y'0O`/<&Rlsg&[g0pE.^0qF*6gRZFh_o]DbLi9*j._a4]Pn1"j4L66*YVYf-g/2XP'kV$>`#<cHhE^)nGCYq+l7sp=N:Ip(-IVA`!,>Z$.GEs2aGPrI9_g<FAUUb.Lc#3;.7NqO=#<OfP+84]PlcL?j4um+oa*DVh-G,PG)fkr^t9nfFp=s6Vn=-`?4ZbtcV90?5+`1nCOWqIYdgF_^926IU43m]CAiq&Q^f$;Tajg@<^Qs1[L-%Z<JIE&peB*oF'4G=ZYQXkYf-4Q5Ne9lo0kF^0o,/%+9[MEOTqkWD^hIcAYN/*h]WQ&BjI4\8rC4CL0%N]f\akWE:UMdfIY2`aa%c?5][Sa/BA3nJWaFKY3L,glG7%<$B\YTu7omY>/@fVJ*ANU?:\[rgH[jSrA$)I"D,s8B'Lq9CKO:X2bJXBF(rle.9d1&.YXnlC*seR!UQH"eREhNH^hk)[9+p5a<eXs?'#^19q"3](PBFP]UP$.HH1;kS3&Va0E+:P$f6ScYJK49[dtGm\Yro+^Cnk:+cgc;UBWSYna93`!R:l+H)5cI4Z;NRce'StTJ4Sut_P4ZGOs%/$@dFT#mq[-u&,TjDi4X<X=_RU.K@lTf[AH*[EmI[2S`EpP7?jEim?-<Z<#pW)-MSd\g\1<XiF[9`,ZlJp&J0+M6KCLcg&:Za:qGalj@kj2]Ff1q:<)a/I]9#o\#O2mie4q8%Rq(AprUBa:Q^YrJI9B.6-;BH!B"ZgY&4<Jo-H?/cXcM%]bO#okFS/s$K>4k[$Dak7\=?Wt]`bqgj\IuS/b`Chr3VHeOjO.UF[iW11jrF%MijAc!0%HR(M7j]gH$W*7X_CSLS>2*6IA^-8PNZkk'g'ImMOmLhs6;%u/(&N]hl9Z`4+!r-C2]U[HR!k1GOs_,^$q&,F4AmA\UXMK\mdGpit$%BaMGO*%I^k8m?#PWBW#]:o]j_;HG@e!fR(uWbEd;NeUqpPc-`2McL:]qoE3E5l2I_oY!fabcHBYE`d``po[701#&-mp08Fm5GoRL/'&>#u088A'N8411]<0pRc6NikkG<.nZ;!RC8ou:=084&:D#09.5DV$a_pWfJ9]#\cP.D:^LsF1ONt6+,Z"&!Yru@"kkG1B+Ud4+=5j+q.kG1B+Ud4+=5j.5a,+0O&hD[JKQ]'.H4[ET+H+?'1^"<uT-CpLHWaEc;TJ>]D<"=9<XYI(nBLk0;Q!8%3)e..?OE=eYO8\4mO2dcb+mHX5L9FbMeT>,"YqL3*-I[ul?1_dM`L`e9l+B[oG.d8=^t;RB,+Y&nHfsJ:H+E-$T?bVKkP94+/iq=Vo5`6(5+S$ucL^;5>]cQ5kN/H0Ho`nsS`eII\`c/JcHAZ>q/fpq3mX_qEm].rSX58[oBEnmFIl:kjeD?o3\M;?kL4^ekWGK_b=1UiFC$R\c_pATd<V<\m@?3''mg:FU[pUm[kD%V^qm:RTK#!Y1[%n95Q+LH+XiGtF+&C@AOYr'.$2_q>uReK!JE5UH*4j;?G0Y2)(8=ESIZ]%Tf6ofCThrMnA2rG(L_)*fD0r<DL;9l[:64ak,p^3@P>[N8?MIcrjgT\/L^46Q.cU9`a4M(OB1O=oDVQ80(R<9/(\\QHS'Q/<p0'h"WkkEo:KKq7B_m>r.%"baLkP:-MCp@-Deumr,^75/Y+@EHOd@/V:><$5q;?-0_T8R,,NT"e.sJ([Vs)jNF&F1q;Xcdc9(rNm+(;g6CeW<lAp^@lk+S)HBqCjA&DkaRiZo:HBqCj'*<>@,PH0M9]nH4J^/D0!hJX>"Zk7\$?WHB'^/fb.F>WN;kS3&Va0E+:P$f6ScYJK49[dtGm\Yro+^Cnk:+cgc;UBWSYna93_t=PFe/Z*lT>>3f6I^FY4E@k>j!Q_\^"-HF.K3ok;lCic?5][Sa/BA3nJWaFKY3LkZm:"d(.G#TQ?[%5j(1(J^/D0!hJX>"Zk7\$?WHB'^/fb.7gE/6NVF[EpVoO=[JZtZS#MGqnug$SgDm3p2mO_f>_-V?DQ*H?'R[C[lkXV20tB_kAp]9?E5]8]c+RTWUh:ZLH2#/<p^lR20tB_kLnh[K61E]2>1MO-E5:slU"QW]dNMWoI?ug#MiW:qUD?>qtjg,f:l>\Fe3/7^K<"loLefL;durK<_0@aD!9F,GeL?*f07nD,5+?>NT<.hYfDNspZCGHHG.Mo'D@F!#[8h$cF:[=q6;<?835(po5`6(5+S$ucL^;5>]cQ5kN/H0Ho`nsS`eII\`c/JcHAZ>q/fpq3mZF2q-Wf<[gC*!qaGSh]D4rmIeNs92uYN3#9;Is76?#!lo2Z5a6*oVZ:b]jUA`Z]m5Fe:m9ao+([c(mlET"DS`f>*Hteo6e8doT2Z1_@LFnnF[.*pMDAfb=c)%NIbrl#`*O#;:o[Dr_aKkLubr8GrqP5Z(Fm`!V;ia$%dZIZjldIeb4lZ))Nh3RrLXWFjkfgB:*]*eH77Xcp\:!FhD#_C;ec'-'hXKZ\bB=o8pjn'Y3p-kaml:!XQgHusPFlSMBs7>&mks:*"!?2T4*4T*^C^2_VXo3(FoHqj*u^\U1qNM"K27oBi_PlaR]teu)_RLso&\KY1$$>Mm!%;8bKm[C)moO%YC(fMka$'t+2!!@SLmd0Qd</lgL8Kk]3?W>2L4F6#LE6_eoJri)im2Q^LT:1r992B?'n>KH26lP:HNRlDKemG^?hWhhUlr%U`%W6\FoDumec3LQ]1ad,?mBVcIY8PR0dN8Zk"m6DVT/!.HinOH_#ZI1KX%3>qg0i3CfSuTlluc:-ZC6ml@:?rn=m$XkBFOj"EUlVF+,%#2F=AksnNUf[;TcB^<0h[S/iuFmP''gZs'r\)j98mPss2,A&PGZD@He8"]S'TPIbl\o@MUp<Hlt/=J]7Fmq8P:21e*o7k*U9q&>7s"@WkC[6Q7/D6mHC\c2A9?(>Ks30f`LH'$>jR5MTkWE3bk9maGN*CDDn_(@;>qk?&$aXP/:,mLmBu:HGBTMsF5;k*_ZJ?6O%r>RbGEs8aGjf.F4mJ-k/3@b>50]ks4a-A0m@QMM\U!8d(XKa7hU(<Gn'um];$WV@jlkj(fiJ[+p)Gl*i0:nbh!eqH[:ApElMS?8?@:]Zp-!!H[0KJJd$uu^]\q">`p\#jaeQ3/R%[Bl'BPnYI)S8+El.fEIAJO*BhGffn@t^tds8ZVoXs2VG7A7,^>Q<`e(7<M4\Fb_H+naWH-8L3>N^r/o<<SN>9&!S`hi9Sp\(4k>-]Y#3q%^-a0f:=`ZCsrkrdRr='ld^H\SZQS.1q#mA8uYm8pm(7ql3hca3@=o5Aoo&(rEES`eYgBC0?p2ud"Dje;:jmJHI/MpT4fp&hQITdVtZbe'9UfokNq+5O-e*qpW*aE5.aX'XP_o>^!$^[spDnll'=0!t%g^:B`)hmMM#kb%UUDYhb%rcP.1*&g%TJUWusc?l5U4?*4`kPggYc?l5U>W4gps"`2O%s4E3g\pVspZm4MFIo[#2U`a\Xr!Yll]9<_a-l6^kP=sa1];=UHI7#Prn'noS@MsJT!(@:diW5*(S0aTChD#.C:Uk7rJ[?:g`U^QANJ03ma'o3Q<c61N9oo;@umrrFM;<Ice$jo(UIr#8_7N*/Wlsa3]c.RS`f<Tk43#:gbALrHf*0_H((k1o.AF:^<U<pS@7YNm'>*<1e4-Llf``>FIo[#2U`a\Xr!Yll]9<_a-l6^kBZc<De?fAZ)?e9SSsqAo,N,?dKL.%(jh.SdeT3n4O:fET6]S<fL,;!cF6L1\\>JSo!R++oU4"69]rtcZ;rt1p'cAHo.AF:Y!%6KHJ@(.oMNZ:o>"5.VeB$9G!=uc9,I9d\#Xkjc^_lW`SRG\'>Chq_9.6$*)XDFf(m+85@.\IbWAU,&pp>H%/JF0:VRHfLk_0skMq"jWtq%IXo40+B:mg<FntaBb'gO-BNStk5&X`'aN?SDhE!Uh<q#m$X`@>+)&cORSKD&foO-OT]'b3UpZaU3pT(c[4[[+ZWUoM,?MMp\6fk<:Q_Qnq?.RH)[oW6PT8U]Jd^=/pUt#5-!KQ:]>ShSO6&U1ii,?t,rnnGua)+?RFhV@ab\Os8&9@2+T.9Qg\ZPR=H;CjpeG7T<A(fMEJ7C67?i7>'n'28"E'm6ro;dbojaFJP9g()H][]6,#rcik8uV@Y$iC+$NO@R\D!9i]KXl8T4QrbFj%63@-UIsb=j=k#L;#%b7E&9C7W(a'FoGpE@bNnN)/A;>6]G?!1XsL*8`p6_fD/"SB!1M;C?C8Ho)aU2r46:^L"?+@cPS0ic3k2do7t4h41Bs5\KU4M!9$!=8[+W7Y6[",6dg5\_KGi_YaO,#+)9qmV"4ZO]]&+f!'5%C3\Q$/)kP=_T_!o9o)e-giT[uT3cB7(07_=eT$@_:o7j17!pI;Ul+@!WDg4;rJBf+*c3p<:L=^`qF"1K%er7lnhVA.%N8FbR7cuT<k:PNS]W?^/^.[uPl^YZrgA16!XaG,)nMBL$^'`J;gT/Z7hY,.G!NquC(2RTRQW:Q@X)2^]g?K7$cG'fHZd-`Di-EL)::TbJCE<a8Zh"t/.e%TEW;4IL5I8Z"/'f_hVt74BH$;;&/"Lm^o<QeiG<.B-STh"'ZI4#B3\N"SGGk&<dWp$t0.WT;Vt74BH$;;&/"Lm^o<QeiG<.CXn$WC8k%gZ&eiA/$CTu*"$U`1?F8G0R@*R1b*,9)VdoU%32,i6YeBBtOY6Op!&gj$hPJLk^3INeCd#0EX+!5=[a+M&Ho_P`q)k+k9#ZJu\_bGMkT`5/&qfK?IM/1be!M4>24uFbD`"s4SDjOtN9hf.Crh3A3l':ONgBARA6F#!_;r'XqfYhsag01nge19)'^J,.um\!njHIBS!:I4.j[[g1.rgRg?e&lGVY<+3*;/pn:UMd+.:4OFL8#%!4p>>`C.8/iZ(hChX%<LoaFa^_AWohImp@%%>e@Y;mIi77ijnf/G]*2'f;lb>LO.T>=cEj'C'S#NJ`M%E\JuG8C]CsW9IS/EXca&s-?TT?:pD&Ku\(CY/l0Ea[Zpj1@gM+Y:hd05Tk-+d9CJXS]@U`(lE9[9F-hZkJ@WW+[0n$6+kO^u"-NuOY"Ze"73[Y(l-NuOY"Ze"73[Y(l-NuOY"Ze"73[Y(l-NuOY"Ze"73[Y(l-NuOY"Ze"73[Y(l-NuOY"Ze"73[Y(l-NuOY"Ze"73[Y(l-NuOY"b!Lrs7XbU\8Ra;+I'T`Ia#*o$bk<GQgTIHqV(b\=.Xp@KeT8e0RZ.>I\bE#/BB(J:7jV_ZF9b>+Ho&MII;Kl[oReA:&9KN;s(Q4q;M?gmA&R@H10n.akOhl"`eJO\JM<S>20(lCA#8E[9D\lI&\Xh7^/;uSh&sbB"M#Xs)^NmSR<+4XfiGnH2Ac`mFebRJrP/Rkf>hb.n@P7$b@5T9&W;3%[H2]a5.6]GBYo4k3\JQh@/6s,#IC/g=l^>mfm&]*3Abc#@m3,?2cTak9#Vq)g$@5IAk@??])N9FEo'0k-`@LZ$1gQ:PS1_AaJ6GMp=nFc:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:NT48V,/YJ^-i<c:Pi^D4s!t^HD4-d,gR$S_($)]c2&R5?R'U5E!2oF?(aOk1(J^mfm'd?ESt']^l$RX24\1<.e^f?$Aj+c(LQ&5ru2$N4g$L\(urcNp)N7N4g$DA;>MH"eVPkW](HF]bPAKPZ>-N;K)S%5Pn:DN?H7O+1^O-=4S,GkP&=@F_L,izzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!!!km/I*g'^,P~>endstream
+
+endobj
+% 'Page6': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Contents 62 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.4ffabe6081df5a3115206cebeae8e2d9 20 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Contents 63 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R24': class PDFCatalog 
+24 0 obj
 % Document Root
-<< /Outlines 22 0 R
- /PageLabels 50 0 R
+<< /Outlines 26 0 R
+ /PageLabels 64 0 R
  /PageMode /UseNone
- /Pages 44 0 R
+ /Pages 56 0 R
  /Type /Catalog >>
 endobj
-% 'R21': class PDFInfo 
-21 0 obj
+% 'R25': class PDFInfo 
+25 0 obj
 << /Author ()
- /CreationDate (D:20101206180342-01'00')
+ /CreationDate (D:20101207110802-01'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-% 'R22': class PDFOutlines 
-22 0 obj
-<< /Count 26
- /First 23 0 R
- /Last 38 0 R
+% 'R26': class PDFOutlines 
+26 0 obj
+<< /Count 36
+ /First 27 0 R
+ /Last 49 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-23 0 obj
+27 0 obj
 << /Count 7
  /Dest [ 7 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /First 24 0 R
- /Last 27 0 R
- /Next 31 0 R
- /Parent 22 0 R
+ /First 28 0 R
+ /Last 31 0 R
+ /Next 35 0 R
+ /Parent 26 0 R
  /Title (Projet Picaso : d\351finition de l'activit\351) >>
 endobj
-% 'Outline.22.0': class OutlineEntryObject 
-24 0 obj
+% 'Outline.30.0': class OutlineEntryObject 
+28 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  690.0236
  0 ]
- /Next 25 0 R
- /Parent 23 0 R
+ /Next 29 0 R
+ /Parent 27 0 R
  /Title (Id\351e g\351n\351rale du projet) >>
 endobj
-% 'Outline.22.1': class OutlineEntryObject 
-25 0 obj
+% 'Outline.30.1': class OutlineEntryObject 
+29 0 obj
 << /Count 1
  /Dest [ 7 0 R
  /XYZ
  62.69291
  582.0236
  0 ]
- /First 26 0 R
- /Last 26 0 R
- /Next 27 0 R
- /Parent 23 0 R
- /Prev 24 0 R
+ /First 30 0 R
+ /Last 30 0 R
+ /Next 31 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
  /Title (Activit\351 et produits vendus) >>
 endobj
-% 'Outline.23.0': class OutlineEntryObject 
-26 0 obj
+% 'Outline.31.0': class OutlineEntryObject 
+30 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  498.0236
  0 ]
- /Parent 25 0 R
+ /Parent 29 0 R
  /Title (Exemple) >>
 endobj
-% 'Outline.22.2': class OutlineEntryObject 
-27 0 obj
+% 'Outline.30.2': class OutlineEntryObject 
+31 0 obj
 << /Count 3
  /Dest [ 7 0 R
  /XYZ
  62.69291
  441.0236
  0 ]
- /First 28 0 R
- /Last 30 0 R
- /Parent 23 0 R
- /Prev 25 0 R
+ /First 32 0 R
+ /Last 34 0 R
+ /Parent 27 0 R
+ /Prev 29 0 R
  /Title (Nomenclature) >>
 endobj
-% 'Outline.24.0': class OutlineEntryObject 
-28 0 obj
+% 'Outline.32.0': class OutlineEntryObject 
+32 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  411.0236
  0 ]
- /Next 29 0 R
- /Parent 27 0 R
+ /Next 33 0 R
+ /Parent 31 0 R
  /Title (Produits achet\351s) >>
 endobj
-% 'Outline.24.1': class OutlineEntryObject 
-29 0 obj
+% 'Outline.32.1': class OutlineEntryObject 
+33 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  282.0236
  0 ]
- /Next 30 0 R
- /Parent 27 0 R
- /Prev 28 0 R
+ /Next 34 0 R
+ /Parent 31 0 R
+ /Prev 32 0 R
  /Title (Produits fabriqu\351s) >>
 endobj
-% 'Outline.24.2': class OutlineEntryObject 
-30 0 obj
+% 'Outline.32.2': class OutlineEntryObject 
+34 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  213.0236
  0 ]
- /Parent 27 0 R
- /Prev 29 0 R
+ /Parent 31 0 R
+ /Prev 33 0 R
  /Title (Produits vendu) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-31 0 obj
+35 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  623.4236
  0 ]
- /Next 32 0 R
- /Parent 22 0 R
- /Prev 23 0 R
+ /Next 36 0 R
+ /Parent 26 0 R
+ /Prev 27 0 R
  /Title (D\351finition des \351quipes) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-32 0 obj
+36 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  392.4236
  0 ]
- /Next 33 0 R
- /Parent 22 0 R
- /Prev 31 0 R
+ /Next 37 0 R
+ /Parent 26 0 R
+ /Prev 35 0 R
  /Title (Travail \340 faire) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-33 0 obj
+37 0 obj
 << /Dest [ 14 0 R
  /XYZ
  62.69291
  222.2221
  0 ]
- /Next 34 0 R
- /Parent 22 0 R
- /Prev 32 0 R
+ /Next 38 0 R
+ /Parent 26 0 R
+ /Prev 36 0 R
  /Title (Ressources multim\351dia) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-34 0 obj
+38 0 obj
+<< /Count 10
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 39 0 R
+ /Last 47 0 R
+ /Next 49 0 R
+ /Parent 26 0 R
+ /Prev 37 0 R
+ /Title (Dossier marketing) >>
+endobj
+% 'Outline.33.0': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 40 0 R
+ /Parent 38 0 R
+ /Title (Description du produit) >>
+endobj
+% 'Outline.33.1': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Next 41 0 R
+ /Parent 38 0 R
+ /Prev 39 0 R
+ /Title (Choix des mat\351riaux et des finitions possibles) >>
+endobj
+% 'Outline.33.2': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 636.0236
+ 0 ]
+ /Next 42 0 R
+ /Parent 38 0 R
+ /Prev 40 0 R
+ /Title (Gamme de prix) >>
+endobj
+% 'Outline.33.3': class OutlineEntryObject 
+42 0 obj
 << /Count 3
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 588.0236
+ 0 ]
+ /First 43 0 R
+ /Last 45 0 R
+ /Next 46 0 R
+ /Parent 38 0 R
+ /Prev 41 0 R
+ /Title (Strat\351gie et plan marketing) >>
+endobj
+% 'Outline.34.0': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 558.0236
+ 0 ]
+ /Next 44 0 R
+ /Parent 42 0 R
+ /Title (Cible du produit) >>
+endobj
+% 'Outline.34.1': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 381.0236
+ 0 ]
+ /Next 45 0 R
+ /Parent 42 0 R
+ /Prev 43 0 R
+ /Title (\311tude concurrentielle) >>
+endobj
+% 'Outline.34.2': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 228.0236
+ 0 ]
+ /Parent 42 0 R
+ /Prev 44 0 R
+ /Title (Pr\351visions de vente) >>
+endobj
+% 'Outline.33.4': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 183.0236
+ 0 ]
+ /Next 47 0 R
+ /Parent 38 0 R
+ /Prev 42 0 R
+ /Title (L'entreprise Picaso) >>
+endobj
+% 'Outline.33.5': class OutlineEntryObject 
+47 0 obj
+<< /Count 1
  /Dest [ 17 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /First 35 0 R
- /Last 37 0 R
- /Next 38 0 R
- /Parent 22 0 R
- /Prev 33 0 R
- /Title (Marketing) >>
+ /First 48 0 R
+ /Last 48 0 R
+ /Parent 38 0 R
+ /Prev 46 0 R
+ /Title (La distribution) >>
 endobj
-% 'Outline.25.0': class OutlineEntryObject 
-35 0 obj
+% 'Outline.35.0': class OutlineEntryObject 
+48 0 obj
 << /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 735.0236
+ 0 ]
+ /Parent 47 0 R
+ /Title (Moyen de distribution) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+49 0 obj
+<< /Count 6
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 50 0 R
+ /Last 55 0 R
+ /Parent 26 0 R
+ /Prev 38 0 R
+ /Title (Dossier des m\351thodes) >>
+endobj
+% 'Outline.36.0': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 23 0 R
  /XYZ
  62.69291
  732.0236
  0 ]
- /Next 36 0 R
- /Parent 34 0 R
- /Title (Cible) >>
+ /Next 51 0 R
+ /Parent 49 0 R
+ /Title (Nomenclature ligne de production) >>
 endobj
-% 'Outline.25.1': class OutlineEntryObject 
-36 0 obj
-<< /Dest [ 17 0 R
+% 'Outline.36.1': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 23 0 R
  /XYZ
  62.69291
- 486.0236
+ 702.0236
  0 ]
- /Next 37 0 R
- /Parent 34 0 R
- /Prev 35 0 R
- /Title (\311tude Concurrentielle) >>
+ /Next 52 0 R
+ /Parent 49 0 R
+ /Prev 50 0 R
+ /Title (Postes de charge) >>
 endobj
-% 'Outline.25.2': class OutlineEntryObject 
-37 0 obj
-<< /Dest [ 17 0 R
+% 'Outline.36.2': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 23 0 R
  /XYZ
  62.69291
- 354.0236
+ 672.0236
  0 ]
- /Parent 34 0 R
- /Prev 36 0 R
- /Title (Vente) >>
+ /Next 53 0 R
+ /Parent 49 0 R
+ /Prev 51 0 R
+ /Title (D\351nomination des articles) >>
 endobj
-% 'Outline.5': class OutlineEntryObject 
-38 0 obj
-<< /Count 5
- /Dest [ 17 0 R
+% 'Outline.36.3': class OutlineEntryObject 
+53 0 obj
+<< /Dest [ 23 0 R
  /XYZ
  62.69291
- 234.0236
+ 642.0236
  0 ]
- /First 39 0 R
- /Last 43 0 R
- /Parent 22 0 R
- /Prev 34 0 R
- /Title (R\351alisation du site internet) >>
+ /Next 54 0 R
+ /Parent 49 0 R
+ /Prev 52 0 R
+ /Title (Nomenclatures) >>
 endobj
-% 'Outline.26.0': class OutlineEntryObject 
-39 0 obj
-<< /Dest [ 18 0 R
+% 'Outline.36.4': class OutlineEntryObject 
+54 0 obj
+<< /Dest [ 23 0 R
  /XYZ
  62.69291
- 717.0236
+ 612.0236
  0 ]
- /Next 40 0 R
- /Parent 38 0 R
- /Title (L'album de pr\351sentation) >>
+ /Next 55 0 R
+ /Parent 49 0 R
+ /Prev 53 0 R
+ /Title (Approvisionnement) >>
 endobj
-% 'Outline.26.1': class OutlineEntryObject 
-40 0 obj
-<< /Dest [ 18 0 R
+% 'Outline.36.5': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 23 0 R
  /XYZ
  62.69291
- 537.0236
+ 582.0236
  0 ]
- /Next 41 0 R
- /Parent 38 0 R
- /Prev 39 0 R
- /Title (La fen\352tre permettant la r\351alisation virtuelle des objets) >>
+ /Parent 49 0 R
+ /Prev 54 0 R
+ /Title (Planification des charges) >>
 endobj
-% 'Outline.26.2': class OutlineEntryObject 
-41 0 obj
-<< /Dest [ 18 0 R
- /XYZ
- 62.69291
- 411.0236
- 0 ]
- /Next 42 0 R
- /Parent 38 0 R
- /Prev 40 0 R
- /Title (Le service de SAV) >>
-endobj
-% 'Outline.26.3': class OutlineEntryObject 
-42 0 obj
-<< /Dest [ 18 0 R
- /XYZ
- 62.69291
- 321.0236
- 0 ]
- /Next 43 0 R
- /Parent 38 0 R
- /Prev 41 0 R
- /Title (Le catalogue) >>
-endobj
-% 'Outline.26.4': class OutlineEntryObject 
-43 0 obj
-<< /Dest [ 18 0 R
- /XYZ
- 62.69291
- 219.0236
- 0 ]
- /Parent 38 0 R
- /Prev 42 0 R
- /Title (La r\351alisation du site internet) >>
-endobj
-% 'R44': class PDFPages 
-44 0 obj
+% 'R56': class PDFPages 
+56 0 obj
 % page tree
-<< /Count 5
+<< /Count 7
  /Kids [ 7 0 R
  14 0 R
+ 15 0 R
  17 0 R
- 18 0 R
- 19 0 R ]
+ 19 0 R
+ 22 0 R
+ 23 0 R ]
  /Type /Pages >>
 endobj
-% 'R45': class PDFStream 
-45 0 obj
+% 'R57': class PDFStream 
+57 0 obj
 % page stream
 << /Length 7812 >>
 stream
@@ -1021,8 +1187,8 @@ Q
 endstream
 
 endobj
-% 'R46': class PDFStream 
-46 0 obj
+% 'R58': class PDFStream 
+58 0 obj
 % page stream
 << /Length 5188 >>
 stream
@@ -1401,135 +1567,187 @@ Q
 endstream
 
 endobj
-% 'R47': class PDFStream 
-47 0 obj
+% 'R59': class PDFStream 
+59 0 obj
 % page stream
-<< /Length 6100 >>
+<< /Length 5546 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 744.0236 cm
 q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Marketing) Tj T* ET
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dossier marketing) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 714.0236 cm
 q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Cible) Tj T* ET
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Description du produit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Delayed, puisqu'il ne faut rendre le rapport que 8 jours apr\350s la pr\351sentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Choix des mat\351riaux et des finitions possibles) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 648.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 52.82 Tm /F1 10 Tf 12 TL 1.829318 Tw (Nos produits sont destin\351s \340 une classe de population ais\351e, aimant la technologie, qui cherche des) Tj T* 0 Tw 1.799983 Tw (produits de qualit\351, innovants, avec une apparence plaisante et surtout avec une grande mobilit\351. La) Tj T* 0 Tw 2.313318 Tw (mobilit\351 de notre produit est assur\351e sur deux plans: la mobilit\351 du transport du produit \(facilement) Tj T* 0 Tw 2.11152 Tw (compacte et par cons\351quent ais\351ment transportable\) et la mobilit\351 du produit pendant son utilisation) Tj T* 0 Tw (\(sustentation magn\351tique, roulettes\).) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Recopiage de nomenclature.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 606.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .186651 Tw (Parmi nos clients de lux, la population nordique sera particuli\350rement vis\351e car, d'apr\350s les statistiques ils) Tj T* 0 Tw 1.99311 Tw (sont les plus ouverts et attir\351s par les nouveaux designs et ont tendance de d\351penser des sommes) Tj T* 0 Tw (importantes d'argent pour l'acquisition du meuble hi-tech.) Tj T* ET
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Gamme de prix) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 552.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 1.232209 Tw (On ne n\351glige pas le reste de la la client\350le disposant d'un petit budget qui cherche quand m\352me des) Tj T* 0 Tw .776651 Tw (produits de qualit\351 ayant une forte mobilit\351, c'est pourquoi on propose une gamme sp\351ciale des m\352mes) Tj T* 0 Tw 1.91998 Tw (produits mais avec des roulettes. La commercialisation principale sera concentr\351 pourtant autour des) Tj T* 0 Tw (produits de la gamme de lux.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 498.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 3.63248 Tw (Ces produits pourront int\351resser plusieurs cat\351gories de personnes: - Les personnes qui doivent) Tj T* 0 Tw .015984 Tw (d\351m\351nager souvent \(la possibilit\351 de compacte nos produits rend le transport plus facile\). - Les personnes) Tj T* 0 Tw .457045 Tw (vivant dans un logement o\371 la place est r\351duite : l'int\351rieur devient modulaire. - Les personnes \340 mobilit\351) Tj T* 0 Tw (r\351duite \(la sustentation magn\351tique rend les produits d\351pla\347a bl\351s individuellement\)) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Pareil.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 570.0236 cm
 q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (\311tude Concurrentielle) Tj T* ET
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Strat\351gie et plan marketing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Cible du produit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL .680651 Tw (Nos produits sont destin\351s \340 une classe de population moyenne, aimant la technologie, qui cherche des) Tj T* 0 Tw 2.673555 Tw (produits innovants, avec une apparence plaisante et surtout avec une grande mobilit\351. En effet, le) Tj T* 0 Tw .980751 Tw (proc\351d\351 de sustentation magn\351tique permet \340 tout un chacun d'avoir un int\351rieur modulaire, permettant) Tj T* 0 Tw (de d\351placer les meubles pour reconfigurer un int\351rieur en quelque secondes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 1.385366 Tw (Diff\351rentes essences de bois sont propos\351es, et, les meubles \351tant parfaitement configurable, il existe) Tj T* 0 Tw 3.191412 Tw (des configurations pour toutes les bourses du meuble pour t\351l\351vision en plastique bon march\351 \340) Tj T* 0 Tw (l'immense armoire en bois massif, vernis pour laisser transparaitre la qualit\351 du mat\351riaux.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 2.113059 Tw (Ces produits pourront int\351resser plusieurs cat\351gories de personnes: - Les personnes vivant dans un) Tj T* 0 Tw 1.73686 Tw (logement o\371 la place est r\351duite : l'int\351rieur devient modulaire. - Les personnes \340 mobilit\351 r\351duite \(la) Tj T* 0 Tw .38998 Tw (sustentation magn\351tique rend les produits d\351pla\347ables individuellement\) - Les personnes aimant avoir un) Tj T* 0 Tw (int\351rieur \340 la pointe de la technologie, innovant, et en m\352me temps tr\350s ergonomique.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 366.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 88.82 Tm /F1 10 Tf 12 TL 1.072651 Tw (\311tant donn\351 que l'entreprise PICASO est implant\351 sur le march\351 depuis une grande p\351riode de temps,) Tj T* 0 Tw 3.223059 Tw (elle a acquis un avantage favorable par rapport aux autres entreprises concurrentes. Pourtant, la) Tj T* 0 Tw .195868 Tw (concurrence reste acerbe. Sur le march\351 de la meuble il y a un grand nombre d'entreprises qui proposent) Tj T* 0 Tw .197765 Tw (des produits de plus en plus attractifs. Notre projet mise sur la technologie avanc\351e en ce qui concerne la) Tj T* 0 Tw .494983 Tw (sustentation magn\351tique. Actuellement sur le march\351 il y a tr\350s peu des concurrents qui commercialisent) Tj T* 0 Tw .628651 Tw (des meubles \340 la base de sustentation magn\351tique. Notre succ\350s reste dans la r\351activit\351 de l'entreprise,) Tj T* 0 Tw .672485 Tw (la qualit\351 et les d\351lais de livraison. En plus, notre entreprise ayant adopt\351 une politique \351cologique, tous) Tj T* 0 Tw (nos produits respectent les normes en vigueur.) Tj T* ET
+BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (\311tude concurrentielle) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 336.0236 cm
-q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Vente) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 240.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 76.82 Tm /F1 10 Tf 12 TL .407674 Tw (Nos produits seront commercialis\351s principalement sur internet mais ils seront aussi disponibles dans les) Tj T* 0 Tw .208221 Tw (r\351seaux de vente de nos partenaires. Un des avantages de la distribution sur internet est la r\351duction des) Tj T* 0 Tw 2.55186 Tw (co\373ts de transport. Notre site web, caract\351ris\351 par la simplicit\351, mettra en valeur la qualit\351 de nos) Tj T* 0 Tw .769983 Tw (produits, leur confort et la technologie avanc\351e employ\351e. Nos produits pourront \352tre distribu\351s de deux) Tj T* 0 Tw 2.37561 Tw (fa\347ons: avec ou sans service de montage. La premi\350re fa\347on consistera \340 acheter le produit et un) Tj T* 0 Tw 5.19152 Tw (distributeur partenaire le montera. La deuxi\350me consistera \340 acheter le produit et le monter) Tj T* 0 Tw (individuellement. - prix - diff\351renciation) Tj T* ET
+BT 1 0 0 1 0 112.82 Tm /F1 10 Tf 12 TL .34561 Tw (\311tant donn\351 que l'entreprise Picaso est implant\351 sur le march\351 depuis une grande p\351riode de temps, elle) Tj T* 0 Tw 1.408314 Tw (a acquis un avantage concurrentiel par rapport aux entreprises concurrentes. Pourtant, la concurrence) Tj T* 0 Tw .462765 Tw (reste active. Sur le march\351 de la meuble il y a un grand nombre d'entreprises qui proposent des produits) Tj T* 0 Tw .241751 Tw (de plus en plus attractifs. Notre projet mise sur la technologie avanc\351e en ce qui concerne la sustentation) Tj T* 0 Tw .277318 Tw (magn\351tique. Actuellement sur le march\351 il y a tr\350s peu des concurrents qui commercialisent des meubles) Tj T* 0 Tw .936235 Tw (\340 la base de sustentation magn\351tique. Notre succ\350s reste dans la r\351activit\351 de l'entreprise, la qualit\351 et) Tj T* 0 Tw .458651 Tw (les d\351lais de livraison. De plus, notre entreprise ayant adopt\351 une politique \351cologique, tous nos produits) Tj T* 0 Tw 1.051984 Tw (respectent les normes en vigueur. En effet, la production des plastiques utilis\351 est \351quilibr\351e au niveau) Tj T* 0 Tw .150488 Tw (production de CO2, et le recyclage est bien s\373r pris en compte dans le cycle de vie du produit. Les arbres) Tj T* 0 Tw (sont bien \351videmment replant\351s.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 213.0236 cm
 q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (R\351alisation du site internet) Tj T* ET
+BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Pr\351visions de vente) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 183.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .895697 Tw (Aujourd'hui, 85% des recherches d'un produit commen\347ant sur internet, il est n\351cessaire que la gamme) Tj T* 0 Tw (de produits XXX dispose d'une page internet afin d'\352tre promu.) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Monica, \340 toi !) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 141.0236 cm
+1 0 0 1 62.69291 165.0236 cm
 q
-BT 1 0 0 1 0 28.82 Tm 1.331412 Tw 12 TL /F1 10 Tf 0 0 0 rg (De plus, XXX s'adressant \340 une cat\351gorie sociale relativement \351lev\351e, elle disposera d'un site internet) Tj T* 0 Tw .934269 Tw (ind\351pendant du site actuel de l'entreprise ) Tj 0 0 .501961 rg (http://www.picaso-bois.fr) Tj 0 0 0 rg (, qui s'adresse quant \340 lui \340 la classe) Tj T* 0 Tw (moyenne.) Tj T* ET
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (L'entreprise Picaso) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 99.02362 cm
+1 0 0 1 62.69291 87.02362 cm
 q
-BT 1 0 0 1 0 28.82 Tm .04528 Tw 12 TL /F1 10 Tf 0 0 0 rg (Afin de promouvoir le produit XXX, PICASO fera donc d\351velopper un site internet d\351di\351 \340 cette gamme de) Tj T* 0 Tw .481318 Tw (produit. Le site ) Tj 0 0 .501961 rg (http://www.picaso-bois.fr ) Tj 0 0 0 rg (disposera quant \340 lui d'un lien qui renverra vers ce nouveau site) Tj T* 0 Tw (internet.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 64.82 Tm /F1 10 Tf 12 TL .89284 Tw (L'entreprise Picaso, fort d'une longue exp\351rience dans la fabrication de meuble \(depuis 1990\), est gage) Tj T* 0 Tw .145697 Tw (de qualit\351. Dans l'optique de conserver l'image de marque convoy\351 par l'enseigne, la localisation d'origine) Tj T* 0 Tw .853828 Tw (sera conserv\351e, \340 savoir Ayze en Haute-Savoie. Au niveau communication, bien qu'une nouvelle charte) Tj T* 0 Tw .346235 Tw (graphique sera cr\351e pour la gamme Jazz, elle reprendra, dans les grandes lignes, les tendances que l'on) Tj T* 0 Tw .12881 Tw (trouve dans les autres gammes, afin d'augmenter la coh\351rence globale de la marque, et de ne pas perdre) Tj T* 0 Tw (le consommateur.) Tj T* ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R48': class PDFStream 
-48 0 obj
+% 'R60': class PDFStream 
+60 0 obj
 % page stream
-<< /Length 8217 >>
+<< /Length 8877 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (La distribution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+q
+BT 1 0 0 1 0 6.025 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Moyen de distribution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .533984 Tw (Le site internet pr\351sentera donc plusieurs points : - Un album pr\351sentant diff\351rents exemples de produits) Tj T* 0 Tw .247765 Tw (de la gamme XXX. - Une fen\352tre permettant la r\351alisation virtuelle d'objet de la gamme XXX. - Un service) Tj T* 0 Tw (de SAV. - Un catalogue t\351l\351chargeable en format PDF.) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .895697 Tw (Aujourd'hui, 85% des recherches d'un produit commen\347ant sur internet, il est n\351cessaire que la gamme) Tj T* 0 Tw (de produits Jazz dispose d'une page internet afin d'\352tre promu.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 699.0236 cm
-q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (L'album de pr\351sentation) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 660.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 3.906651 Tw (Il donnera acc\350s aux diff\351rents produits r\351alisables par la gamme XXX \340 travers une s\351rie de) Tj T* 0 Tw 3.120814 Tw (photographies de meubles. Ces meubes seront mont\351s, int\351gr\351s dans des espaces habitables, et) Tj T* 0 Tw 1.384597 Tw (pr\351sent\351s dans diff\351rentes configurations au sein de ces m\352mes espaces habitables afin de pr\351senter) Tj T* 0 Tw (l'int\351r\352t du d\351placement des meubles.) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .55436 Tw (La gamme \351tant en rupture avec le type de meuble que fournis normalement Picaso, elle disposera d'un) Tj T* 0 Tw (site internet \340 par enti\350re, afin de renforcer l'aspect renouveau et moderne.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
+1 0 0 1 62.69291 618.0236 cm
+q
+BT 1 0 0 1 0 28.82 Tm .012927 Tw 12 TL /F1 10 Tf 0 0 0 rg (Afin de promouvoir le produit Jazz, PICASO fera donc d\351velopper un site internet d\351di\351 \340 cette gamme de) Tj T* 0 Tw .481318 Tw (produit. Le site ) Tj 0 0 .501961 rg (http://www.picaso-bois.fr ) Tj 0 0 0 rg (disposera quant \340 lui d'un lien qui renverra vers ce nouveau site) Tj T* 0 Tw (internet.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .533984 Tw (Le site internet pr\351sentera donc plusieurs points : - Un album pr\351sentant diff\351rents exemples de produits) Tj T* 0 Tw .186654 Tw (de la gamme Jazz. - Une fen\352tre permettant la r\351alisation virtuelle d'objet de la gamme Jazz. - Un service) Tj T* 0 Tw (de SAV - Un catalogue t\351l\351chargeable en format PDF.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL .217126 Tw (Premi\350rement, une galerie donnera acc\350s aux diff\351rents produits r\351alisables par la gamme Jazz \340 travers) Tj T* 0 Tw 3.05229 Tw (une s\351rie de photographies de meubles. Ces meubles seront mont\351s, int\351gr\351s dans des espaces) Tj T* 0 Tw .054269 Tw (habitables, et pr\351sent\351s dans diff\351rentes configurations au sein de ces m\352mes espaces habitables afin de) Tj T* 0 Tw (pr\351senter l'int\351r\352t du d\351placement des meubles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -1561,7 +1779,7 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (tous les bois offerts par la gamme XXX.) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Tous les bois offerts par la gamme Jazz.) Tj T* ET
 Q
 Q
 q
@@ -1588,7 +1806,7 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (toute les planches offerte la gamme XXX.) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Toute les planches offerte la gamme Jazz.) Tj T* ET
 Q
 Q
 q
@@ -1615,7 +1833,7 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (les 2 largeurs de meubles possible dans la gamme XXX.) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Les 2 largeurs de meubles possible dans la gamme Jazz.) Tj T* ET
 Q
 Q
 q
@@ -1642,7 +1860,7 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (les meubles en suspension lors d'un d\351placement \(seulement sur une photographie\).) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Les meubles en suspension lors d'un d\351placement \(seulement sur une photographie\).) Tj T* ET
 Q
 Q
 q
@@ -1658,73 +1876,49 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 519.0236 cm
-q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (La fen\352tre permettant la r\351alisation virtuelle des objets) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 62.69291 384.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .76528 Tw (Cette fen\352re permettra au client, en cours de navigation sur le site internet, de cr\351er son propre meuble) Tj T* 0 Tw .69332 Tw (de fa\347on virtuelle. Il pourra ainsi placer lui-m\352me les planches o\371 il le souhaite, en choisissant le bois et) Tj T* 0 Tw (les dimensions de chacune d'elles afin de monter petit \340 petit le meuble qui lui convient.) Tj T* ET
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .259987 Tw (Ensuite, par le menu, le client, en cours de navigation sur le site internet, pourra cr\351er son propre meuble) Tj T* 0 Tw .69332 Tw (de fa\347on virtuelle. Il pourra ainsi placer lui-m\352me les planches o\371 il le souhaite, en choisissant le bois et) Tj T* 0 Tw (les dimensions de chacune d'elles afin de monter petit \340 petit le meuble qui lui convient.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 330.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 1.158221 Tw (Lorsque son meuble est r\351alis\351, le client peut ensuite demander un devis de celui-ci qui lui sera fourni) Tj T* 0 Tw 2.118735 Tw (instantan\351ment par le site. Enfin, s'il le souhaite, il pourra commander le meuble en cliquant sur un) Tj T* 0 Tw .015697 Tw (bouton. Apr\350s paiement de celui-ci, une commande num\351rique est envoy\351e \340 PICASO, qui pourra ensuite) Tj T* 0 Tw (la traiter.) Tj T* ET
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 1.158221 Tw (Lorsque son meuble est r\351alis\351, le client peut ensuite demander un devis de celui-ci qui lui sera fourni) Tj T* 0 Tw 2.118735 Tw (instantan\351ment par le site. Enfin, s'il le souhaite, il pourra commander le meuble en cliquant sur un) Tj T* 0 Tw .571412 Tw (bouton. Apr\350s paiement de celui-ci, une commande num\351rique est envoy\351e \340 Picaso, qui pourra ensuite) Tj T* 0 Tw (la traiter.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
-q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Le service de SAV) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 300.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 2.464692 Tw (En cas de non satisfaction du client quant \340 son produit, il pourra demander un retour de celui-ci,) Tj T* 0 Tw (notamment par l'interm\351diaire du service de SAV du site internet.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 333.0236 cm
+1 0 0 1 62.69291 270.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.722651 Tw (Lors d'une demande de retour effectu\351e par l'interm\351diaire du site internet, un coupons de retour est) Tj T* 0 Tw (envoy\351 par PICASO au client par voie postale.) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.722651 Tw (Lors d'une demande de retour effectu\351e par l'interm\351diaire du site internet, un coupons de retour est) Tj T* 0 Tw (envoy\351 par Picaso au client par voie postale.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 303.0236 cm
-q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Le catalogue) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 228.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 2.539213 Tw (Le catalogue pr\351sentera des photographies de diff\351rents produits r\351alisables par la gamme XXX. Il) Tj T* 0 Tw .735697 Tw (reprendra les photographies de l'album de pr\351sentation et les int\351grera parmis d'autres afin de proposer) Tj T* 0 Tw (un large gamme d'exemple au client.) Tj T* ET
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .532126 Tw (Enfin, le catalogue pr\351sentera des photographies de diff\351rents produits r\351alisables par la gamme Jazz. Il) Tj T* 0 Tw .093318 Tw (reprendra les photographies de l'album de pr\351sentation et les int\351grera parmi d'autres afin de proposer un) Tj T* 0 Tw (large gamme d'exemple au client.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 231.0236 cm
+1 0 0 1 62.69291 198.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .49284 Tw (Il sera disponible en format PDF, t\351l\351chargeable depuis le site internet, et commandable gratuitement en) Tj T* 0 Tw (remplissant un formulaire, en format papier.) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .035984 Tw (Il sera disponible en format PDF, t\351l\351chargeable depuis le site internet, et pourra s'obtenir gratuitement en) Tj T* 0 Tw (format papier en remplissant un formulaire.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 201.0236 cm
-q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (La r\351alisation du site internet) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 81.02362 cm
+1 0 0 1 62.69291 84.02362 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -1840,7 +2034,7 @@ q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (SOPRA GROUP) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (SQLi Group) Tj T* ET
 Q
 Q
 q
@@ -1884,21 +2078,21 @@ Q
 endstream
 
 endobj
-% 'R49': class PDFStream 
-49 0 obj
+% 'R61': class PDFStream 
+61 0 obj
 % page stream
-<< /Length 3617 >>
+<< /Length 4566 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 717.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 52.82 Tm /F1 10 Tf 12 TL 1.249488 Tw (Apr\350s avoir estim\351 le prix de la soci\351t\351 AS+ trop \351lev\351 et le nombre de jours de travail estim\351s par la) Tj T* 0 Tw 3.013059 Tw (soci\351t\351 SOPRA GROUP trop faible, PICASO a contact\351 les soci\351t\351s ALIKE GROUP et GROUPE) Tj T* 0 Tw .253314 Tw (ARCOLE afin de rencontrer physiquement les prestataires. La soci\351t\351 GROUPE ARCOLE ayant sembl\351e) Tj T* 0 Tw .94332 Tw (plus \340 l'\351coute des besoins du produit, PICASO a d\351cid\351 de s'adresser \340 celle-ci afin de r\351aliser le site) Tj T* 0 Tw (internet.) Tj T* ET
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 1.249488 Tw (Apr\350s avoir estim\351 le prix de la soci\351t\351 AS+ trop \351lev\351 et le nombre de jours de travail estim\351s par la) Tj T* 0 Tw 1.209269 Tw (soci\351t\351 SQLi Group trop faible, PICASO a contact\351 les soci\351t\351s ALIKE GROUP et GROUPE ARCOLE) Tj T* 0 Tw 1.344597 Tw (afin de rencontrer physiquement les prestataires. La soci\351t\351 GROUPE ARCOLE ayant sembl\351e plus \340) Tj T* 0 Tw (l'\351coute des besoins du produit, PICASO a d\351cid\351 de s'adresser \340 celle-ci afin de r\351aliser le site internet.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
+1 0 0 1 62.69291 567.0236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -2081,120 +2275,234 @@ Q
 q
 Q
 Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 2.158555 Tw (Les exp\351ditions seront quant \340 elles assur\351es par un prestataire technique en logistique, qui pourra) Tj T* 0 Tw .326235 Tw (mettre son exp\351rience et son expertise au service de notre entreprise, assurant des d\351lais que seule une) Tj T* 0 Tw (entreprise sp\351cialis\351e peut se permettre d'atteindre.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 40.82 Tm .423516 Tw 12 TL /F1 10 Tf 0 0 0 rg (Les contraintes sont qu'un meuble, d\350s la commande, doit \352tre chez le client en deux semaines. Pour ce) Tj T* 0 Tw .25811 Tw (faire, notre partenaire disposera de plusieurs ) Tj /F5 10 Tf (hub ) Tj /F1 10 Tf (de livraison. Il prendra, de la m\352me mani\350re, en charge) Tj T* 0 Tw 4.195814 Tw (l'emballage des commandes clients. Le sch\351ma suivant permet de r\351sumer le processus d'une) Tj T* 0 Tw (commande client.) Tj T* ET
+Q
+Q
  
 endstream
 
 endobj
-% 'R50': class PDFPageLabels 
-50 0 obj
+% 'R62': class PDFStream 
+62 0 obj
+% page stream
+<< /Length 161 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.29694 76.86614 cm
+q
+486.6817 0 0 688.1575 0 0 cm
+/FormXob.4ffabe6081df5a3115206cebeae8e2d9 Do
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R63': class PDFStream 
+63 0 obj
+% page stream
+<< /Length 907 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dossier des m\351thodes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Nomenclature ligne de production) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Postes de charge) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (D\351nomination des articles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Nomenclatures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Approvisionnement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Planification des charges) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R64': class PDFPageLabels 
+64 0 obj
 % Document Root
 << /Nums [ 0
- 51 0 R
+ 65 0 R
  1
- 52 0 R
+ 66 0 R
  2
- 53 0 R
+ 67 0 R
  3
- 54 0 R
+ 68 0 R
  4
- 55 0 R ] >>
+ 69 0 R
+ 5
+ 70 0 R
+ 6
+ 71 0 R ] >>
 endobj
-% 'R51': class PDFPageLabel 
-51 0 obj
+% 'R65': class PDFPageLabel 
+65 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R52': class PDFPageLabel 
-52 0 obj
+% 'R66': class PDFPageLabel 
+66 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
-% 'R53': class PDFPageLabel 
-53 0 obj
+% 'R67': class PDFPageLabel 
+67 0 obj
 % None
 << /S /D
  /St 3 >>
 endobj
-% 'R54': class PDFPageLabel 
-54 0 obj
+% 'R68': class PDFPageLabel 
+68 0 obj
 % None
 << /S /D
  /St 4 >>
 endobj
-% 'R55': class PDFPageLabel 
-55 0 obj
+% 'R69': class PDFPageLabel 
+69 0 obj
 % None
 << /S /D
  /St 5 >>
 endobj
+% 'R70': class PDFPageLabel 
+70 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R71': class PDFPageLabel 
+71 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
 xref
-0 56
+0 72
 0000000000 65535 f
 0000000113 00000 n
-0000000245 00000 n
-0000000410 00000 n
-0000000585 00000 n
-0000000754 00000 n
-0000000984 00000 n
-0000003389 00000 n
-0000003776 00000 n
-0000006320 00000 n
-0000009634 00000 n
-0000154760 00000 n
-0000155506 00000 n
-0000155762 00000 n
-0000156009 00000 n
-0000156499 00000 n
-0000156743 00000 n
-0000156973 00000 n
-0000157283 00000 n
-0000157563 00000 n
-0000157844 00000 n
-0000158003 00000 n
-0000158215 00000 n
-0000158341 00000 n
-0000158592 00000 n
-0000158787 00000 n
-0000159037 00000 n
-0000159192 00000 n
-0000159409 00000 n
-0000159591 00000 n
-0000159790 00000 n
-0000159964 00000 n
-0000160168 00000 n
-0000160362 00000 n
-0000160562 00000 n
-0000160792 00000 n
-0000160961 00000 n
-0000161164 00000 n
-0000161330 00000 n
-0000161567 00000 n
-0000161757 00000 n
-0000161999 00000 n
-0000162195 00000 n
-0000162386 00000 n
-0000162565 00000 n
-0000162708 00000 n
-0000170621 00000 n
-0000175910 00000 n
-0000182111 00000 n
-0000190429 00000 n
-0000194151 00000 n
-0000194296 00000 n
-0000194373 00000 n
-0000194450 00000 n
-0000194527 00000 n
-0000194604 00000 n
+0000000258 00000 n
+0000000423 00000 n
+0000000598 00000 n
+0000000767 00000 n
+0000000997 00000 n
+0000003402 00000 n
+0000003789 00000 n
+0000006333 00000 n
+0000009647 00000 n
+0000154773 00000 n
+0000155519 00000 n
+0000155775 00000 n
+0000156022 00000 n
+0000156498 00000 n
+0000156792 00000 n
+0000157022 00000 n
+0000157325 00000 n
+0000157505 00000 n
+0000157828 00000 n
+0000174532 00000 n
+0000181478 00000 n
+0000181824 00000 n
+0000182105 00000 n
+0000182264 00000 n
+0000182476 00000 n
+0000182602 00000 n
+0000182853 00000 n
+0000183048 00000 n
+0000183298 00000 n
+0000183453 00000 n
+0000183670 00000 n
+0000183852 00000 n
+0000184051 00000 n
+0000184225 00000 n
+0000184429 00000 n
+0000184623 00000 n
+0000184823 00000 n
+0000185062 00000 n
+0000185248 00000 n
+0000185476 00000 n
+0000185668 00000 n
+0000185919 00000 n
+0000186099 00000 n
+0000186302 00000 n
+0000186488 00000 n
+0000186686 00000 n
+0000186907 00000 n
+0000187074 00000 n
+0000187303 00000 n
+0000187499 00000 n
+0000187694 00000 n
+0000187901 00000 n
+0000188093 00000 n
+0000188289 00000 n
+0000188459 00000 n
+0000188620 00000 n
+0000196533 00000 n
+0000201822 00000 n
+0000207469 00000 n
+0000216447 00000 n
+0000221114 00000 n
+0000221375 00000 n
+0000222386 00000 n
+0000222557 00000 n
+0000222634 00000 n
+0000222711 00000 n
+0000222788 00000 n
+0000222865 00000 n
+0000222942 00000 n
+0000223019 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\350\017,\\c\360[\3302o]h\242\001G\236) (\350\017,\\c\360[\3302o]h\242\001G\236)] 
+ [(\253\034\273\243\324H\\\014\001\033\240AR\306\337\321) (\253\034\273\243\324H\\\014\001\033\240AR\306\337\321)] 
 
- /Info 21 0 R
- /Root 20 0 R
- /Size 56 >>
+ /Info 25 0 R
+ /Root 24 0 R
+ /Size 72 >>
 startxref
-194651
+223066
 %%EOF
