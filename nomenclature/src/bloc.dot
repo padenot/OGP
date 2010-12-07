@@ -24,9 +24,9 @@ digraph
 
 	blocX2 -> plancheT0 [label="2 ou 3"]
 	blocX2 -> plancheT2 [label="2"]
-	blocX1 -> kitFixations
+	blocX2 -> kitFixations
 
 	blocX4 -> plancheT0 [label="2 à 4"]
 	blocX4 -> plancheT3 [label="2"]
-	blocX1 -> kitFixations
+	blocX4 -> kitFixations
 }
