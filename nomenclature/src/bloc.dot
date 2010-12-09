@@ -1,32 +1,34 @@
 digraph
 {
+	rankdir=BT
 // Noeuds --------------------------------------------------
 	node[shape=box]
 
 	// Produits finis
-	blocX1 [label="KBLOC1"]
-	blocX2 [label="KBLOC2"]
-	blocX4 [label="KBLOC4"]
+	KBLOC1 //[label="Kit bloc simple"]
+	KBLOC2 //[label="Kit bloc double"]
+	KBLOC4 //[label="Kit bloc quadruple"]
 
 	// Planches
-	plancheT3 [label="PH040x40"]
-	plancheT2 [label="PH040x40"]
-	plancheT1 [label="PH040x40"]
-	plancheT0 [label="PV038x40"]
+	PH160x40 //[label="Planche horizontale 160x40cm"]
+	PH080x40 //[label="Planche horizontale 80x40cm"]
+	PH040x40 //[label="Planche horizontale 40x40cm"]
+	PV038x40 //[label="Planche verticale 38x40cm"]
 
 	// Fixations
-	kitFixations [label="Kit de fixation"]
+	KFIX //[label="Kit de fixation"]
 
 // Arcs --------------------------------------------------
-	blocX1 -> plancheT0 [label="2"]
-	blocX1 -> plancheT1 [label="2"]
-	blocX1 -> kitFixations
+	PV038x40	-> KBLOC1 [label="2"]
+	PH040x40	-> KBLOC1 [label="2"]
+	KFIX		-> KBLOC1
 
-	blocX2 -> plancheT0 [label="2 ou 3"]
-	blocX2 -> plancheT2 [label="2"]
-	blocX2 -> kitFixations
+	PV038x40	-> KBLOC2 [label="2 à 3"]
+	PH080x40	-> KBLOC2 [label="2"]
+	KFIX		-> KBLOC2
 
-	blocX4 -> plancheT0 [label="2 à 4"]
-	blocX4 -> plancheT3 [label="2"]
-	blocX4 -> kitFixations
+	PV038x40	-> KBLOC4 [label="2 à 5"]
+	PH160x40	-> KBLOC4 [label="2"]
+	KFIX		-> KBLOC4
 }
+
