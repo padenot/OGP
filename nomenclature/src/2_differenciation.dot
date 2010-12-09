@@ -1,0 +1,41 @@
+digraph
+{
+	rankdir=BT
+	ranksep=2.0
+// Noeuds --------------------------------------------------
+	node[shape=box]
+
+	// Produits finis
+	KBLOC1 [style=filled,fillcolor=lightblue] //[label="Kit bloc simple"]
+	KBLOC2 [style=filled,fillcolor=lightblue] //[label="Kit bloc double"]
+	KBLOC4 [style=filled,fillcolor=lightblue] //[label="Kit bloc quadruple"]
+
+	// Planches
+	PH160x40 [style=filled,fillcolor=royalblue]//[label="Planche horizontale 160x40cm"]
+	PH080x40 [style=filled,fillcolor=royalblue]//[label="Planche horizontale 80x40cm"]
+	PH040x40 [style=filled,fillcolor=royalblue]//[label="Planche horizontale 40x40cm"]
+	PV038x40 [style=filled,fillcolor=royalblue]//[label="Planche verticale 38x40cm"]
+
+	// Fixations
+	plancheVertEtFix [style=filled,fillcolor=lightblue,shape=ellipse,label="Planche vert. et fixations"]
+	KFIX [style=filled,fillcolor=lightblue]//[label="Kit de fixations"]
+	FIX_1 [style=filled,fillcolor=brown] //[label="Fixation simple (bloc non fixé)"]
+	FIX_2 [style=filled,fillcolor=brown] //[label="Fixation double hauteur (bloc à bloc)"]
+
+// Arcs --------------------------------------------------
+	edge[decorate]
+	KFIX		-> plancheVertEtFix [label="2"]
+	PV038x40	-> plancheVertEtFix
+	FIX_1 -> KFIX [style=dashed,label="2"]
+	FIX_2 -> KFIX [style=dashed,label="2"]
+
+	plancheVertEtFix	-> KBLOC1 [label="2"]
+	PH040x40			-> KBLOC1 [minlen=2,label="2"]
+
+	plancheVertEtFix	-> KBLOC2 [label="2 à 3"]
+	PH080x40			-> KBLOC2 [minlen=2,label="2"]
+
+	plancheVertEtFix	-> KBLOC4 [label="2 à 5"]
+	PH160x40			-> KBLOC4 [minlen=2,label="2"]
+}
+

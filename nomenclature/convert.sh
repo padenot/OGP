@@ -2,7 +2,7 @@
 
 for i in `ls *.svg`
 do
-	inkscape --export-dpi=300 --export-png $i.png  $i
+	inkscape --export-dpi=300 --export-png `basename $i .svg`.png $i
 done
 
-rename 's/svg\.png/png/' *.svg.png
+#rename 's/svg\.png/png/' *.svg.png
