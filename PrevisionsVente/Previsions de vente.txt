@@ -1,0 +1,9 @@
+====================
+Previsions de vente
+====================
+
+On commercialise 3 types de produits, en fonction de la dimmension: le Kit Bloc x1, le Kit Bloc x2 et le Kit Bloc x4. Le premier est le plus petit (1 bloc) et le dernier le plus grand (4 blocs). On envisage que le plus vendu sera le Kit Bloc x1 car il est le plus petit et facile à transporter. Ensuite, pour les deux autres produits le Kit Bloc x4 sera plus vendu que celui de x2 car le Kit Bloc x2 a une dimmension assez particulière (2 blocs). Le public préfère achèter un produit de grande taille plutôt qu'un produit de taille moyenne qui peut laisser de l'éspace non utilisé dans la pièce. En même temps le kit de dimmension x2 peut intéresser les personnes qui possèdent pas beaucoup d'espace d'emplacement (les étudiants, les clients asiatiques). On enregistre le plus des ventes dans les périodes de vacances scolaires (pendant l'été spécialment mais aussi avant Noel) et avant la rentrée scolaire (spécialement pour les Kit Bloc x2 qui peuvent être intéressantes pour les étudiants).
+
+Au niveau des finitions la peinture sera la plus demandée car elle est la moins chère et plus facile à entretenir. Le vernis demande plus de soign et des précautions au moment du transport. Entre le vernis mat et celui brillant le vernis brillant est préféré.
+
+Du point de vue de la matière première utilisée le plastique sera plus demandé que le bois car il est plus légé pour le transport et moins chèr. Cela n'est pas valable pour le Kit Bloc x4 où les clients préfèrent une structure stable en bois. Entre les différents types de bois le chêne est le plus commun et connu donc sera le plus demandé. Les préférences pour le hêtre et le frêne seront partagées également.
