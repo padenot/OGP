@@ -89,15 +89,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="478.98791"
-     inkscape:cy="15.658118"
+     inkscape:cx="413.49873"
+     inkscape:cy="136.22272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1440"
-     inkscape:window-height="857"
+     inkscape:window-width="1366"
+     inkscape:window-height="695"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -119,7 +119,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,14 +185,6 @@
        transform="translate(-240,0)"
        width="1052.3622"
        height="744.09448" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3767"
-       id="use3769"
-       transform="translate(-239.99998,0)"
-       width="1052.3622"
-       height="744.09448" />
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
@@ -225,7 +217,7 @@
          sodipodi:role="line"
          id="tspan3781"
          x="535.01471"
-         y="382.47217">Ponçage</tspan></text>
+         y="382.47217">Perçage</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
@@ -236,18 +228,22 @@
          sodipodi:role="line"
          id="tspan3785"
          x="769.07092"
-         y="382.47217">Nettoyage</tspan></text>
+         y="382.47217">Ponçage</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
        x="765.05829"
-       y="562.47217"
+       y="550.47217"
        id="text3787"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3789"
          x="765.05829"
-         y="562.47217">Vernissage</tspan></text>
+         y="550.47217">Peinture /</tspan><tspan
+         sodipodi:role="line"
+         x="765.05829"
+         y="575.47217"
+         id="tspan3027">vernissage</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
@@ -258,36 +254,18 @@
          sodipodi:role="line"
          id="tspan3793"
          x="537.24121"
-         y="564.42218">Peinture</tspan></text>
+         y="564.42218">Séchage</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="295.44467"
+       x="265.44467"
        y="562.59216"
        id="text3795"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3797"
-         x="295.44467"
-         y="562.59216">Séchage</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="24.858749"
-       y="562.59216"
-       id="text3799"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3801"
-         x="24.858749"
+         x="265.44467"
          y="562.59216">Contrôle qualité</tspan></text>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3769"
-       id="use3803"
-       width="1052.3622"
-       height="744.09448" />
     <path
        style="fill:none;stroke:#000000;stroke-width:5.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Send)"
        d="m 175,69.094482 65,0 10,0"
@@ -330,23 +308,5 @@
        inkscape:connector-curvature="0"
        transform="translate(0,308.2677)"
        sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:5.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Send)"
-       d="m 255,249.09448 -75,0"
-       id="path3821"
-       inkscape:connector-curvature="0"
-       transform="translate(0,308.2677)"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="24.858749"
-       y="562.59216"
-       id="text3771-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3773-7"
-         x="24.858749"
-         y="562.59216">Contrôle qualité</tspan></text>
   </g>
 </svg>
