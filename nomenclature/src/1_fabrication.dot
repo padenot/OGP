@@ -26,13 +26,13 @@ digraph
 	edge[decorate]
 	// Planches
 	mp -> PV038x40
-	finition -> PV038x40 [label="0 ou 1"]
+	finition -> PV038x40 //[label="0 ou 1"]
 	mp -> PH040x40
-	finition -> PH040x40 [label="0 ou 1"]
+	finition -> PH040x40 //[label="0 ou 1"]
 	mp -> PH080x40
-	finition -> PH080x40 [label="0 ou 1"]
+	finition -> PH080x40 //[label="0 ou 1"]
 	mp -> PH160x40
-	finition -> PH160x40 [label="0 ou 1"]
+	finition -> PH160x40 //[label="0 ou 1"]
 
 	// Variantes 
 	VERM50 -> finition [style=dashed]

@@ -41,15 +41,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="857"
+     inkscape:window-width="1680"
+     inkscape:window-height="977"
      id="namedview207"
      showgrid="false"
-     inkscape:zoom="16.34554"
-     inkscape:cx="385.13909"
-     inkscape:cy="413.70394"
+     inkscape:zoom="1.0215963"
+     inkscape:cx="377.80448"
+     inkscape:cy="253.69166"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <polygon
@@ -160,19 +160,6 @@
      id="polygon49"
      style="fill:#000000;stroke:#000000"
      transform="translate(4,422)" />
-  <text
-     x="214.54065"
-     y="91.653259"
-     font-size="14.00"
-     id="text51"
-     style="font-size:14px;text-anchor:middle;font-family:'Times Roman,serif'">0 ou 1</text>
-  <path
-     transform="translate(4,422)"
-     style="fill:none;stroke:#000000"
-     d="m 187.21975,-328.19991 44.01162,10e-6 9.66663,14.3129"
-     id="polyline53"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
   <path
      d="M 157.095,202.404 C 161.965,180.641 170.509,143.561 179,112 184.633,91.062 191.695,67.605 197.184,49.889"
      id="path58"
@@ -183,19 +170,6 @@
      id="polygon60"
      style="fill:#000000;stroke:#000000"
      transform="translate(4,422)" />
-  <text
-     x="151.52614"
-     y="125.4306"
-     font-size="14.00"
-     id="text62"
-     style="font-size:14px;text-anchor:middle;font-family:'Times Roman,serif'">0 ou 1</text>
-  <path
-     transform="matrix(-1,0,0,1,346.66796,422)"
-     style="fill:none;stroke:#000000"
-     d="M 217.64666,-292 175,-292 l -3.72519,-4.03029"
-     id="polyline64"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
   <path
      d="M 147.166,202.57 C 141.396,184.219 132.382,155.224 125,130 117.061,102.875 108.475,71.767 102.5302,49.926"
      id="path69"
@@ -206,19 +180,6 @@
      id="polygon71"
      style="fill:#000000;stroke:#000000"
      transform="translate(4,422)" />
-  <text
-     x="97.387703"
-     y="124.60001"
-     font-size="14.00"
-     id="text73"
-     style="font-size:14px;text-anchor:middle;font-family:'Times Roman,serif'">0 ou 1</text>
-  <path
-     transform="matrix(-1,0,0,1,245.87125,422)"
-     style="fill:none;stroke:#000000"
-     d="M 174.85963,-292 121,-292 l 0.022,0.074"
-     id="polyline75"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
   <path
      d="M 178.101,204.798 C 205.333,187.026 249.889,157.381 287,130 324.21,102.546 365.526,69.022 392.531,46.676"
      id="path80"
@@ -229,19 +190,6 @@
      id="polygon82"
      style="fill:#000000;stroke:#000000"
      transform="translate(4,422)" />
-  <text
-     x="312.11957"
-     y="86.392853"
-     font-size="14.00"
-     id="text84"
-     style="font-size:14px;text-anchor:middle;font-family:'Times Roman,serif'">0 ou 1</text>
-  <path
-     transform="translate(4,422)"
-     style="fill:none;stroke:#000000"
-     d="m 285.62084,-334.23296 43.5355,0.0805 3.53766,3.9137"
-     id="polyline86"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
   <g
      class="node"
      id="node6"
