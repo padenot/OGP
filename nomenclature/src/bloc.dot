@@ -1,6 +1,7 @@
 digraph
 {
 	rankdir=BT
+	ranksep=2.0
 // Noeuds --------------------------------------------------
 	node[shape=box]
 
@@ -19,6 +20,7 @@ digraph
 	KFIX //[label="Kit de fixation"]
 
 // Arcs --------------------------------------------------
+	edge[decorate]
 	PV038x40	-> KBLOC1 [label="2"]
 	PH040x40	-> KBLOC1 [label="2"]
 	KFIX		-> KBLOC1

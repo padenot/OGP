@@ -1,6 +1,7 @@
 digraph
 {
 	rankdir=BT
+	ranksep=2.0
 // Noeuds --------------------------------------------------
 	node[shape=box]
 
@@ -17,28 +18,27 @@ digraph
 	PEINT50 //[label="Peinture"]
 
 	mp [label="Matière première"]
-	PLAST10 //[label="Plastique"]
 	HETRE10 //[label="Hêtre"]
 	FRENE10 //[label="Frêne"]
 	CHENE10 //[label="Chêne"]
 
 // Arcs --------------------------------------------------
+	edge[decorate]
 	// Planches
 	mp -> PV038x40
-	finition -> PV038x40
+	finition -> PV038x40 [label="0 ou 1"]
 	mp -> PH040x40
-	finition -> PH040x40
+	finition -> PH040x40 [label="0 ou 1"]
 	mp -> PH080x40
-	finition -> PH080x40
+	finition -> PH080x40 [label="0 ou 1"]
 	mp -> PH160x40
-	finition -> PH160x40
+	finition -> PH160x40 [label="0 ou 1"]
 
 	// Variantes 
 	VERM50 -> finition [style=dashed]
 	VERB50 -> finition [style=dashed]
 	PEINT50 -> finition [style=dashed]
 
-	PLAST10 -> mp [style=dashed]
 	HETRE10 -> mp [style=dashed]
 	FRENE10 -> mp [style=dashed]
 	CHENE10 -> mp [style=dashed]

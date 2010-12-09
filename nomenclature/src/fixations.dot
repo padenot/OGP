@@ -1,6 +1,7 @@
 digraph
 {
 	rankdir=BT
+	ranksep=2.0
 // Noeuds --------------------------------------------------
 	node[shape=box]
 
@@ -19,6 +20,7 @@ digraph
 	FIX_A_ES //[label="Fixations appoint esthétiques"]
 
 // Arcs --------------------------------------------------
+	edge[decorate]
 	// Kit
 	fixationsAppoint -> KFIX [label=">= 2"]
 	fixationsStructure -> KFIX [label=">= 0"]
