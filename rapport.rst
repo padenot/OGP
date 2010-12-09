@@ -1,5 +1,8 @@
 ===================================================================
 Organisation et gestion de production
+===================================================================
+
+===================================================================
 Étude de l'extension de la gamme de produits de l'entreprise Picaso
 ===================================================================
 
@@ -17,7 +20,19 @@ Dossier marketing
 Description du produit
 ======================
 
-Delayed, puisqu'il ne faut rendre le rapport que 8 jours après la présentation.
+Jazz est un produit innovant, basé sur un concept simple. Chaque personne est
+différente, habite un endroit différent, a des goûts différents.
+
+Pourquoi chacun n'aurais-t-il pas le droit de concevoir son meuble comme il le
+désire, avec les couleurs et les finition qu'il préfère ? De plus, doit-on se
+résoudre à un intérieur figé, alors que de nos jours, nous pouvons nous
+permettre de déplacer les meuble sans effort, grâce à la sustentation magnétique
+?
+
+Comme le genre musical du même nom, notre produit se veut changeant. Comme le
+jazz, il peut être aussi simple ou aussi complexe que vous voulez.
+
+
 
 Choix des matériaux et des finitions possibles
 ==============================================
