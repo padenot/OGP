@@ -1,44 +1,46 @@
 digraph
 {
+	rankdir=BT
+	ranksep=2.0
 // Noeuds --------------------------------------------------
 	node[shape=box]
 
 	// Planches
-	plancheT3 [label="Planche horiz. 160x40cm"]
-	plancheT2 [label="Planche horiz. 80x40cm"]
-	plancheT1 [label="Planche horiz. 40x40cm"]
-	plancheT0 [label="Planche vert. 38x40cm"]
+	PH160x40 //[label="Planche horizontale 160x40cm"]
+	PH080x40 //[label="Planche horizontale 80x40cm"]
+	PH040x40 //[label="Planche horizontale 40x40cm"]
+	PV038x40 //[label="Planche verticale 38x40cm"]
 
 	// Variantes
 	finition [label="Finition"]
-	vernisMat [label="Vernis mat"]
-	vernisBrillant [label="Vernis brillant"]
-	peinture [label="Peinture"]
+	VERM50 //[label="Vernis mat"]
+	VERB50 //[label="Vernis brillant"]
+	PEINT50 //[label="Peinture"]
 
 	mp [label="Matière première"]
-	mpPlastique [label="Plastique"]
-	mpHetre [label="Hêtre"]
-	mpFrene [label="Frêne"]
-	mpChene [label="Chêne"]
+	HETRE10 //[label="Hêtre"]
+	FRENE10 //[label="Frêne"]
+	CHENE10 //[label="Chêne"]
 
 // Arcs --------------------------------------------------
+	edge[decorate]
 	// Planches
-	plancheT0 -> mp
-	plancheT0 -> finition
-	plancheT1 -> mp
-	plancheT1 -> finition
-	plancheT2 -> mp
-	plancheT2 -> finition
-	plancheT3 -> mp
-	plancheT3 -> finition
+	mp -> PV038x40
+	finition -> PV038x40 [label="0 ou 1"]
+	mp -> PH040x40
+	finition -> PH040x40 [label="0 ou 1"]
+	mp -> PH080x40
+	finition -> PH080x40 [label="0 ou 1"]
+	mp -> PH160x40
+	finition -> PH160x40 [label="0 ou 1"]
 
 	// Variantes 
-	finition -> vernisMat [style=dashed]
-	finition -> vernisBrillant [style=dashed]
-	finition -> peinture [style=dashed]
+	VERM50 -> finition [style=dashed]
+	VERB50 -> finition [style=dashed]
+	PEINT50 -> finition [style=dashed]
 
-	mp -> mpPlastique [style=dashed]
-	mp -> mpHetre [style=dashed]
-	mp -> mpFrene [style=dashed]
-	mp -> mpChene [style=dashed]
+	HETRE10 -> mp [style=dashed]
+	FRENE10 -> mp [style=dashed]
+	CHENE10 -> mp [style=dashed]
 }
+
