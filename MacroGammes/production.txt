@@ -1,0 +1,39 @@
+Estimation : environ  100 000 € par machine
+
+La perceuse : Zenith MORBIDELLI ( ~ 200 planches / 8h ) 1 personne / machine
+http://www.scmgroup-usa.com/prod-Zenith-111.aspx?
+
+Sculpture 3D : R200 Robot ROUTECH ( ~ 200 planches / 8h ) 1 personne / machine
+http://www.scmgroup-usa.com/prod-R200_Robot-74.aspx?
+
+La ponceuse : Linee Unisand K DMC ( ~ 1000 planches / 8h ) 1 superviseur / machine
+http://www.scmgroup-usa.com/prod-Linee_Unisand_K-81.aspx?
+
+La ponceuse de côté (chanfrain) : Solution Evolution STEFANI ( ~ 500 planches / 8h ) 1 superviseur / machine
+http://www.scmgroup-usa.com/prod-Solution_Evolution-96.aspx?
+
+La raboteuse : S 6300 L'invincable SCM ( ~ 200 planches / 8h ) 1 superviseur / machine
+http://www.scmgroup-usa.com/prod-S_6300_L_invincable-36.aspx?
+
+La scieuse : SI 6000 L'invincable Table Saw SCM ( ~ 200 planches / 8h ) 2 superviseur / machine
+http://www.scmgroup-usa.com/prod-SI_6000_L_invincable_Table_Saw-19.aspx?
+
+
+Production annuel :
+
+6600 / 365 ~ 20 kits par jour -> ~ 80 planches par jour -> ~ 30 planches / tranches de 8h
+
+Actuellement, nous avons une capacité de production de 2000 planches par tranches de 8h.
+Une partie de cette capacité sera dédié à la production de planches pour nos kits.
+( réduction de l'ancienne production -> pas besoin d'acheter de nouvelles machines, ou d'embaucher du personnel )
+
+L'equipement actuelle est donc de :
+
+10 perceuses Zenith MORBIDELLI -> 10 personnes / 8h
+10 Sculpteuses 3D : R200 Robot ROUTECH -> 10 personnes / 8h
+2 ponceuses Linee Unisand K DMC -> 2 personnes / 8h
+4 ponceuses de côté (chanfrain) Solution Evolution STEFANI -> 4 personnes / 8h
+10 raboteuses S 6300 L'invincable SCM -> 10 personnes / 8h
+10 scieuses : SI 6000 L'invincable Table Saw SCM -> 20 personnes / 8h
+
+Soit un total humain de 56 personnes / 8h
