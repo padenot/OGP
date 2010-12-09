@@ -21,8 +21,9 @@ L'equipement actuel est donc de :
 4 ponceuses de côté (chanfrain) Solution Evolution STEFANI -> 4 personnes / 8h
 10 raboteuses S 6300 L'invincable SCM -> 10 personnes / 8h
 10 scieuses : SI 6000 L'invincable Table Saw SCM -> 20 personnes / 8h
+20 Tunnels de finition et de sechage : CEFLA CATTINAIR BARBERAN mm 1300 -> 20 personnes / 8h
 
-Soit un total humain de 56 personnes / 8h
+Soit un total humain de 76 personnes / 8h
 
 
 Postes de charge
@@ -73,5 +74,13 @@ Rabotage
 * Outil : La raboteuse
 * Modèle : S 6300 L'invincable SCM (http://www.scmgroup-usa.com/prod-S_6300_L_invincable-36.aspx)
 * Capacité : ~ 200 planches / 8h
+* Effectif requis : 1 superviseur
+* Description : TODO
+
+Finition
+--------
+* Outil : Tunnel de finition et de sechage
+* Modèle : CEFLA CATTINAIR BARBERAN mm 1300 (http://www.sofitnet.it/fra/scheda/MZ0122/ligne-de-vernissage-cefla-cattinair-barberan-mm-1300)
+* Capacité : ~ 100 planches / 8h
 * Effectif requis : 1 superviseur
 * Description : TODO
