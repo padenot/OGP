@@ -59,7 +59,7 @@ Sculpture
 * Outil : Sculpteuse 3D
 * Modèle : R200 Robot ROUTECH (http://www.scmgroup-usa.com/prod-R200_Robot-74.aspx)
 * Capacité : ~ 200 planches / 8h
-* Effectif reques : 1 opérateur
+* Effectif requis : 1 opérateur
 * Application à Jazz : Non
 * Description :
     Scrulpture de décorations sur d'autres modèles de meubles. Non utilisé pour Jazz.
@@ -102,3 +102,9 @@ Finition
 * Effectif requis : 1 superviseur
 * Description :
     Application du vernie, et des finitions, puis séchage.
+
+Evolution necessaire
+====================
+Afin d'éviter toute modification des effectifs humain et machines, l'idéal est de diminuer la production actuelle pour la remplacer des la production des produits Jazz.
+Ainsi, un minimum de coût supplémentaire est demandé, et si la production actuelle, est bien calibré, la nouvelle production le sera puisque l'occupation des postes de charges est à peu de chose près la même.
+
