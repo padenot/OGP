@@ -1,24 +1,24 @@
-===================================================================
+=====================================
 Organisation et gestion de production
-===================================================================
+=====================================
 
-===================================================================
 Étude de l'extension de la gamme de produits de l'entreprise Picaso
-===================================================================
+###################################################################
 
-============
+.. contents:: Table des matières
+
+
 Introduction
 ============
 Nous sommes en 2040 et la surpopulation a conduit l'être humain à exploiter tout l'espace nécessaire. En même temps que la densité de population augmentait, la taille des appartement diminuait. La technologie quant à elle a continué d'évoluer et la découverte de nouveaux procédés de fabrication a rendu certains produits comme les blocs de sustentation magnétique très bon marché. Cependant, avec la hausse de prix du pétrole, le plastique est devenue une matière première de luxe et nous assistons à un retour à des matériaux comme le bois.
 
 L'entreprise Picaso, débuta son activité après l'ouverture d'une nouvelle usine en 1996, et son activité principale était la fabrication de bibliothèque en bois. Après un 10 ans de succès modéré, l'entreprise a cessé de lancer de nouvelles gammes de produits. Cependant avec le retour en force des meubles en bois, la société a vu ses venter remonter en flèche au début des années 2030 et c'est pourquoi elle souhaite aujourd'hui combiner des compétences vieilles d'un demi siècle dans le traitement et l'usinage du bois, avec des technologies sûres, fonctionnelles, et abordables.
 
-=================
 Dossier marketing
 =================
 
 Description du produit
-======================
+----------------------
 
 Jazz est un produit innovant, basé sur un concept simple. Chaque personne est
 différente, habite un endroit différent, a des goûts différents.
@@ -35,7 +35,7 @@ jazz, il peut être aussi simple ou aussi complexe que vous voulez.
 
 
 Choix des matériaux et des finitions possibles
-==============================================
+----------------------------------------------
 
 Nous proposons trois essences de bois : chêne, hêtre et frêne. Les couleurs
 possibles sont (en notation Pantone) pétrole (bleu), pomme (vert) et ivoire
@@ -43,17 +43,17 @@ possibles sont (en notation Pantone) pétrole (bleu), pomme (vert) et ivoire
 bois, en mat ou brillant.
 
 Gamme de prix
-=============
+-------------
 
 Un kit bloc 1 est disponible à 47€, un kit bloc 2 à 130€, et enfin, le kit bloc
 3 est disponible à partir de 220€. 
 
 
 Stratégie et plan marketing
-===========================
+---------------------------
 
 Cible du produit
-----------------
+````````````````
 Nos produits sont destinés à une classe de population moyenne, aimant la technologie, 
 qui cherche des produits innovants, avec une apparence plaisante et surtout 
 avec une grande mobilité. En effet, le procédé de sustentation magnétique permet
@@ -71,7 +71,7 @@ Ces produits pourront intéresser plusieurs catégories de personnes:
 - Les personnes aimant avoir un intérieur à la pointe de la technologie, innovant, et en même temps très ergonomique.
 
 Étude concurrentielle
----------------------
+`````````````````````
 
 Étant donné que l'entreprise Picaso est implanté sur le marché depuis une grande période de temps, elle a acquis un avantage concurrentiel par
 rapport aux entreprises concurrentes. Pourtant, la concurrence reste active. Sur le marché de la meuble il y a un grand nombre d'entreprises
@@ -81,7 +81,7 @@ commercialisent des meubles à la base de sustentation magnétique. Notre succè
 De plus, notre entreprise ayant adopté une politique écologique, tous nos produits respectent les normes en vigueur. En effet, le recyclage est pris en compte dans le cycle de vie du produit. Les arbres sont bien évidemment replantés.
 
 Prévisions de vente
--------------------
+```````````````````
 Nous commercialisons 3 types de produits, que l'on distingue en fonction de leur dimensions. Sous forme de meuble en kit à monter soit même, les kits contiennent un, deux ou trois bloc standards. Nous envisageons que le plus vendu sera le Kit Bloc x1 car il est le plus petit et facile à transporter. Ensuite, la préférence se fera au Kit Bloc x4, suivi du Kit Bloc x2. Celui-ci a une dimension assez particulière (2 blocs). Le public préfèrera acheter un produit de grande taille plutôt qu'un produit de taille moyenne qui peut laisser de l'espace non utilisé dans la pièce. En même temps le kit de dimension x2 peut intéresser les personnes qui ne possèdent pas beaucoup d'espace d'espace, comme les étudiants, les personnes vivant dans des endroit où la surface habitable est chère. Nous enregistrons une augmentation des ventes dans les périodes de vacances scolaires (pendant l'été spécialement mais aussi avant Noël) et avant la rentrée scolaire (spécialement pour les Kit Bloc x2 qui peuvent être intéressantes pour les étudiants). 
 
 Au niveau des finitions la peinture sera la plus demandée car elle est la moins chère et plus facile à entretenir. Le vernis demande plus de soin et des précautions au moment du transport. Entre les vernis mats et brillants, après avoir effectué plusieurs études, nous avons remarqués que le vernis mat correspond beaucoup plus à la tendance actuelle.
@@ -89,7 +89,7 @@ Au niveau des finitions la peinture sera la plus demandée car elle est la moins
 Du point de vue de la matière première utilisée le chêne est le plus commun et connu donc sera le plus demandé. Les préférences pour le hêtre et le frêne seront partagées également.
 
 L'entreprise Picaso
-===================
+-------------------
 
 L'entreprise Picaso, fort d'une longue expérience dans la fabrication de meuble
 (depuis 1990), est gage de qualité. Dans l'optique de conserver l'image de
@@ -100,10 +100,10 @@ lignes, les tendances que l'on trouve dans les autres gammes, afin d'augmenter
 la cohérence globale de la marque, et de ne pas perdre le consommateur.
 
 La distribution
-===============
+---------------
 
 Moyen de distribution
----------------------
+`````````````````````
 
 Aujourd'hui, 85% des recherches d'un produit commençant sur internet, il est nécessaire que la gamme 
 de produits Jazz dispose d'une page internet afin d'être promu. 
@@ -203,15 +203,14 @@ Le schéma suivant permet de résumer le processus d'une commande client.
 .. image:: processAcheminement.png
 
 
-====================
 Dossier des méthodes
 ====================
 
 Postes de charge
-================
+----------------
 
 Formation des kits blocs (KBLOC1, KBLOC2, KBLOC4)
--------------------------------------------------
+`````````````````````````````````````````````````
 
 +----------------------------+------------------+
 | Poste de charge            | Charge (heures)  |
@@ -222,7 +221,7 @@ Formation des kits blocs (KBLOC1, KBLOC2, KBLOC4)
 +----------------------------+------------------+
 
 Formation des kits fixations (KFIX)
------------------------------------
+```````````````````````````````````
 
 +----------------------------------+------------------+
 | Poste de charge                  | Charge (heures)  |
@@ -233,7 +232,7 @@ Formation des kits fixations (KFIX)
 +----------------------------------+------------------+
 
 Production des éléments standards (PH040x40, PH080x40 PH160x40, PV038x40)
--------------------------------------------------------------------------
+`````````````````````````````````````````````````````````````````````````
 
 +----------------------------+------------------+
 | Poste de charge            | Charge (heures)  |
@@ -246,7 +245,7 @@ Production des éléments standards (PH040x40, PH080x40 PH160x40, PV038x40)
 +----------------------------+------------------+
 
 Dénomination des articles
-=========================
+-------------------------
 
 Les articles dans le tableau ci-dessous sont ceux gérés par l'entreprise.
 Dans la colonne type, F signifie fabriqué, A signifie acheté.
@@ -292,7 +291,7 @@ signifie matière première.
 
 
 Nomenclatures
-=============
+-------------
 .. image:: nomenclature/1_fabrication.png
 .. image:: nomenclature/2_differenciation.png
 
@@ -364,7 +363,7 @@ Sous forme de tableau :
 
 
 Approvisionnement
-=================
+-----------------
 
 Les matières premières sont gérées en MRP0, car ceci permet de déterminer
 les besoins à partir des demandes en produit finis, et des approvisionnements
@@ -382,16 +381,16 @@ L'expédition se fait en Kanban, mais nous n'avons qu'un seul poste.
 
 
 Production annuelle
-===================
+-------------------
 La production annuelle est de 6600 kits par an. Cela fait donc environ 20 kits
 par jour, donc un besoin de 80 planches par jour.
 
 Production actuelle
-===================
+-------------------
 Actuellement, nous avons une capacité de production de 2000 planches par tranches de 8h.
 Une partie de cette capacité sera dédié à la production de planches pour nos kits.
 (L'ancienne production sera réduite, permettant d'éviter d'avoir à acheter de
- nouvelles machines, ou d'embaucher du personnel).
+nouvelles machines, ou d'embaucher du personnel).
 
 L'équipement actuel est donc de :
 
@@ -406,12 +405,13 @@ L'équipement actuel est donc de :
 Soit un total humain de 76 personnes / 8h
 
 Nouvelles machines
-==================
+------------------
 
 Découpe
--------
+```````
 * Outil : Scieuse
-* Modèle : SI 6000 L'invincable Table Saw SCM (http://www.scmgroup-usa.com/prod-SI_6000_L_invincable_Table_Saw-19.aspx)
+* Modèle : SI 6000 L'invincable Table Saw SCM 
+    (http://www.scmgroup-usa.com/prod-SI_6000_L_invincable_Table_Saw-19.aspx)
 * Capacité : ~ 200 planches / 8h
 * Effectif requis : 2 superviseurs
 * Application à Jazz : PH160x40, PH080x40, PH040x40, PV038x40
@@ -419,9 +419,10 @@ Découpe
     Découpe des planches HETRE10, CHENE10, FRENE10 (2x2m) en planches de format 38x40, 40x40, 80x40 ou 160x40cm, selon le produit standard cible.
 
 Perçage
--------
+```````
 * Outil : Perceuse
-* Modèle : Zenith MORBIDELLI (http://www.scmgroup-usa.com/prod-Zenith-111.aspx)
+* Modèle : Zenith MORBIDELLI 
+    (http://www.scmgroup-usa.com/prod-Zenith-111.aspx)
 * Capacité : ~200 planches / 8h
 * Effectif requis : 1 opérateur
 * Application à Jazz : PH160x40, PH080x40, PH040x40, PV038x40
@@ -434,9 +435,10 @@ Perçage
 
 
 Sculpture / Gravure
--------------------
+```````````````````
 * Outil : Sculpteuse 3D
-* Modèle : R200 Robot ROUTECH (http://www.scmgroup-usa.com/prod-R200_Robot-74.aspx)
+* Modèle : R200 Robot ROUTECH 
+    (http://www.scmgroup-usa.com/prod-R200_Robot-74.aspx)
 * Capacité : ~ 200 planches / 8h
 * Effectif requis : 1 opérateur
 * Application à Jazz : Non
@@ -444,9 +446,10 @@ Sculpture / Gravure
     Scrulpture de décorations sur d'autres modèles de meubles. Non utilisé pour Jazz.
 
 Ponçage
--------
+```````
 * Outil : Ponceuse
-* Modèle : Linee Unisand K DMC (http://www.scmgroup-usa.com/prod-Linee_Unisand_K-81.aspx)
+* Modèle : Linee Unisand K DMC 
+    (http://www.scmgroup-usa.com/prod-Linee_Unisand_K-81.aspx)
 * Capacité : ~ 1000 planches / 8h
 * Effectif requis : 1 superviseur
 * Application à Jazz : PH160x40, PH080x40, PH040x40, PV038x40
@@ -454,9 +457,10 @@ Ponçage
     Ponçage des planches, fournies brutes.
 
 Chanfreinage
-------------
+````````````
 * Outil : Chanfreineuse
-* Modèle : Solution Evolution STEFANI (http://www.scmgroup-usa.com/prod-Solution_Evolution-96.aspx)
+* Modèle : Solution Evolution STEFANI 
+    (http://www.scmgroup-usa.com/prod-Solution_Evolution-96.aspx)
 * Capacité : 500 planches / 8h
 * Effectif requis : 1 superviseur
 * Application à Jazz : PH160x40, PH080x40, PH040x40 
@@ -464,9 +468,10 @@ Chanfreinage
     Chanfreinage des bords destinés à être apparents (à l'extérieur des blocs).
 
 Rabotage
-----------
+``````````
 * Outil : Raboteuse
-* Modèle : S 6300 L'invincable SCM (http://www.scmgroup-usa.com/prod-S_6300_L_invincable-36.aspx)
+* Modèle : S 6300 L'invincable SCM 
+    (http://www.scmgroup-usa.com/prod-S_6300_L_invincable-36.aspx)
 * Capacité : ~ 200 planches / 8h
 * Effectif requis : 1 superviseur
 * Application à Jazz : Non
@@ -474,25 +479,85 @@ Rabotage
     Rabotage en vue d'augmenter la rectitude de la planche. Non utilisé pour Jazz.
 
 Finition
---------
+````````
 * Outil : Tunnel de finition et de sechage
-* Modèle : CEFLA CATTINAIR BARBERAN mm 1300 (http://www.sofitnet.it/fra/scheda/MZ0122/ligne-de-vernissage-cefla-cattinair-barberan-mm-1300)
+* Modèle : CEFLA CATTINAIR BARBERAN mm 1300
+    (http://www.sofitnet.it/fra/scheda/MZ0122/ligne-de-vernissage-cefla-cattinair-barberan-mm-1300)
 * Capacité : ~ 100 planches / 8h
 * Effectif requis : 1 superviseur
 * Description :
     Application du vernie, et des finitions, puis séchage.
 
 Estimation
-==========
-Environ 100 000 € par machine
+----------
+L'estimation des coûts s'élève à environ 100 000€ par machine.
 
 
 Évolution nécessaire
-====================
+--------------------
 Afin d'éviter toute modification des effectifs humain et machines, l'idéal est de diminuer la production actuelle pour la remplacer des la production des produits Jazz.
 Ainsi, un minimum de coût supplémentaire est demandé, et si la production actuelle, est bien calibré, la nouvelle production le sera puisque l'occupation des postes de charges est à peu de chose près la même.
 
 
 Planification des charges
-==========================
+-------------------------
 
+Rapports charge/capacité
+````````````````````````
+Assemblage
+
+.. image:: charges/charge2/AtelierAssemblage.bmp
+
+Assemblage sous ensemble
+
+.. image:: charges/charge2/AtelierAssemblageSousEnsemble.bmp
+
+Chanfreinage
+
+.. image:: charges/charge2/AtelierChanfreinag.bmp
+
+Contrôle qualité
+
+.. image:: charges/charge2/AtelierControleQualite.bmp
+
+Découpe
+
+.. image:: charges/charge2/AtelierDecoupe.bmp
+
+Finition
+
+.. image:: charges/charge2/AtelierPeintureHuileVernis.bmp
+
+Perçage
+
+.. image:: charges/charge2/AtelierPercage.bmp
+
+Ponçage
+
+.. image:: charges/charge2/AtelierPoncage.bmp
+
+Rabotage
+
+.. image:: charges/charge2/AtelierRabotage.bmp
+
+Séchage
+
+.. image:: charges/charge2/AteliersECHAGE.bmp
+
+Usinage
+
+.. image:: charges/charge2/AtelierUsinage.bmp
+
+
+On observe sur les diagrammes, que hormis pour l'usinage, les charge de travail ne correspondent pas aux capacités de travail.
+
+Pour l'assemblage, la charge de travail est constante tout au long de l'année. La capacité de travail étant environ 10 fois supérieur, il est intéressant de passer d'un planning en 3/8 à un planning en 1/8.
+La capacité de travail sera 3 à 4 fois supérieur à la charge de travail. Il est alors possible de réduire les effectifs en hommes et en machines pour ajuster parfaitement la charge.
+Si plus tard la décision est d'augmenter la charge de travail sur se poste là, il y aura toujours la possibilité de passer en 2/8 ou en 3/8.
+
+Pour le chanfreinage, le processus est le même. Pour la charge anormale sur le premier mois, il est inutile d'investir dans une capacité de travail à long terme.
+Le choix le plus judicieux sera de faire appel à une société externe afin de lisser au mieux la charge de travail.
+
+Pour le découpage, en revanche, la capacité de travail est inférieur à la charge de travail.
+Il faudra donc investir pour augmenter les effectifs en hommes et en machines.
+Les postes de découpes sont des petits postes, avec une faible capacité de travail comparativement aux autres postes, donc l'ajustement se fera facilement.
